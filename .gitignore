@@ -1,0 +1,11 @@
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+Gemfile.lock
+*.swp
+*~
+qianwang.space.wordpress.xml
+convert_wxr.py
+extract_pages.py
+extract_posts.py
