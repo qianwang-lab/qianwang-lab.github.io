@@ -1,0 +1,53 @@
+title: "Qian WANG | 王 乾"
+email: qianwang.sh@gmail.com
+description: "Exploring in Medical Imaging and Informatics"
+url: "https://qianwang-lab.github.io"
+baseurl: ""
+locale: "en-US"
+
+permalink: /:year/:month/:day/:title/
+
+remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+collections:
+  people:
+    output: true
+    permalink: /:collection/:name/
+  publications:
+    output: false
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+  - scope:
+      path: ""
+      type: people
+    values:
+      layout: single
+      author_profile: false
+
+# Minimal Mistakes theme settings
+skin: default
+search: false
+
+# Include _pages directory
+include:
+  - _pages

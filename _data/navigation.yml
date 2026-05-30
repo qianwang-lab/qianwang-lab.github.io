@@ -1,0 +1,11 @@
+main:
+  - title: "Biography"
+    url: /biography/
+  - title: "Research"
+    url: /research/
+  - title: "Publication"
+    url: /publication/
+  - title: "Team"
+    url: /team/
+  - title: "Recruitment"
+    url: /recruitment/
