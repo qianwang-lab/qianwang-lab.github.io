@@ -9,3 +9,6 @@ qianwang.space.wordpress.xml
 convert_wxr.py
 extract_pages.py
 extract_posts.py
+# Bundler vendor directory (local gems)
+vendor/bundle/
+.bundle/
