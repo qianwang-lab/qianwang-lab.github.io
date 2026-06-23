@@ -1,16 +1,19 @@
 ---
-title: "Research"
+title: ""
 permalink: /research/
-layout: single
-author_profile: false
+layout: page
 ---
 
-Our research focuses on the integration of machine learning and artificial intelligence with medical image computing and informatics. Key research areas include:
+<p style="font-size: 1.05rem; line-height: 1.7; max-width: 800px; margin: 0 auto 2.5rem; text-align: center;">
+  Our research focuses on the integration of machine learning and artificial intelligence with medical image computing and informatics, advancing smart diagnosis, personalized therapy, and translational medical research.
+</p>
 
-- **Medical Image Reconstruction** — Accelerating MRI acquisition via multi-modal reconstruction, motion correction, and sparse sampling
-- **Medical Image Registration** — Deformable registration for longitudinal and cross-sectional brain imaging, infant brain development
-- **Computer-Aided Diagnosis** — Deep learning for disease screening (cervical cancer, knee osteoarthritis, Parkinson's disease, glioma)
-- **Medical Image Synthesis** — Cross-modality synthesis (MR-to-CT, PET synthesis) and image enhancement
-- **Gaze-Guided Learning** — Using radiologist eye gaze as supervision for deep learning in medical imaging
-
-See our latest work in the [Publication](/publication/) section.
+<div class="row justify-content-center">
+  <div class="col-lg-6 col-md-8 mb-4">
+    <a href="/research/visioncad/" class="miil-research-card d-block">
+      <div class="icon">🏥</div>
+      <h3>VisionCAD</h3>
+      <p>An integration-free radiology copilot framework for AI-assisted diagnosis</p>
+    </a>
+  </div>
+</div>

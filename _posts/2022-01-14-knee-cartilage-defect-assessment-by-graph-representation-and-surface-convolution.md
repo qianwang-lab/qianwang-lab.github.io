@@ -1,7 +1,7 @@
 ---
 title: "Knee Cartilage Defect Assessment by Graph Representation and Surface Convolution"
 date: 2022-01-14 18:20:34
-layout: single
+layout: post
 author_profile: false
 read_time: true
 ---

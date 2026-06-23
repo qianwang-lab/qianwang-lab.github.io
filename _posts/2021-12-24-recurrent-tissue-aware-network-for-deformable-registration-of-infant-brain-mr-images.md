@@ -1,7 +1,7 @@
 ---
 title: "Recurrent Tissue-Aware Network for Deformable Registration of Infant Brain MR Images"
 date: 2021-12-24 17:10:35
-layout: single
+layout: post
 author_profile: false
 read_time: true
 ---

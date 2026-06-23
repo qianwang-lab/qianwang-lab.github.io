@@ -1,7 +1,7 @@
 ---
 title: "Multi-Modal MRI Reconstruction Assisted with Spatial Alignment Network"
 date: 2021-08-21 08:49:46
-layout: single
+layout: post
 author_profile: false
 read_time: true
 ---

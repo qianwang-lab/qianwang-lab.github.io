@@ -1,7 +1,7 @@
 ---
 title: "Students Supervised"
-permalink: /students-supervised/
-layout: single
+permalink: /students-supervised-old/
+layout: page
 author_profile: false
 ---
 

@@ -1,22 +1,37 @@
-title: "Qian WANG | 王 乾"
+title: MIIL
+title-img: "/assets/images/uploads/logo.png"
+author: Qian Wang
 email: qianwang.sh@gmail.com
-description: "Exploring in Medical Imaging and Informatics"
+description: "Medical Imaging and Informatics Laboratory — ShanghaiTech University"
 url: "https://qianwang-lab.github.io"
 baseurl: ""
 locale: "en-US"
 
-permalink: /:year/:month/:day/:title/
-
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "daattali/beautiful-jekyll"
 
 plugins:
   - jekyll-remote-theme
-  - jekyll-include-cache
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
 
+navbar-links:
+  Home: /
+  Team: /team/
+  Research: /research/
+  Publication: /publication/
+
+social-network-links:
+  email: qianwang.sh@gmail.com
+  github: qianwang-lab
+
+avatar: "/assets/images/uploads/avatar.png"
+round-avatar: true
+
 collections:
+  research:
+    output: true
+    permalink: /research/:name/
   people:
     output: true
     permalink: /:collection/:name/
@@ -28,26 +43,34 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
-      author_profile: false
+      layout: page
   - scope:
       path: ""
       type: posts
     values:
-      layout: single
-      author_profile: false
+      layout: post
       read_time: true
   - scope:
       path: ""
-      type: people
+      type: research
     values:
-      layout: single
-      author_profile: false
+      layout: page
 
-# Minimal Mistakes theme settings
-skin: default
-search: false
+# Beautiful Jekyll color settings
+navbar-col: "#8C1820"
+navbar-text-col: "#F5F0EB"
+navbar-border-col: "#A31D23"
+page-col: "#FFFFFF"
+text-col: "#404040"
+link-col: "#B51F24"
+hover-col: "#C8A45C"
+footer-col: "#8C1820"
+footer-text-col: "#D4CBC0"
+footer-link-col: "#C8A45C"
 
-# Include _pages directory
+# Custom CSS for gradient+vibrant style
+site-css:
+  - "/assets/css/style.css"
+
 include:
   - _pages

@@ -1,0 +1,659 @@
+/* ============================================================
+   MIIL — ShanghaiTech-Themed Custom Styles
+   ============================================================ */
+
+/* --- Google Font import --- */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+/* --- CSS Variables --- */
+:root {
+  /* Primary: ShanghaiTech Red */
+  --miil-primary: #B51F24;
+  --miil-primary-dark: #8C1820;
+  --miil-primary-deep: #5E1016;
+  --miil-primary-light: #D4323A;
+
+  /* Secondary: ShanghaiTech Gold */
+  --miil-gold: #C8A45C;
+  --miil-gold-light: #DABB7A;
+  --miil-gold-subtle: rgba(200, 164, 92, 0.15);
+
+  /* Neutrals */
+  --miil-slate: #2D3A4A;
+  --miil-slate-light: #4A5568;
+  --miil-text: #3D3D3D;
+  --miil-text-light: #666666;
+  --miil-bg-warm: #FBF8F4;
+  --miil-border: #E8E2DA;
+  --miil-white: #FFFFFF;
+
+  /* Derived */
+  --miil-gradient: linear-gradient(135deg, var(--miil-primary-dark) 0%, var(--miil-primary) 50%, var(--miil-primary-light) 100%);
+  --miil-gradient-hero: linear-gradient(135deg, var(--miil-primary-deep) 0%, var(--miil-primary-dark) 40%, #6E1420 70%, var(--miil-primary-deep) 100%);
+  --miil-gradient-card: linear-gradient(135deg, var(--miil-primary) 0%, var(--miil-primary-light) 100%);
+  --miil-gradient-gold: linear-gradient(135deg, var(--miil-gold) 0%, var(--miil-gold-light) 100%);
+  --miil-shadow: 0 4px 20px rgba(0,0,0,0.06);
+  --miil-shadow-hover: 0 8px 30px rgba(45,58,74,0.12);
+  --miil-shadow-primary: 0 8px 30px rgba(181,31,36,0.15);
+  --miil-radius: 10px;
+  --miil-font: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+}
+
+/* --- Global resets / typography --- */
+body {
+  font-family: var(--miil-font);
+  color: var(--miil-text);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--miil-font);
+  font-weight: 700;
+  color: var(--miil-slate);
+}
+
+a {
+  color: var(--miil-primary);
+  transition: color 0.2s;
+}
+a:hover {
+  color: var(--miil-gold);
+}
+
+/* --- Navbar tweaks --- */
+.navbar {
+  font-family: var(--miil-font);
+  box-shadow: 0 2px 10px rgba(0,0,0,0.12);
+}
+.navbar .navbar-brand {
+  font-weight: 800;
+  font-size: 1.4rem;
+  letter-spacing: 1px;
+}
+/* Navbar logo image */
+.navbar .navbar-brand img {
+  height: 28px;
+  width: auto;
+  vertical-align: middle;
+}
+.navbar .nav-link {
+  font-weight: 500;
+  transition: color 0.2s;
+}
+
+/* --- Hero section (homepage) --- */
+.miil-hero {
+  background: var(--miil-gradient-hero);
+  color: #fff;
+  text-align: center;
+  padding: 4rem 2rem 3rem;
+  position: relative;
+  overflow: hidden;
+}
+.miil-hero::before {
+  content: '';
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: radial-gradient(circle at 30% 40%, rgba(200,164,92,0.12) 0%, transparent 50%),
+              radial-gradient(circle at 70% 60%, rgba(181,31,36,0.15) 0%, transparent 50%);
+  animation: heroFloat 15s ease-in-out infinite;
+}
+@keyframes heroFloat {
+  0%, 100% { transform: translate(0, 0); }
+  50% { transform: translate(-2%, 2%); }
+}
+.miil-hero h1 {
+  font-size: 2.8rem;
+  font-weight: 800;
+  letter-spacing: 4px;
+  margin-bottom: 0.5rem;
+  position: relative;
+  z-index: 1;
+  color: #fff;
+}
+/* Hero logo (replaces h1 MIIL text) */
+.miil-hero-logo {
+  max-width: 320px;
+  width: 90%;
+  height: auto;
+  margin-bottom: 0.75rem;
+  position: relative;
+  z-index: 1;
+}
+.miil-hero .tagline {
+  font-size: 1.4rem;
+  font-weight: 300;
+  opacity: 0.9;
+  margin-bottom: 0.5rem;
+  position: relative;
+  z-index: 1;
+}
+.miil-hero .affiliation {
+  font-size: 1rem;
+  font-weight: 400;
+  opacity: 0.75;
+  position: relative;
+  z-index: 1;
+}
+.miil-hero .affiliation a {
+  color: var(--miil-gold-light);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(218,187,122,0.4);
+  transition: border-color 0.2s;
+}
+.miil-hero .affiliation a:hover {
+  border-bottom-color: var(--miil-gold-light);
+}
+
+/* --- Section styling --- */
+.miil-section {
+  padding: 4rem 1rem;
+}
+.miil-section:nth-child(even) {
+  background: linear-gradient(180deg, var(--miil-bg-warm) 0%, var(--miil-white) 100%);
+}
+.miil-section-header {
+  text-align: center;
+  margin-bottom: 2.5rem;
+}
+.miil-section-header h2 {
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--miil-slate);
+  position: relative;
+  display: inline-block;
+  padding-bottom: 0.5rem;
+}
+.miil-section-header h2::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 60px;
+  height: 3px;
+  border-radius: 2px;
+  background: var(--miil-gradient-gold);
+}
+
+/* --- Card components --- */
+.miil-card {
+  background: var(--miil-white);
+  border-radius: var(--miil-radius);
+  box-shadow: var(--miil-shadow);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  overflow: hidden;
+  height: 100%;
+  border: 1px solid var(--miil-border);
+}
+.miil-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--miil-shadow-primary);
+  border-color: rgba(181,31,36,0.2);
+}
+.miil-card-body {
+  padding: 1.5rem;
+}
+.miil-card-title {
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: var(--miil-slate);
+  margin-bottom: 0.5rem;
+}
+.miil-card-text {
+  font-size: 0.9rem;
+  color: var(--miil-text-light);
+  line-height: 1.5;
+}
+.miil-card-link {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+
+/* --- Research area cards --- */
+.miil-research-card {
+  background: var(--miil-white);
+  border-radius: var(--miil-radius);
+  box-shadow: var(--miil-shadow);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  padding: 2rem 1.5rem;
+  text-align: center;
+  height: 100%;
+  border-top: 3px solid var(--miil-primary);
+  border-left: 1px solid var(--miil-border);
+  border-right: 1px solid var(--miil-border);
+  border-bottom: 1px solid var(--miil-border);
+}
+.miil-research-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--miil-shadow-primary);
+  border-top-color: var(--miil-gold);
+}
+.miil-research-card .icon {
+  font-size: 2.5rem;
+  margin-bottom: 0.75rem;
+}
+.miil-research-card h3 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--miil-slate);
+  margin-bottom: 0.5rem;
+}
+.miil-research-card p {
+  font-size: 0.85rem;
+  color: var(--miil-text-light);
+  line-height: 1.45;
+}
+.miil-research-card a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* --- Team member cards --- */
+.miil-team-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 1.5rem;
+}
+.miil-member-card {
+  background: var(--miil-white);
+  border-radius: var(--miil-radius);
+  box-shadow: var(--miil-shadow);
+  padding: 1.5rem 1rem;
+  text-align: center;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  border: 1px solid var(--miil-border);
+}
+.miil-member-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--miil-shadow-hover);
+}
+.miil-member-card .avatar {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  background: var(--miil-gradient);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 1rem;
+  overflow: hidden;
+}
+.miil-member-card .avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.miil-member-card .avatar .initials {
+  color: #fff;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+.miil-member-card .name {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--miil-slate);
+  margin-bottom: 0.25rem;
+}
+.miil-member-card .role {
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: var(--miil-primary);
+  margin-bottom: 0.4rem;
+}
+.miil-member-card .topic {
+  font-size: 0.78rem;
+  color: var(--miil-text-light);
+  line-height: 1.4;
+}
+
+/* --- PI card (larger) --- */
+.miil-pi-card {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  background: var(--miil-white);
+  border-radius: var(--miil-radius);
+  box-shadow: var(--miil-shadow);
+  padding: 2rem;
+  margin-bottom: 2rem;
+  border: 1px solid var(--miil-border);
+}
+.miil-pi-card .pi-photo {
+  flex: 0 0 180px;
+  text-align: center;
+}
+.miil-pi-card .pi-photo img {
+  width: 180px;
+  height: auto;
+  border-radius: var(--miil-radius);
+  box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+}
+.miil-pi-card .pi-info {
+  flex: 1;
+  min-width: 280px;
+}
+.miil-pi-card .pi-info h2 {
+  font-size: 1.6rem;
+  color: var(--miil-slate);
+  margin-bottom: 0.25rem;
+}
+.miil-pi-card .pi-info .pi-title {
+  color: var(--miil-gold);
+  font-weight: 500;
+  margin-bottom: 0.75rem;
+}
+.miil-pi-card .pi-info p {
+  font-size: 0.92rem;
+  line-height: 1.65;
+  color: var(--miil-text);
+}
+
+/* --- Publication tabs --- */
+.miil-tabs {
+  display: flex;
+  gap: 0;
+  border-bottom: 2px solid var(--miil-border);
+  margin-bottom: 2rem;
+}
+.miil-tab {
+  padding: 0.75rem 1.5rem;
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: #888;
+  cursor: pointer;
+  border-bottom: 3px solid transparent;
+  margin-bottom: -2px;
+  transition: color 0.2s, border-color 0.2s;
+  background: none;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+.miil-tab:hover {
+  color: var(--miil-primary);
+}
+.miil-tab.active {
+  color: var(--miil-primary);
+  border-bottom-color: var(--miil-primary);
+}
+.miil-tab-content {
+  display: none;
+}
+.miil-tab-content.active {
+  display: block;
+}
+.miil-pub-item {
+  padding: 0.75rem 0;
+  border-bottom: 1px solid var(--miil-border);
+  font-size: 0.9rem;
+  line-height: 1.55;
+}
+.miil-pub-item:last-child {
+  border-bottom: none;
+}
+.miil-pub-item .pub-title {
+  font-weight: 600;
+  color: var(--miil-slate);
+}
+.miil-pub-item .pub-title a {
+  color: var(--miil-primary);
+  text-decoration: none;
+}
+.miil-pub-item .pub-title a:hover {
+  color: var(--miil-gold);
+  text-decoration: underline;
+}
+.miil-pub-item .pub-journal {
+  font-style: italic;
+  color: var(--miil-text-light);
+}
+
+/* --- Join Us CTA --- */
+.miil-cta {
+  background: var(--miil-gradient);
+  color: #fff;
+  border-radius: var(--miil-radius);
+  padding: 3rem 2rem;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+.miil-cta h2 {
+  color: #fff;
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+}
+.miil-cta p {
+  font-size: 0.95rem;
+  opacity: 0.9;
+  max-width: 700px;
+  margin: 0 auto 1.5rem;
+  line-height: 1.6;
+}
+.miil-cta .btn-cta {
+  display: inline-block;
+  background: var(--miil-white);
+  color: var(--miil-primary);
+  padding: 0.75rem 2rem;
+  border-radius: 50px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: transform 0.2s, box-shadow 0.2s, background 0.2s;
+}
+.miil-cta .btn-cta:hover {
+  transform: scale(1.03);
+  box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+  background: var(--miil-gold);
+  color: var(--miil-primary-deep);
+}
+
+/* --- Alumni list --- */
+.miil-alumni-group {
+  margin-bottom: 2rem;
+}
+.miil-alumni-group h3 {
+  font-size: 1.2rem;
+  color: var(--miil-primary);
+  border-bottom: 2px solid var(--miil-border);
+  padding-bottom: 0.5rem;
+  margin-bottom: 1rem;
+}
+.miil-alumni-entry {
+  padding: 0.6rem 0;
+  font-size: 0.9rem;
+  line-height: 1.55;
+  border-bottom: 1px solid var(--miil-bg-warm);
+}
+.miil-alumni-entry:last-child {
+  border-bottom: none;
+}
+.miil-alumni-entry .alumni-name {
+  font-weight: 600;
+  color: var(--miil-slate);
+}
+.miil-alumni-entry .alumni-year {
+  color: var(--miil-gold);
+  font-weight: 500;
+  font-size: 0.85rem;
+}
+.miil-alumni-entry .alumni-thesis {
+  color: var(--miil-text-light);
+  font-style: italic;
+}
+.miil-alumni-entry .alumni-now {
+  color: #555;
+  font-size: 0.85rem;
+}
+
+/* --- Research topic page: overall wrapper --- */
+.miil-research-page .miil-section {
+  padding: 2.5rem 0;
+}
+.miil-research-page .miil-section:first-child {
+  padding-top: 0;
+}
+.miil-research-page .miil-section:last-child {
+  padding-bottom: 1rem;
+}
+
+
+
+
+/* --- Research topic page: Abstract section --- */
+.miil-abstract-section .miil-abstract-text {
+  max-width: 800px;
+  margin: 0 auto;
+  font-size: 1.05rem;
+  line-height: 1.8;
+  color: var(--miil-text);
+}
+
+/* --- Research topic page: Paper card --- */
+.miil-paper-section .miil-paper-card {
+  background: var(--miil-white);
+  border: 1px solid var(--miil-border);
+  border-radius: var(--miil-radius);
+  box-shadow: var(--miil-shadow);
+  padding: 2rem;
+  max-width: 800px;
+  margin: 0 auto;
+  transition: box-shadow 0.25s ease;
+}
+.miil-paper-section .miil-paper-card:hover {
+  box-shadow: var(--miil-shadow-hover);
+}
+.miil-paper-title {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--miil-slate);
+  margin-bottom: 0.75rem;
+}
+.miil-paper-title a {
+  color: var(--miil-primary);
+  text-decoration: none;
+}
+.miil-paper-title a:hover {
+  color: var(--miil-gold);
+  text-decoration: underline;
+}
+.miil-paper-authors {
+  font-size: 0.92rem;
+  color: var(--miil-text-light);
+  line-height: 1.5;
+  margin-bottom: 0.5rem;
+}
+.miil-paper-venue {
+  font-style: italic;
+  color: var(--miil-text-light);
+  font-size: 0.9rem;
+  margin-bottom: 1rem;
+}
+.miil-paper-links {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+.miil-paper-link {
+  display: inline-block;
+  background: var(--miil-gradient);
+  color: #fff;
+  padding: 0.4rem 1.2rem;
+  border-radius: 50px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+.miil-paper-link:hover {
+  transform: scale(1.04);
+  box-shadow: 0 4px 14px rgba(181,31,36,0.25);
+  color: #fff;
+  text-decoration: none;
+}
+
+
+/* --- Research topic page hero --- */
+.miil-topic-hero {
+  background: var(--miil-gradient-hero);
+  color: #fff;
+  padding: 4rem 2rem 3rem;
+  text-align: center;
+  margin: -2rem -2rem 2rem -2rem;
+}
+.miil-topic-hero h1 {
+  font-size: 2.5rem;
+  font-weight: 800;
+  margin-bottom: 0.5rem;
+  color: #fff;
+}
+.miil-topic-hero p {
+  font-size: 1.1rem;
+  opacity: 0.85;
+  max-width: 700px;
+  margin: 0 auto;
+  line-height: 1.6;
+}
+
+/* --- Responsive adjustments --- */
+@media (max-width: 768px) {
+  .miil-hero h1 {
+    font-size: 2rem;
+    letter-spacing: 3px;
+  }
+  .miil-hero-logo {
+    max-width: 220px;
+  }
+  .miil-hero .tagline {
+    font-size: 1.1rem;
+  }
+  .miil-pi-card {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  .miil-team-grid {
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  }
+  .miil-tabs {
+    flex-wrap: wrap;
+  }
+  .miil-topic-hero {
+    padding: 3rem 1rem 2rem;
+  }
+  .miil-topic-hero h1 {
+    font-size: 1.8rem;
+  }
+}
+
+/* --- Footer tweaks --- */
+footer {
+  font-family: var(--miil-font);
+}
+
+/* --- Email contact button (anti-scrape) --- */
+.btn-email {
+  display: inline-block;
+  background: var(--miil-gradient);
+  color: #fff;
+  padding: 0.4rem 1.2rem;
+  border-radius: 50px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  font-family: var(--miil-font);
+  border: none;
+  cursor: pointer;
+  transition: transform 0.2s, box-shadow 0.2s, background 0.2s;
+  vertical-align: middle;
+  letter-spacing: 0.3px;
+}
+.btn-email:hover {
+  transform: scale(1.04);
+  box-shadow: 0 4px 14px rgba(181,31,36,0.25);
+  background: var(--miil-primary-dark);
+  color: #fff;
+}

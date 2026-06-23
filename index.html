@@ -1,17 +1,86 @@
 ---
-layout: home
-author_profile: false
+layout: page
+title: 
+description: Medical Imaging and Informatics Laboratory at ShanghaiTech University
 ---
 
-<div style="text-align: center; padding: 2rem 0;">
-  <h1>Qian WANG | 王 乾</h1>
-  <p style="font-size: 1.2rem; color: #666;">Exploring in Medical Imaging and Informatics</p>
-  <p><a href="https://www.shanghaitech.edu.cn/">ShanghaiTech University</a> · <a href="https://mii-laboratory.github.io/">Medical Imaging and Informatics Laboratory</a></p>
-</div>
+<!-- Hero Section -->
+<section class="miil-hero">
+ <h1>Medical Imaging and Informatics Laboratory</h1>
+  <!-- <img src="/assets/images/uploads/logo.png" alt="MIIL" class="miil-hero-logo"> -->
+  <!-- <p class="tagline">Medical Imaging and Informatics Laboratory</p> -->
+  <p class="affiliation">
+    <a href="https://www.shanghaitech.edu.cn/">ShanghaiTech University</a>
+    &nbsp;·&nbsp;
+    <a href="https://bme.shanghaitech.edu.cn/">School of Biomedical Engineering</a>
+  </p>
+</section>
 
-## Recent Research Highlights
+<!-- PI Introduction -->
+<section class="miil-section">
+  <div class="container">
+    <div class="miil-pi-card">
+      <div class="pi-photo">
+        <img src="/assets/images/uploads/2021/03/侧面2寸.jpg" alt="Qian Wang">
+      </div>
+      <div class="pi-info">
+        <h2>Qian Wang (王 乾)</h2>
+        <p class="pi-title">Professor &amp; Vice Dean, School of Biomedical Engineering<br>Director, Medical Imaging and Informatics Laboratory</p>
+        <p>Dr. Qian Wang is a prominent researcher in the field of medical image analysis. His groundbreaking work focuses on the integration of machine learning and artificial intelligence with medical image computing and informatics. This fusion of technologies advances several key healthcare areas: smart diagnosis and prognosis, personalized therapy planning and monitoring, and transformative translational medical research.</p>
+        <p>He earned his Bachelor's and Master's degrees in Electronic Engineering from Shanghai Jiao Tong University, followed by a Doctorate in Computer Science from the University of North Carolina at Chapel Hill. From 2013 to 2021, he established and led the Medical Image Computing (MIC) Lab at SJTU. As co-founder of the Medical Image Computing Seminar (MICS)</a>, he has helped cultivate one of China's most influential academic communities for medical imaging research since 2014.</p>
+        <p><button onclick="location.href='mailto:'+['qianwang.sh','gmail.com'].join('@')" class="btn-email">✉ Email Us</button></p>
+      </div>
+    </div>
+  </div>
+</section>
 
-{% for post in site.posts limit:5 %}
-### [{{ post.title }}]({{ post.url }})
-{{ post.excerpt }}
-{% endfor %}
+<!-- Research Highlights -->
+<section class="miil-section">
+  <div class="container">
+    <div class="miil-section-header">
+      <h2>Research Areas</h2>
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-lg-6 col-md-8 mb-4">
+        <a href="/research/visioncad/" class="miil-research-card d-block">
+          <div class="icon">🏥</div>
+          <h3>VisionCAD</h3>
+          <p>An integration-free radiology copilot framework for AI-assisted diagnosis</p>
+        </a>
+      </div>
+    </div>
+    <div class="text-center mt-2">
+      <a href="/research/" class="btn btn-outline-primary">View All Research Areas →</a>
+    </div>
+  </div>
+</section>
+
+<!-- Recent Publications -->
+<section class="miil-section">
+  <div class="container">
+    <div class="miil-section-header">
+      <h2>Recent Publications</h2>
+    </div>
+    {% for pub in site.data.publications_journal limit:5 %}
+    <div class="miil-pub-item">
+      <span class="pub-title"><a href="{{ pub.url }}">{{ pub.title }}</a></span><br>
+      {{ pub.authors }}<br>
+      <span class="pub-journal">{{ pub.journal }}</span>{% if pub.volume %}, vol. {{ pub.volume }}{% endif %}{% if pub.note %} — <em>{{ pub.note }}</em>{% endif %}{% if pub.year %}, {{ pub.year }}{% endif %}
+    </div>
+    {% endfor %}
+    <div class="text-center mt-3">
+      <a href="/publication/" class="btn btn-outline-primary">View All Publications →</a>
+    </div>
+  </div>
+</section>
+
+<!-- Join Us CTA -->
+<section class="miil-section">
+  <div class="container">
+    <div class="miil-cta">
+      <h2>Join Us</h2>
+      <p>We are actively recruiting <strong>1 research-track assistant/associate professor</strong> and <strong>2–3 postdoctoral research associates</strong> in medical imaging and informatics. Candidates should have a solid background in biomedical engineering, artificial intelligence, data science, or related fields.</p>
+      <button onclick="location.href='mailto:'+['qianwang.sh','gmail.com'].join('@')" class="btn-cta">Apply Now →</button>
+    </div>
+  </div>
+</section>

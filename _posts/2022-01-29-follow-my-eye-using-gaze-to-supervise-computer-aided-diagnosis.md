@@ -1,7 +1,7 @@
 ---
 title: "Follow My Eye: Using Gaze to Supervise Computer-Aided Diagnosis"
 date: 2022-01-29 16:51:26
-layout: single
+layout: post
 author_profile: false
 read_time: true
 ---

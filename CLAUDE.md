@@ -4,45 +4,61 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is the GitHub Pages site for **qianwang-lab** (`qianwang-lab.github.io`) — the academic homepage of Dr. Qian Wang's research group, "Exploring in Medical Imaging and Informatics."
+This is the GitHub Pages site for **qianwang-lab** (`qianwang-lab.github.io`) — the academic homepage of Dr. Qian Wang's **MIIL** (Medical Imaging and Informatics Laboratory) at ShanghaiTech University.
 
 ## Tech Stack
 
-- **Jekyll** with the **Minimal Mistakes** theme (via `jekyll-remote-theme`)
+- **Jekyll** with the **Beautiful Jekyll** theme (`daattali/beautiful-jekyll` via `jekyll-remote-theme`)
 - **GitHub Pages** native deployment (push to `main`, auto-build)
-- Plugins: `jekyll-include-cache`, `jekyll-feed`, `jekyll-seo-tag`, `jekyll-sitemap`
+- Plugins: `jekyll-feed`, `jekyll-seo-tag`, `jekyll-sitemap`
+- Custom CSS: gradient+vibrant style in `assets/css/style.css`
 
 ## Project Structure
 
 ```
-_config.yml          — Site config (theme, plugins, collections, defaults)
-_data/navigation.yml — Main nav menu (Biography, Research, Publication, Team, Recruitment)
-index.html           — Homepage with hero + recent research highlights
-_pages/              — All static pages (permalink-based routing)
-  biography.md, research.md, publication.md, journal-paper.md,
-  conference-paper.md, team.md, alumni.md, students-supervised.md, recruitment.md
-_posts/              — Blog posts (research highlights, 5 posts from 2021–2022)
-assets/images/uploads/ — Media files migrated from WordPress wp-content/uploads/
-404.md               — Custom 404 page
-robots.txt           — Allow all with sitemap reference
-Gemfile              — Ruby dependencies for GitHub Pages
+_config.yml                          — Site config (theme, plugins, collections, site-css)
+_data/navigation.yml                 — Main nav (Home, Team, Research, Publication)
+_data/publications_journal.yml       — 141 journal paper entries (structured YAML)
+_data/publications_conference.yml    — 118 conference paper entries (structured YAML)
+_data/publications_misc.yml          — Misc publications (empty placeholder)
+index.html                           — Homepage with hero, PI card, research cards, publications, CTA
+_pages/                              — Static pages (permalink-based routing)
+  team.md, research.md, publication.md, alumni.md    — Current pages
+  *_old.md                                            — Retired pages from old site
+_research/                           — Research topic sub-pages (Jekyll collection)
+  medical-image-synthesis.md         — Example topic page
+_posts/                              — Blog posts (5 research highlights from 2021–2022)
+assets/css/style.css                 — Custom gradient+vibrant stylesheet
+assets/images/uploads/               — Media files (WordPress migration paths)
+assets/images/team/                  — Team member headshot photos (placeholder initials)
+404.md                               — Custom 404 page
+Gemfile                              — Ruby dependencies (github-pages gem + webrick)
 ```
 
 ## Key Conventions
 
 - Pages live in `_pages/` with explicit `permalink:` in front matter (enabled via `include: ["_pages"]` in `_config.yml`)
-- Navigation is defined in `_data/navigation.yml`, NOT in `_config.yml` (Minimal Mistakes reads from the data file)
-- Publication lists (`journal-paper.md`, `conference-paper.md`) are numbered Markdown lists with `**[title](url)**` and `*journal*` formatting
-- Images use `/assets/images/uploads/YYYY/MM/filename` paths (migrated from WordPress `wp-content/uploads/`)
+- Navigation is defined in `_data/navigation.yml` using Beautiful Jekyll's `navbar-links` format
+- Publications are structured YAML in `_data/publications_*.yml` (not inline Markdown lists)
+- Research topic pages use the `_research/` Jekyll collection with `permalink: /research/:name/`
+- Custom CSS loaded via `site-css` key in `_config.yml`
+- Layouts: use `page` for static pages, `post` for blog. Do NOT use `home` layout (appends unwanted blog loop)
+- Team member cards use placeholder initials when no photo is available
+
+## Retired Pages
+
+Old pages are renamed with `_old` suffix and moved to `/XXX-old/` permalinks. They can be deleted when no longer needed:
+`biography_old.md`, `team_old.md`, `research_old.md`, `publication_old.md`, `journal-paper_old.md`, `conference-paper_old.md`, `alumni_old.md`, `recruitment_old.md`, `students-supervised_old.md`
 
 ## Build & Preview
 
 ```bash
+export PATH="$HOME/.local/share/gem/ruby/3.2.0/bin:$PATH"
 bundle install
-bundle exec jekyll serve    # Preview at http://localhost:4000
+bundle exec jekyll serve --host 0.0.0.0 --port 4000    # Preview at http://localhost:4000
 ```
 
-Ruby is not installed on the current development machine — to preview, either install Ruby locally or push to GitHub and let GitHub Pages build.
+**Important:** Restart `jekyll serve` after any `_config.yml` change — auto-regeneration does NOT hot-reload config.
 
 ## Repository
 

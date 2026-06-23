@@ -1,0 +1,923 @@
+- title: |
+    Multi-Tracer Uptake Correction for PET-MR via Aligned-Feature Guidance and Multi-scale Pixel-adaptive Routing
+  url: "https://papers.miccai.org/miccai-2025/0619-Paper2476.html"
+  authors: |
+    A. Zhong, H. Huang, J. Wang, Z. Shen, H. Song, J. Wu, Y. Zhu, Y. Liu, C. Zuo, and Q. Wang
+  venue: "Medical Image Computing and Computer Assisted Intervention – MICCAI 2025"
+  year: "2025"
+  location: "Daejeon, South Korea"
+- title: |
+    Multi-task Screening for Cervical Diseases via Feature Routing and Asymmetric Distillation
+  url: "https://papers.miccai.org/miccai-2025/0618-Paper1643.html"
+  authors: |
+    H. Jiang, H. Huang, J. Cai, Z. Shen, M. Xu, M. Fei, X. Wang, L. Zhang, and Q. Wang
+  venue: "Medical Image Computing and Computer Assisted Intervention – MICCAI 2025"
+  year: "2025"
+  location: "Daejeon, South Korea"
+- title: |
+    Med-LEGO: Editing and Adapting toward Generalist Medical Image Diagnosis
+  url: "https://papers.miccai.org/miccai-2025/0549-Paper2729.html"
+  authors: |
+    Y. Zhu, Y. Yin, J. Li, M. Xu, Z. Zhao, H. Xiong, S. Wang, and Q. Wang
+  venue: "Medical Image Computing and Computer Assisted Intervention – MICCAI 2025"
+  year: "2025"
+  location: "Daejeon, South Korea"
+- title: |
+    ResMAP: Restoring MRIs of Mixed Artifacts by Prompt Cascading Retrieval
+  url: "https://papers.miccai.org/miccai-2025/0771-Paper1894.html"
+  authors: |
+    Y. Tang, F. Li, F. Shi, and Q. Wang
+  venue: "Medical Image Computing and Computer Assisted Intervention – MICCAI 2025"
+  year: "2025"
+  location: "Daejeon, South Korea"
+- title: |
+    UniSyn: A Unified Text-guided Model for Cross-modality Synthesis of MRI, CT, and PET
+  url: "https://papers.miccai.org/miccai-2025/0976-Paper2865.html"
+  authors: |
+    Y. Wang, H. Xiong, K. Sun, J. Liu, X. Lin, Z. Chen, Y. He, Q. Wang, and D. Shen
+  venue: "Medical Image Computing and Computer Assisted Intervention – MICCAI 2025"
+  year: "2025"
+  location: "Daejeon, South Korea"
+- title: |
+    Query-Level Alignment for Lesion Detection with Human Gaze
+  url: "https://papers.miccai.org/miccai-2025/0738-Paper1266.html"
+  authors: |
+    Y. Kong, Z. Peng, Y. Yin, Y. Li, J. Cai, S. Wang, Q. Wang, Y. Fang, and C. Shan
+  venue: "Medical Image Computing and Computer Assisted Intervention – MICCAI 2025"
+  year: "2025"
+  location: "Daejeon, South Korea"
+- title: |
+    Weakly Semi-Supervised Cervical Lesion Cell Detection via Twin-Memory Augmented Multiple Instance Learning
+  url: "https://papers.miccai.org/miccai-2025/paper/0999_paper.pdf"
+  authors: |
+    M. Fei, Z. Song, Z. Shen, M. Liu, Q. Wang, and L. Zhang
+  venue: "Medical Image Computing and Computer Assisted Intervention – MICCAI 2025"
+  year: "2025"
+  location: "Daejeon, South Korea"
+- title: |
+    Refining Cervical Cell Classification with Cytological Knowledge and Optimal Attribute Descriptor Matching
+  url: "https://papers.miccai.org/miccai-2025/0762-Paper1001.html"
+  authors: |
+    M. Fei, Z. Shen, M. Liu, Z. Song, Y. Sun, X. Han, Z. Liu, H. Jiang, L. Bai, Q. Wang, and L. Zhang
+  venue: "Medical Image Computing and Computer Assisted Intervention – MICCAI 2025"
+  year: "2025"
+  location: "Daejeon, South Korea"
+- title: |
+    MITracker: Multi-View Integration for Visual Object Tracking
+  url: "https://openreview.net/forum?id=5IRoJlWrcA&noteId=iuypjvEGF3"
+  authors: |
+    M. Xu, Y. Zhu, H. Jiang, J. Li, Z. Shen, S. Wang, H. Huang, X. Wang, H. Zhang, Q. Yang, and Q. Wang
+  venue: "Conference on Computer Vision and Pattern Recognition (CVPR)"
+  year: "2025"
+- title: |
+    Taming Masked Image Modeling for Chest X-ray Diagnosis by Incorporating Clinical Visual Priors
+  url: "https://link.springer.com/chapter/10.1007/978-3-031-96625-5_11"
+  authors: |
+    Z. Zhao, M. Wang, Z. Cui, S. Wang, Q. Zhou, L. Fan, Q. Wang, and D. Shen
+  venue: "Information Processing in Medical Imaging (IPMI)"
+  year: "2025"
+  location: "Kos Island, Greece"
+- title: |
+    Longitudinal Image Synthesis for Early Brain Development with Age Awareness
+  url: "https://ieeexplore.ieee.org/document/10981151"
+  authors: |
+    Y. Fang, H. Xiong, J. Huang, X. Wang, Z. Shen, F. Liu, X. Cai, H. Zhang, and Q. Wang
+  venue: "International Symposium on Biomedical Imaging (ISBI)"
+  year: "2025"
+  location: "Houston, United States"
+- title: |
+    Ensemble of Foundation Models for Pap Smear Cell Analysis
+  url: "https://ieeexplore.ieee.org/document/10981009"
+  authors: |
+    H. Jiang, J. Cai, M. Xu, Y. Fang, L. Zhang, and Q. Wang
+  venue: "International Symposium on Biomedical Imaging (ISBI)"
+  year: "2025"
+  location: "Houston, United States"
+  note: "Winner of PS3C Challenge"
+- title: |
+    DCIM-AVSR: Efficient Audio-Visual Speech Recognition via Dual Conformer Interaction Module
+  url: "https://ieeexplore.ieee.org/abstract/document/10890272"
+  authors: |
+    X. Wang, H. Jiang, H. Huang, Y. Fang, M. Xu, and Q. Wang
+  venue: "IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+  year: "2025"
+- title: |
+    MUC: Mixture of Uncalibrated Cameras for Robust 3D Human Body Reconstruction
+  url: "https://openreview.net/forum?id=Q51cOEnIHw"
+  authors: |
+    Y. Zhu, S. Wang, M. Xu, Z. Zhuang, Z. Wang, K. Wang, H. Zhang, and Q. Wang
+  venue: "The 39th Annual AAAI Conference on Artificial Intelligence"
+  year: "2025"
+- title: |
+    Contrast Representation Learning from Imaging Parameters for Magnetic Resonance Image Synthesis
+  url: "https://papers.miccai.org/miccai-2024/159-Paper1236.html"
+  authors: |
+    H. Xiong, Y. Fang, K. Sun, Y. Wang, X. Zong, W. Zhang, and Q. Wang
+  venue: "Medical Image Computing and Computer Assisted Intervention – MICCAI 2024"
+  year: "2024"
+  location: "Marrakesh, Morocco"
+- title: |
+    MoCo-Diff: Adaptive Conditional Prior on Diffusion Network for MRI Motion Correction
+  url: "https://papers.miccai.org/miccai-2024/528-Paper1678.html"
+  authors: |
+    F. Li, Z. Zhou, Y. Fang, J. Cai, and Q. Wang
+  venue: "Medical Image Computing and Computer Assisted Intervention – MICCAI 2024"
+  year: "2024"
+  location: "Marrakesh, Morocco"
+- title: |
+    MetaAD: Metabolism-Aware Anomaly Detection for Parkinson's Disease in 3D 18F-FDG PET
+  url: "https://papers.miccai.org/miccai-2024/511-Paper1687.html"
+  authors: |
+    H. Huang, Z. Shen, J. Wang, X. Wang, J. Lu, H. Lin, J. Ge, C. Zuo, and Q. Wang
+  venue: "Medical Image Computing and Computer Assisted Intervention – MICCAI 2024"
+  year: "2024"
+  location: "Marrakesh, Morocco"
+  note: "Winner of MICCAI Young Scientist Award (YSA)"
+- title: |
+    Affinity Learning Based Brain Function Representation for Disease Diagnosis
+  url: "https://papers.miccai.org/miccai-2024/056-Paper0803.html"
+  authors: |
+    M. Liu, Z. Song, D. Chen, X. Wang, Z. Zhuang, M. Fei, L. Zhang, and Q. Wang
+  venue: "Medical Image Computing and Computer Assisted Intervention – MICCAI 2024"
+  year: "2024"
+  location: "Marrakesh, Morocco"
+- title: |
+    Gaze-DETR: Using Expert Gaze to Reduce False Positives in Vulvovaginal Candidiasis Screening
+  url: "https://papers.miccai.org/miccai-2024/350-Paper0974.html"
+  authors: |
+    Y. Kong, S. Wang, J. Cai, Z. Zhao, Z. Shen, Y. Li, M. Fei, and Q. Wang
+  venue: "Medical Image Computing and Computer Assisted Intervention – MICCAI 2024"
+  year: "2024"
+  location: "Marrakesh, Morocco"
+- title: |
+    Self-supervised Learning with Adaptive Graph Structure and Function Representation For Cross-Dataset Brain Disorder Diagnosis
+  url: "https://papers.miccai.org/miccai-2024/685-Paper0719.html"
+  authors: |
+    D. Chen, L. Yao, M. Liu, Z. Shen, Y. Hu, Z. Song, Q. Wang, and L. Zhang
+  venue: "Medical Image Computing and Computer Assisted Intervention – MICCAI 2024"
+  year: "2024"
+  location: "Marrakesh, Morocco"
+- title: |
+    Inter-slice Super-resolution of Magnetic Resonance Images by Pre-training and Self-supervised Fine-tuning
+  url: "https://ieeexplore.ieee.org/document/10635169"
+  authors: |
+    X. Wang, Z. Song, Y. Zhu, S. Wang, L. Zhang, D. Shen, and Q. Wang
+  venue: "IEEE International Symposium on Biomedical Imaging (ISBI)"
+  year: "2024"
+  location: "Athens, Greece"
+- title: |
+    MeLo: Low-rank Adaptation is Better than Fine-tuning for Medical Image Diagnosis
+  url: "https://ieeexplore.ieee.org/document/10635615/"
+  authors: |
+    Y. Zhu, Z. Shen, Z. Zhao, S. Wang, X. Wang, X. Zhao, D. Shen, and Q. Wang
+  venue: "IEEE International Symposium on Biomedical Imaging (ISBI)"
+  year: "2024"
+  location: "Athens, Greece"
+- title: |
+    Semi-Supervised Learning of Visual Attributes for Automated Assessment of Lung Nodule Malignancy
+  url: "https://ieeexplore.ieee.org/document/10635131"
+  authors: |
+    L. Chen, L. Yao, Q. Wang, and Z. Xue
+  venue: "IEEE International Symposium on Biomedical Imaging (ISBI)"
+  year: "2024"
+  location: "Athens, Greece"
+- title: |
+    Mining Gaze for Contrastive Learning toward Computer-Assisted Diagnosis
+  url: "https://ojs.aaai.org/index.php/AAAI/article/view/28586"
+  authors: |
+    Z. Zhao, S. Wang, Q. Wang, and D. Shen
+  venue: "AAAI Conference on Artificial Intelligence"
+  year: "2024"
+  location: "Vancouver, British Columbia"
+- title: |
+    Crafting Good Views of Medical Images for Contrastive Learning via Expert-level Visual Attention
+  url: "https://proceedings.mlr.press/v226/wang24b.html"
+  authors: |
+    S. Wang, Z. Zhao, L. Zhang, D. Shen, and Q. Wang
+  venue: "The 2nd Gaze Meets ML Workshop"
+  year: "2024"
+  location: "New Orleans, Louisiana"
+- title: |
+    Progressive Attention Guidance for Whole Slide Vulvovaginal Candidiasis Screening
+  url: "https://link.springer.com/chapter/10.1007/978-3-031-43987-2_23"
+  authors: |
+    J. Cai, H. Xiong, M. Cao, L. Liu, L. Zhang, and Q. Wang
+  venue: "Medical Image Computing and Computer Assisted Intervention – MICCAI 2023"
+  year: "2023"
+  location: "Vancouver, British Columbia"
+- title: |
+    Detection-free Pipeline for Cervical Cancer Screening of Whole Slide Images
+  url: "https://link.springer.com/chapter/10.1007/978-3-031-43987-2_24"
+  authors: |
+    M. Cao, M. Fei, J. Cai, L. Liu, L. Zhang, and Q. Wang
+  venue: "Medical Image Computing and Computer Assisted Intervention – MICCAI 2023"
+  year: "2023"
+  location: "Vancouver, British Columbia"
+- title: |
+    Robust Cervical Abnormal Cell Detection via Distillation from Local-scale Consistency Refinement
+  url: "https://link.springer.com/chapter/10.1007/978-3-031-43987-2_63"
+  authors: |
+    M. Fei, X. Zhang, M. Cao, Z. Shen, X. Zhao, Z. Song, Q. Wang, and L. Zhang
+  venue: "Medical Image Computing and Computer Assisted Intervention – MICCAI 2023"
+  year: "2023"
+  location: "Vancouver, British Columbia"
+- title: |
+    CellGAN: Conditional Cervical Cell Synthesis for Augmenting Cytopathological Image Classification
+  url: "https://link.springer.com/chapter/10.1007/978-3-031-43987-2_47"
+  authors: |
+    Z. Shen, M. Cao, S. Wang, L. Zhang, and Q. Wang
+  venue: "Medical Image Computing and Computer Assisted Intervention – MICCAI 2023"
+  year: "2023"
+  location: "Vancouver, British Columbia"
+- title: |
+    Alias-Free Co-Modulated Network for Cross-Modality Synthesis and Super-Resolution of MR Images
+  url: "https://link.springer.com/chapter/10.1007/978-3-031-43999-5_7"
+  authors: |
+    Z. Song, X. Wang, X. Zhao, S. Wang, Z. Shen, Z. Zhuang, M. Liu, Q. Wang, and L. Zhang
+  venue: "Medical Image Computing and Computer Assisted Intervention – MICCAI 2023"
+  year: "2023"
+  location: "Vancouver, British Columbia"
+- title: |
+    CAS-Net: Cross-view Aligned Segmentation by Graph Representation of Knees
+  url: "https://link.springer.com/chapter/10.1007/978-3-031-43901-8_11"
+  authors: |
+    Z. Zhuang, X. Wang, S. Wang, Z. Shen, X. Zhao, M. Liu, Z. Xue, D. Shen, L. Zhang, and Q. Wang
+  venue: "Medical Image Computing and Computer Assisted Intervention – MICCAI 2023"
+  year: "2023"
+  location: "Vancouver, British Columbia"
+- title: |
+    One-Shot Traumatic Brain Segmentation with Adversarial Training and Uncertainty Rectification
+  url: "https://link.springer.com/chapter/10.1007/978-3-031-43901-8_12"
+  authors: |
+    X. Zhao, Z. Shen, D. Chen, S. Wang, Z. Zhuang, Q. Wang, and L. Zhang
+  venue: "Medical Image Computing and Computer Assisted Intervention – MICCAI 2023"
+  year: "2023"
+  location: "Vancouver, British Columbia"
+- title: |
+    Learnable Subdivision Graph Neural Network for Functional Brain Network Analysis and Interpretable Cognitive Disorder Diagnosis
+  url: "https://link.springer.com/chapter/10.1007/978-3-031-43993-3_6"
+  authors: |
+    D. Chen, M. Liu, Z. Shen, X. Zhao, Q. Wang, and L. Zhang
+  venue: "Medical Image Computing and Computer Assisted Intervention – MICCAI 2023"
+  year: "2023"
+  location: "Vancouver, British Columbia"
+- title: |
+    Arbitrary Reduction of MRI Inter-slice Spacing Using Hierarchical Feature Conditional Diffusion
+  url: "https://link.springer.com/chapter/10.1007/978-3-031-45673-2_3"
+  authors: |
+    X. Wang, Z. Shen, Z. Song, S. Wang, M. Liu, L. Zhang, K. Xuan, and Q. Wang
+  venue: "Machine Learning in Medical Imaging"
+  year: "2023"
+  location: "Vancouver, British Columbia"
+- title: |
+    Local Graph Fusion of Multi-View MR Images for Knee Osteoarthritis Diagnosis
+  url: "https://link.springer.com/chapter/10.1007/978-3-031-16437-8_53"
+  authors: |
+    Z. Zhuang, S. Wang, L. Si, K. Xuan, Z. Xue, D. Shen, L. Zhang, W. Yao, and Q. Wang
+  venue: "Medical Image Computing and Computer Assisted Intervention – MICCAI 2022"
+  year: "2022"
+  location: "Singapore"
+- title: |
+    Whole Slide Cervical Cancer Screening Using Graph Attention Network and Supervised Contrastive Learning
+  url: "https://link.springer.com/chapter/10.1007/978-3-031-16434-7_20"
+  authors: |
+    X. Zhang, M. Cao, S. Wang, J. Sun, X. Fan, Q. Wang, and L. Zhang
+  venue: "Medical Image Computing and Computer Assisted Intervention – MICCAI 2022"
+  year: "2022"
+  location: "Singapore"
+- title: |
+    Parallel Classification of Cells in Thinprep Cytology Test Image for Cervical Cancer Screening
+  url: "https://link.springer.com/chapter/10.1007/978-3-031-17979-2_4"
+  authors: |
+    M. Cao, X. Zhang, X. Fan, L. Zhang, and Q. Wang
+  venue: "Cancer Prevention Through Early Detection"
+  year: "2022"
+- title: |
+    Head and Neck Vessel Segmentation with Connective Topology Using Affinity Graph
+  url: "https://link.springer.com/chapter/10.1007/978-3-031-21014-3_24"
+  authors: |
+    L. Yao, Z. Xue, Y. Zhan, L. Chen, Y. Chen, B. Song, Q. Wang, F. Shi, and D. Shen
+  venue: "Machine Learning in Medical Imaging"
+  year: "2022"
+- title: |
+    TaG-Net: Topology-Aware Graph Network for Vessel Labeling
+  url: "https://link.springer.com/chapter/10.1007/978-3-031-21083-9_11"
+  authors: |
+    L. Yao, Z. Xue, Y. Zhan, L. Chen, Y. Chen, B. Song, Q. Wang, F. Shi, and D. Shen
+  venue: "Imaging Systems for GI Endoscopy, and Graphs in Biomedical Image Analysis"
+  year: "2022"
+- title: |
+    Nodule Synthesis and Selection for Augmenting Chest X-ray Nodule Detection
+  url: "https://link.springer.com/chapter/10.1007%2F978-3-030-88010-1_45"
+  authors: |
+    Z. Shen, X. Ouyang, Z. Wang, Y. Zhan, Z. Xue, Q. Wang, J.-Z. Cheng, and D. Shen
+  venue: "Pattern Recognition and Computer Vision"
+  year: "2021"
+  location: "Beijing, China"
+- title: |
+    Self-adversarial Learning for Detection of Clustered Microcalcifications in Mammograms
+  url: "https://link.springer.com/chapter/10.1007%2F978-3-030-87234-2_8"
+  authors: |
+    X. Ouyang, J. Che, Q. Chen, Z. Li, Y. Zhan, Z. Xue, Q. Wang, J.-Z. Cheng, and D. Shen
+  venue: "Medical Image Computing and Computer Assisted Intervention – MICCAI 2021"
+  year: "2021"
+  location: "Strasbourg, France"
+- title: |
+    Robust Hydrocephalus Brain Segmentation via Globally and Locally Spatial Guidance
+  url: "https://link.springer.com/chapter/10.1007%2F978-3-030-87586-2_10"
+  authors: |
+    Y. Qiao, H. Tao, J. Huo, W. Shen, Q. Wang, and L. Zhang
+  venue: "Machine Learning in Clinical Neuroimaging"
+  year: "2021"
+  location: "Strasbourg, France"
+- title: |
+    3DMeT: 3D Medical Image Transformer for Knee Cartilage Defect Assessment
+  url: "https://link.springer.com/chapter/10.1007%2F978-3-030-87589-3_36"
+  authors: |
+    S. Wang, Z. Zhuang, K. Xuan, D. Qian, Z. Xue, J. Xu, Y. Liu, Y. Chai, L. Zhang, Q. Wang, and D. Shen
+  venue: "Machine Learning in Medical Imaging"
+  year: "2021"
+  location: "Strasbourg, France"
+- title: |
+    A Recurrent Two-Stage Anatomy-Guided Network for Registration of Liver DCE-MRI
+  url: "https://link.springer.com/chapter/10.1007%2F978-3-030-87589-3_23"
+  authors: |
+    W. Shen, L. Chen, D. Wei, Y. Qiao, Y. Zhan, D. Shen, and Q. Wang
+  venue: "Machine Learning in Medical Imaging"
+  year: "2021"
+  location: "Strasbourg, France"
+- title: |
+    Self-guided Multi-attention Network for Periventricular Leukomalacia Recognition
+  url: "https://doi.org/10.1007/978-3-030-87602-9_12"
+  authors: |
+    Z. Wang, T. Huang, B. Xiao, J. Huo, S. Wang, H. Jiang, H. Liu, F. Wu, X. Zhou, Z. Xue, J. Yang, and Q. Wang
+  venue: "Predictive Intelligence in Medicine"
+  year: "2021"
+  location: "Strasbourg, France"
+- title: |
+    False Positive Suppression in Cervical Cell Screening via Attention-Guided Semi-supervised Learning
+  url: "https://link.springer.com/chapter/10.1007/978-3-030-87602-9_9"
+  authors: |
+    X. Du, J. Huo, Y. Qiao, Q. Wang, and L. Zhang
+  venue: "Predictive Intelligence in Medicine"
+  year: "2021"
+  location: "Strasbourg, France"
+- title: |
+    Anatomical Structure-Aware Pulmonary Nodule Detection via Parallel Multi-task RoI Head
+  url: "https://link.springer.com/chapter/10.1007/978-3-030-87602-9_20"
+  authors: |
+    H. Tao, Y. Qiao, L. Zhang, Y. Zhan, Z. Xue, and Q. Wang
+  venue: "Predictive Intelligence in Medicine"
+  year: "2021"
+  location: "Strasbourg, France"
+- title: |
+    Learning MRI k-Space Subsampling Pattern Using Progressive Weight Pruning
+  url: "https://doi.org/10.1007/978-3-030-59713-9_18"
+  authors: |
+    K. Xuan, S. Sun, Z. Xue, Q. Wang, and S. Liao
+  venue: "Medical Image Computing and Computer Assisted Intervention – MICCAI 2020"
+  year: "2020"
+  location: "Lima, Peru"
+- title: |
+    Semantic Hierarchy Guided Registration Networks for Intra-subject Pulmonary CT Image Alignment
+  url: "https://doi.org/10.1007/978-3-030-59716-0_18"
+  authors: |
+    L. Chen, X. Cao, L. Chen, Y. Gao, D. Shen, Q. Wang, and Z. Xue
+  venue: "Medical Image Computing and Computer Assisted Intervention – MICCAI 2020"
+  year: "2020"
+  location: "Lima, Peru"
+- title: |
+    Hierarchical and Robust Pathology Image Reading for High-Throughput Cervical Abnormality Screening
+  url: "https://doi.org/10.1007/978-3-030-59861-7_42"
+  authors: |
+    M. Zhou, L. Zhang, X. Du, X. Ouyang, X. Zhang, Q. Shen, and Q. Wang
+  venue: "Machine Learning in Medical Imaging"
+  year: "2020"
+  location: "Lima, Peru"
+- title: |
+    Graph Convolutional Network Based Point Cloud for Head and Neck Vessel Labeling
+  url: "https://doi.org/10.1007/978-3-030-59861-7_48"
+  authors: |
+    L. Yao, P. Jiang, Z. Xue, Y. Zhan, D. Wu, L. Zhang, Q. Wang, F. Shi, and D. Shen
+  venue: "Machine Learning in Medical Imaging"
+  year: "2020"
+  location: "Lima, Peru"
+- title: |
+    Joint Appearance-Feature Domain Adaptation: Application to QSM Segmentation Transfer
+  url: "https://doi.org/10.1007/978-3-030-59861-7_25"
+  authors: |
+    B. Xiao, N. He, Q. Wang, Z. Xue, L. Chen, F. Yan, F. Shi, and D. Shen
+  year: "2020"
+  location: "Lima, Peru"
+- title: |
+    mr2NST: Multi-resolution and Multi-reference Neural Style Transfer for Mammography
+  url: "https://doi.org/10.1007/978-3-030-59354-4_16"
+  authors: |
+    S. Wang, J. Huo, X. Ouyang, J. Che, Z. Xue, D. Shen, Q. Wang, and J.-Z. Cheng
+  venue: "Predictive Intelligence in Medicine"
+  year: "2020"
+  location: "Lima, Peru"
+- title: |
+    A Self-ensembling Framework for Semi-supervised Knee Cartilage Defects Assessment with Dual-Consistency
+  url: "https://doi.org/10.1007/978-3-030-59354-4_19"
+  authors: |
+    J. Huo, L. Si, X. Ouyang, K. Xuan, W. Yao, Z. Xue, Q. Wang, D. Shen, and L. Zhang
+  venue: "Predictive Intelligence in Medicine"
+  year: "2020"
+  location: "Lima, Peru"
+- title: |
+    Two-Stage Mapping-Segmentation Framework for Delineating COVID-19 Infections from Heterogeneous CT Images
+  url: "https://link.springer.com/chapter/10.1007/978-3-030-62469-9_1"
+  authors: |
+    T. Li, Z. Wang, Y. Chen, L. Zhang, Y. Gao, F. Shi, D. Qian, Q. Wang, and D. Shen
+  venue: "Thoracic Image Analysis"
+  year: "2020"
+  location: "Lima, Peru"
+- title: |
+    Data-Consistency in Latent Space and Online Update Strategy to Guide GAN for Fast MRI Reconstruction
+  url: "https://doi.org/10.1007/978-3-030-61598-7_8"
+  authors: |
+    S. Chen, S. Sun, X. Huang, D. Shen, Q. Wang, and S. Liao
+  venue: "Machine Learning for Medical Image Reconstruction"
+  year: "2020"
+  location: "Lima, Peru"
+- title: |
+    A Spatiotemporal Volumetric Interpolation Network for 4D Dynamic Medical Image
+  url: "https://doi.org/10.1109/CVPR42600.2020.00478"
+  authors: |
+    Y. Guo, L. Bi, E. Ahn, D. Feng, Q. Wang, and J. Kim
+  venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
+  year: "2020"
+- title: |
+    Robust Brain Magnetic Resonance Image Segmentation for Hydrocephalus Patients: Hard and Soft Attention
+  url: "https://doi.org/10.1109/ISBI45749.2020.9098541"
+  authors: |
+    X. Ren, J. Huo, K. Xuan, D. Wei, L. Zhang, and Q. Wang
+  venue: "IEEE 17th International Symposium on Biomedical Imaging (ISBI)"
+  year: "2020"
+- title: |
+    Can radiomics features boost the performance of deep learning upon histology images?
+  url: "https://doi.org/10.1109/ICMIPE47306.2019.9098220"
+  authors: |
+    M. H. Obiols, Y. Jiao, and Q. Wang
+  venue: "International Conference on Medical Imaging Physics and Engineering (ICMIPE)"
+  year: "2019"
+  location: "Shenzhen, China"
+- title: |
+    ConvRadiomics: Convolutional Radiomics Feature Extraction Toolkit
+  url: "https://doi.org/10.1109/ICMIPE47306.2019.9098212"
+  authors: |
+    O. M. Ijurra, Y. Jiao, and Q. Wang
+  venue: "International Conference on Medical Imaging Physics and Engineering (ICMIPE)"
+  year: "2019"
+  location: "Shenzhen, China"
+- title: |
+    Reconstruction of Isotropic High-Resolution MR Image from Multiple Anisotropic Scans Using Sparse Fidelity Loss and Adversarial Regularization
+  url: "https://doi.org/10.1007/978-3-030-32248-9_8"
+  authors: |
+    K. Xuan, D. Wei, D. Wu, Z. Xue, Y. Zhan, W. Yao, and Q. Wang
+  venue: "Medical Image Computing and Computer Assisted Intervention – MICCAI 2019"
+  year: "2019"
+  location: "Shenzhen, China"
+- title: |
+    Weakly Supervised Segmentation Framework with Uncertainty: A Study on Pneumothorax Segmentation in Chest X-ray
+  url: "https://doi.org/10.1007/978-3-030-32226-7_68"
+  authors: |
+    X. Ouyang, Z. Xue, Y. Zhan, X. S. Zhou, Q. Wang, Y. Zhou, Q. Wang, and J.-Z. Cheng
+  venue: "Medical Image Computing and Computer Assisted Intervention – MICCAI 2019"
+  year: "2019"
+  location: "Shenzhen, China"
+- title: |
+    Synthesis and Inpainting-Based MR-CT Registration for Image-Guided Thermal Ablation of Liver Tumors
+  url: "https://doi.org/10.1007/978-3-030-32254-0_57"
+  authors: |
+    D. Wei, S. Ahmad, J. Huo, W. Peng, Y. Ge, Z. Xue, P.-T. Yap, W. Li, D. Shen, and Q. Wang
+  venue: "Medical Image Computing and Computer Assisted Intervention – MICCAI 2019"
+  year: "2019"
+  location: "Shenzhen, China"
+- title: |
+    Pre-operative Overall Survival Time Prediction for Glioblastoma Patients Using Deep Learning on Both Imaging Phenotype and Genotype
+  url: "https://doi.org/10.1007/978-3-030-32239-7_46"
+  authors: |
+    Z. Tang, Y. Xu, Z. Jiao, J. Lu, L. Jin, A. Aibaidula, J. Wu, Q. Wang, H. Zhang, and D. Shen
+  venue: "Medical Image Computing and Computer Assisted Intervention – MICCAI 2019"
+  year: "2019"
+  location: "Shenzhen, China"
+- title: |
+    CoCa-GAN: Common-Feature-Learning-Based Context-Aware Generative Adversarial Network for Glioma Grading
+  url: "https://doi.org/10.1007/978-3-030-32248-9_18"
+  authors: |
+    P. Huang, D. Li, Z. Jiao, D. Wei, G. Li, Q. Wang, H. Zhang, and D. Shen
+  venue: "Medical Image Computing and Computer Assisted Intervention – MICCAI 2019"
+  year: "2019"
+  location: "Shenzhen, China"
+- title: |
+    Deep Local-Global Refinement Network for Stent Analysis in IVOCT Images
+  url: "https://doi.org/10.1007/978-3-030-32254-0_60"
+  authors: |
+    Y. Guo, L. Bi, A. Kumar, Y. Gao, R. Zhang, D. Feng, Q. Wang, and J. Kim
+  venue: "Medical Image Computing and Computer Assisted Intervention – MICCAI 2019"
+  year: "2019"
+  location: "Shenzhen, China"
+- title: |
+    Morphological Simplification of Brain MR Images by Deep Learning for Facilitating Deformable Registration
+  url: "https://doi.org/10.1007/978-3-030-32692-0_24"
+  authors: |
+    D. Wei, S. Ahmad, Z. Wu, X. Cao, X. Ren, G. Li, D. Shen, and Q. Wang
+  venue: "Machine Learning in Medical Imaging"
+  year: "2019"
+  location: "Shenzhen, China"
+- title: |
+    Weakly Supervised Confidence Learning for Brain MR Image Dense Parcellation
+  url: "https://doi.org/10.1007/978-3-030-32692-0_47"
+  authors: |
+    B. Xiao, X. Cheng, Q. Li, Q. Wang, L. Zhang, D. Wei, Y. Zhan, X. S. Zhou, Z. Xue, G. Lu, and F. Shi
+  venue: "Machine Learning in Medical Imaging"
+  year: "2019"
+  location: "Shenzhen, China"
+- title: |
+    Brain MR Image Segmentation in Small Dataset with Adversarial Defense and Task Reorganization
+  url: "https://doi.org/10.1007/978-3-030-32692-0_1"
+  authors: |
+    X. Ren, L. Zhang, D. Wei, D. Shen, and Q. Wang
+  venue: "Machine Learning in Medical Imaging"
+  year: "2019"
+  location: "Shenzhen, China"
+- title: |
+    cuRadiomics: A GPU-Based Radiomics Feature Extraction Toolkit
+  url: "https://doi.org/10.1007/978-3-030-40124-5_5"
+  authors: |
+    Y. Jiao, O. M. Ijurra, L. Zhang, D. Shen, and Q. Wang
+  venue: "Radiomics and Radiogenomics in Neuro-oncology"
+  year: "2019"
+  location: "Shenzhen, China"
+- title: |
+    Unpaired Mr to CT Synthesis with Explicit Structural Constrained Adversarial Learning
+  url: "https://doi.org/10.1109/ISBI.2019.8759529"
+  authors: |
+    Y. Ge, D. Wei, Z. Xue, Q. Wang, X. Zhou, Y. Zhan, and S. Liao
+  venue: "IEEE 16th International Symposium on Biomedical Imaging (ISBI 2019)"
+  year: "2019"
+  location: "Venice, Italy"
+- title: |
+    Ultra-Fast T2-Weighted MR Reconstruction Using Complementary T1-Weighted Information
+  url: "https://doi.org/10.1007/978-3-030-00928-1_25"
+  authors: |
+    L. Xiang, Y. Chen, W. Chang, Y. Zhan, W. Lin, Q. Wang, and D. Shen
+  venue: "Medical Image Computing and Computer Assisted Intervention – MICCAI 2018"
+  year: "2018"
+  location: "Granada, Spain"
+- title: |
+    Unpaired Deep Cross-Modality Synthesis with Fast Training
+  url: "https://doi.org/10.1007/978-3-030-00889-5_18"
+  authors: |
+    L. Xiang, Y. Li, W. Lin, Q. Wang, and D. Shen
+  venue: "Deep Learning in Medical Image Analysis and Multimodal Learning for Clinical Decision Support"
+  year: "2018"
+  location: "Granada, Spain"
+- title: |
+    Deep Learning Based Inter-modality Image Registration Supervised by Intra-modality Similarity
+  url: "https://doi.org/10.1007/978-3-030-00919-9_7"
+  authors: |
+    X. Cao, J. Yang, L. Wang, Z. Xue, Q. Wang, and D. Shen
+  venue: "Machine Learning in Medical Imaging"
+  year: "2018"
+  location: "Granada, Spain"
+- title: |
+    Latent3DU-net: Multi-level Latent Shape Space Constrained 3D U-net for Automatic Segmentation of the Proximal Femur from Radial MRI of the Hip
+  url: "https://doi.org/10.1007/978-3-030-00919-9_22"
+  authors: |
+    G. Zeng, Q. Wang, T. Lerch, F. Schmaranzer, M. Tannast, K. Siebenrock, and G. Zheng
+  venue: "Machine Learning in Medical Imaging"
+  year: "2018"
+  location: "Granada, Spain"
+- title: |
+    Malignant Brain Tumor Classification Using the Random Forest Method
+  url: "https://doi.org/10.1007/978-3-319-97785-0_2"
+  authors: |
+    L. Zhang, H. Zhang, I. Rekik, Y. Gao, Q. Wang, and D. Shen
+  venue: "Structural, Syntactic, and Statistical Pattern Recognition"
+  year: "2018"
+  location: "Beijing, China"
+- title: |
+    Longitudinal Sparse Regression for Neuroimage Based Consciousness Assessing and Tracking of Hydrocephalus Patients
+  url: "https://doi.org/10.1109/BigComp.2018.00103"
+  authors: |
+    S. Chen, W. Tang, J. Hu, Y. Cheng, Q. Wang, X. Wu, and D. Shen
+  venue: "IEEE International Conference on Big Data and Smart Computing (BigComp)"
+  year: "2018"
+  location: "Shanghai, China"
+- title: |
+    Medical Image Synthesis with Context-Aware Generative Adversarial Networks
+  url: "https://doi.org/10.1007/978-3-319-66179-7_48"
+  authors: |
+    D. Nie, R. Trullo, J. Lian, C. Petitjean, S. Ruan, Q. Wang, and D. Shen
+  venue: "Medical Image Computing and Computer Assisted Intervention − MICCAI 2017"
+  year: "2017"
+- title: |
+    Multi-label Inductive Matrix Completion for Joint MGMT and IDH1 Status Prediction for Glioma Patients
+  url: "https://doi.org/10.1007/978-3-319-66185-8_51"
+  authors: |
+    L. Chen, H. Zhang, K.-H. Thung, L. Liu, J. Lu, J. Wu, Q. Wang, and D. Shen
+  venue: "Medical Image Computing and Computer-Assisted Intervention − MICCAI 2017"
+  year: "2017"
+- title: |
+    Deformable Image Registration Based on Similarity-Steered CNN Regression
+  url: "https://doi.org/10.1007/978-3-319-66182-7_35"
+  authors: |
+    X. Cao, J. Yang, J. Zhang, D. Nie, M. Kim, Q. Wang, and D. Shen
+  venue: "Medical Image Computing and Computer Assisted Intervention − MICCAI 2017"
+  year: "2017"
+- title: |
+    Learning-Based Estimation of Functional Correlation Tensors in White Matter for Early Diagnosis of Mild Cognitive Impairment
+  url: "https://doi.org/10.1007/978-3-319-67434-6_8"
+  authors: |
+    L. Zhang, H. Zhang, X. Chen, Q. Wang, P.-T. Yap, and D. Shen
+  venue: "Patch-Based Techniques in Medical Imaging"
+  year: "2017"
+- title: |
+    Sparse Multi-view Task-Centralized Learning for ASD Diagnosis
+  url: "https://doi.org/10.1007/978-3-319-67389-9_19"
+  authors: |
+    J. Wang, Q. Wang, S. Wang, and D. Shen
+  venue: "Machine Learning in Medical Imaging"
+  year: "2017"
+- title: |
+    Outcome Prediction for Patient with High-Grade Gliomas from Brain Functional and Structural Networks
+  url: "https://doi.org/10.1007/978-3-319-46723-8_4"
+  authors: |
+    L. Liu, H. Zhang, I. Rekik, X. Chen, Q. Wang, and D. Shen
+  venue: "Medical Image Computing and Computer-Assisted Intervention – MICCAI 2016"
+  year: "2016"
+  location: "Athens, Greece"
+- title: |
+    Feature Selection Based on Iterative Canonical Correlation Analysis for Automatic Diagnosis of Parkinson’s Disease
+  url: "https://doi.org/10.1007/978-3-319-46723-8_1"
+  authors: |
+    L. Liu, Q. Wang, E. Adeli, L. Zhang, H. Zhang, and D. Shen
+  venue: "Medical Image Computing and Computer-Assisted Intervention – MICCAI 2016"
+  year: "2016"
+  location: "Athens, Greece"
+- title: |
+    Cross-Manifold Guidance in Deformable Registration of Brain MR Images
+  url: "https://doi.org/10.1007/978-3-319-43775-0_38"
+  authors: |
+    J. Zhang, Q. Wang, G. Wu, and D. Shen
+  venue: "Medical Imaging and Augmented Reality"
+  year: "2016"
+  location: "Athens, Greece"
+- title: |
+    Combination of Grey Matter and White Matter Features for Early Prediction of Posttraumatic Stress Disorder
+  url: "https://doi.org/10.1007/978-3-319-46257-8_60"
+  authors: |
+    S. Wang, H. Hu, S. Su, L. Liu, Z. Wang, Q. Wang, and D. Shen
+  venue: "Intelligent Data Engineering and Automated Learning – IDEAL 2016"
+  year: "2016"
+  location: "Athens, Greece"
+- title: |
+    Multi-Atlas Based Segmentation of Brainstem Nuclei from MR Images by Deep Hyper-Graph Learning
+  url: "https://doi.org/10.1007/978-3-319-47118-1_7"
+  authors: |
+    P. Dong, Y. Guo, Y. Gao, P. Liang, Y. Shi, Q. Wang, D. Shen, and G. Wu
+  venue: "Patch-Based Techniques in Medical Imaging"
+  year: "2016"
+  location: "Athens, Greece"
+- title: |
+    Automatic lung nodule classification with radiomics approach
+  url: "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9789/978906/Automatic-lung-nodule-classification-with-radiomics-approach/10.1117/12.2220768.short"
+  authors: |
+    J. Ma, Q. Wang, Y. Ren, H. Hu, and J. Zhao
+  venue: "Medical Imaging 2016: PACS and Imaging Informatics: Next Generation and Innovations"
+  year: "2016"
+  location: "San Diego, California"
+- title: |
+    Automatic Hippocampus Labeling Using the Hierarchy of Sub-region Random Forests
+  url: "https://doi.org/10.1007/978-3-319-28194-0_3"
+  authors: |
+    L. Zhang, Q. Wang, Y. Gao, G. Wu, and D. Shen
+  venue: "Patch-Based Techniques in Medical Imaging"
+  year: "2015"
+  location: "Munich, Germany"
+- title: |
+    Image Super-Resolution by Supervised Adaption of Patchwise Self-similarity from High-Resolution Image
+  url: "https://doi.org/10.1007/978-3-319-28194-0_2"
+  authors: |
+    G. Wu, X. Zhu, Q. Wang, and D. Shen
+  venue: "Patch-Based Techniques in Medical Imaging"
+  year: "2015"
+  location: "Munich, Germany"
+- title: |
+    Dual-Layer L1-Graph Embedding for Semi-supervised Image Labeling
+  url: ""
+  authors: |
+    Q. Wang, G. Wu, and D. Shen
+  venue: "Patch-Based Techniques in Medical Imaging"
+  year: "2015"
+  location: "Munich, Germany"
+- title: |
+    Multi-atlas Context Forests for Knee MR Image Segmentation
+  url: "https://doi.org/10.1007/978-3-319-24888-2_23"
+  authors: |
+    Q. Liu, Q. Wang, L. Zhang, Y. Gao, and D. Shen
+  venue: "Machine Learning in Medical Imaging"
+  year: "2015"
+  location: "Munich, Germany"
+- title: |
+    Interactive Registration and Segmentation for Multi-Atlas-Based Labeling of Brain MR Image
+  url: "https://doi.org/10.1007/978-3-662-48558-3_24"
+  authors: |
+    Q. Wang, G. Wu, M.-J. Kim, L. Zhang, and D. Shen
+  venue: "CCF Chinese Conference on Computer Vision"
+  year: "2015"
+- title: |
+    Sparsity-Learning-Based Longitudinal MR Image Registration for Early Brain Development
+  url: "https://doi.org/10.1007/978-3-319-10581-9_1"
+  authors: |
+    Q. Wang, G. Wu, L. Wang, P. Shi, W. Lin, and D. Shen
+  venue: "Machine Learning in Medical Imaging"
+  year: "2014"
+- title: |
+    Learning of Atlas Forest Hierarchy for Automatic Labeling of MR Brain Images
+  url: "https://doi.org/10.1007/978-3-319-10581-9_40"
+  authors: |
+    L. Zhang, Q. Wang, Y. Gao, G. Wu, and D. Shen
+  venue: "Machine Learning in Medical Imaging"
+  year: "2014"
+- title: |
+    Minimizing Joint Risk of Mislabeling for Iterative Patch-Based Label Fusion
+  url: "https://doi.org/10.1007/978-3-642-40760-4_69"
+  authors: |
+    G. Wu, Q. Wang, S. Liao, D. Zhang, F. Nie, and D. Shen
+  venue: "Medical Image Computing and Computer-Assisted Intervention – MICCAI 2013"
+  year: "2013"
+  location: "Nagoya, Japan"
+- title: |
+    Unsupervised Deep Feature Learning for Deformable Registration of MR Brain Images
+  url: "https://doi.org/10.1007/978-3-642-40763-5_80"
+  authors: |
+    G. Wu, M. Kim, Q. Wang, Y. Gao, S. Liao, and D. Shen
+  venue: "Medical Image Computing and Computer-Assisted Intervention – MICCAI 2013"
+  year: "2013"
+  location: "Nagoya, Japan"
+- title: |
+    Automatic and Reliable Segmentation of Spinal Canals in Low-Resolution, Low-Contrast CT Images
+  url: "https://doi.org/10.1007/978-3-319-07269-2_2"
+  authors: |
+    Q. Wang, L. Lu, D. Wu, N. El-Zehiry, D. Shen, and K. S. Zhou
+  venue: "Computational Methods and Clinical Applications for Spine Imaging"
+  year: "2013"
+  location: "Nagoya, Japan"
+- title: |
+    Brain-Cloud: A Generalized and Flexible Registration Framework for Brain MR Images
+  url: "https://doi.org/10.1007/978-3-642-40843-4_17"
+  authors: |
+    M. Kim, G. Wu, Q. Wang, and D. Shen
+  venue: "Augmented Reality Environments for Medical Imaging and Computer-Assisted Interventions"
+  year: "2013"
+  location: "Nagoya, Japan"
+- title: |
+    Joint Learning of Appearance and Transformation for Predicting Brain MR Image Registration
+  url: "https://doi.org/10.1007/978-3-642-38868-2_42"
+  authors: |
+    Q. Wang, M. Kim, G. Wu, and D. Shen
+  venue: "Information Processing in Medical Imaging (IPMI)"
+  year: "2013"
+- title: |
+    Groupwise Registration via Graph Shrinkage on the Image Manifold,
+  url: "https://doi.org/10.1109/CVPR.2013.301"
+  authors: |
+    S. Ying, G. Wu, Q. Wang, and D. Shen
+  venue: "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)"
+  year: "2013"
+  location: "Portland, Oregon"
+- title: |
+    Hierarchical Attribute-Guided Symmetric Diffeomorphic Registration for MR Brain Images
+  url: "https://doi.org/10.1007/978-3-642-33418-4_12"
+  authors: |
+    G. Wu, M. Kim, Q. Wang, and D. Shen
+  venue: "Medical Image Computing and Computer-Assisted Intervention – MICCAI 2012"
+  year: "2012"
+  location: "Nice, France"
+- title: |
+    An image processing approach to compensate for the bladder wall motion and deformation in MR cystography
+  url: "https://doi.org/10.1109/NSSMIC.2011.6152554"
+  authors: |
+    Q. Lin, Z. Liang, H. Li, S. Jambawalikar, Q. Wang, B. Phillips, W. Waltzer, M. Zawin, D. Harrington, and X. He
+  venue: "IEEE Nuclear Science Symposium Conference Record"
+  year: "2011"
+- title: |
+    Estimating the 4D Respiratory Lung Motion by Spatiotemporal Registration and Building Super-Resolution Image
+  url: "https://doi.org/10.1007/978-3-642-23623-5_67"
+  authors: |
+    G. Wu, Q. Wang, J. Lian, and D. Shen
+  venue: "Medical Image Computing and Computer-Assisted Intervention – MICCAI 2011"
+  year: "2011"
+- title: |
+    Fiber Modeling and Clustering Based on Neuroanatomical Features
+  url: "https://doi.org/10.1007/978-3-642-23629-7_3"
+  authors: |
+    Q. Wang, P.-T. Yap, G. Wu, and D. Shen
+  venue: "Medical Image Computing and Computer-Assisted Intervention – MICCAI 2011"
+  year: "2011"
+- title: |
+    Diffusion Tensor Image Registration with Combined Tract and Tensor Features
+  url: "https://doi.org/10.1007/978-3-642-23629-7_25"
+  authors: |
+    Q. Wang, P.-T. Yap, G. Wu, and D. Shen
+  venue: "Medical Image Computing and Computer-Assisted Intervention – MICCAI 2011"
+  year: "2011"
+- title: |
+    Directed Graph Based Image Registration
+  url: "https://doi.org/10.1007/978-3-642-24319-6_22"
+  authors: |
+    H. Jia, G. Wu, Q. Wang, Y. Wang, M. Kim, and D. Shen
+  venue: "Machine Learning in Medical Imaging"
+  year: "2011"
+- title: |
+    Reconstruction of 4D-CT from a Single Free-Breathing 3D-CT by Spatial-Temporal Image Registration
+  url: "https://doi.org/10.1007/978-3-642-22092-0_56"
+  authors: |
+    G. Wu, Q. Wang, J. Lian, and D. Shen
+  venue: "Information Processing in Medical Imaging (IPMI)"
+  year: "2011"
+  location: "Kloster Irsee, Germany"
+- title: |
+    iTree: Fast and accurate image registration based on the combinative and incremental tree
+  url: "https://doi.org/10.1109/ISBI.2011.5872627"
+  authors: |
+    H. Jia, G. Wu, Q. Wang, M. Kim, and D. Shen
+  venue: "IEEE International Symposium on Biomedical Imaging: From Nano to Macro (ISBI)"
+  year: "2011"
+  location: "Chicago, Illinois"
+- title: |
+    Registration of Longitudinal Image Sequences with Implicit Template and Spatial-Temporal Heuristics
+  url: "https://doi.org/10.1007/978-3-642-15745-5_76"
+  authors: |
+    G. Wu, Q. Wang, H. Jia, and D. Shen
+  venue: "Medical Image Computing and Computer-Assisted Intervention – MICCAI 2010"
+  year: "2010"
+  location: "Beijing, China"
+- title: |
+    Groupwise Registration by Hierarchical Anatomical Correspondence Detection
+  url: "https://doi.org/10.1007/978-3-642-15745-5_84"
+  authors: |
+    G. Wu, Q. Wang, H. Jia, and D. Shen
+  venue: "Medical Image Computing and Computer-Assisted Intervention – MICCAI 2010"
+  year: "2010"
+  location: "Beijing, China"
+- title: |
+    Groupwise Registration with Sharp Mean
+  url: "https://doi.org/10.1007/978-3-642-15745-5_70"
+  authors: |
+    G. Wu, H. Jia, Q. Wang, and D. Shen
+  venue: "Medical Image Computing and Computer-Assisted Intervention – MICCAI 2010"
+  year: "2010"
+  location: "Beijing, China"
+- title: |
+    Hierarchical Fiber Clustering Based on Multi-Scale Neuroanatomical Features
+  url: "https://doi.org/10.1007/978-3-642-15699-1_47"
+  authors: |
+    Q. Wang, P.-T. Yap, H. Jia, G. Wu, and D. Shen
+  venue: "Medical Imaging and Augmented Reality"
+  year: "2010"
+  location: "Beijing, China"
+- title: |
+    ABSORB: Atlas building by Self-Organized Registration and Bundling
+  url: "https://doi.org/10.1109/CVPR.2010.5540007"
+  authors: |
+    H. Jia, G. Wu, Q. Wang, and D. Shen
+  venue: "IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR)"
+  year: "2010"
+  location: "San Francisco, California"
+- title: |
+    Groupwise registration from exemplar to group mean: Extending HAMMER to groupwise registration
+  url: "https://doi.org/10.1109/ISBI.2010.5490327"
+  authors: |
+    G. Wu, P.-T. Yap, Q. Wang, and D. Shen
+  venue: "IEEE International Symposium on Biomedical Imaging: From Nano to Macro (ISBI)"
+  year: "2010"
+  location: "Rotterdam, Netherlands"
+- title: |
+    Attribute Vector Guided Groupwise Registration
+  url: "https://doi.org/10.1007/978-3-642-04268-3_81"
+  authors: |
+    Q. Wang, P.-T. Yap, G. Wu, and D. Shen
+  venue: "Medical Image Computing and Computer-Assisted Intervention – MICCAI 2009"
+  year: "2009"
+  location: "London, United Kingdom"
+- title: |
+    Group-wise registration of large image dataset by hierarchical clustering and alignment
+  url: "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7259/72590N/Group-wise-registration-of-large-image-dataset-by-hierarchical-clustering/10.1117/12.811384.short"
+  authors: |
+    Q. Wang, L. Chen, and D. Shen
+  venue: "Medical Imaging 2009: Image Processing"
+  year: "2009"
+  location: "Florida, United States"
+- title: |
+    Fast histogram equalization for medical image enhancement
+  url: "https://doi.org/10.1109/IEMBS.2008.4649636"
+  authors: |
+    Q. Wang, L. Chen, and D. Shen
+  venue: "30th Annual International Conference of the IEEE Engineering in Medicine and Biology Society"
+  year: "2008"
+  location: "Vancouver, British Columbia"

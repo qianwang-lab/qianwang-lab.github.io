@@ -1,7 +1,7 @@
 ---
 title: "Biography"
-permalink: /biography/
-layout: single
+permalink: /biography-old/
+layout: page
 author_profile: false
 ---
 
@@ -19,7 +19,7 @@ Throughout his career, Dr. Wang has mentored many [graduate students and profess
 </div>
 <div style="flex: 1; min-width: 180px;">
 
-![Qian Wang](/assets/images/uploads/2021/03/侧面2寸.jpg){: .alignright}
+<img src="/assets/images/uploads/2021/03/侧面2寸.jpg" alt="Qian Wang" style="max-width: 100%; border-radius: 4px;">
 
 *Contact Dr. Wang via QIANWANG.SH at GMAIL dot COM.*
 

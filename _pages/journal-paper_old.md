@@ -1,7 +1,7 @@
 ---
 title: "Journal Paper"
-permalink: /journal-paper/
-layout: single
+permalink: /journal-paper-old/
+layout: page
 author_profile: false
 ---
 

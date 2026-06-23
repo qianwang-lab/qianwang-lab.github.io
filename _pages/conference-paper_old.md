@@ -1,7 +1,7 @@
 ---
 title: "Conference Paper"
-permalink: /conference-paper/
-layout: single
+permalink: /conference-paper-old/
+layout: page
 author_profile: false
 ---
 

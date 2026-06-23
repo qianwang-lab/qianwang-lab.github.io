@@ -1,119 +1,229 @@
 ---
-title: "Team"
+title: ""
 permalink: /team/
-layout: single
-author_profile: false
+layout: page
 ---
 
-**Qian Wang**
+<!-- PI Card -->
+<div class="miil-pi-card">
+  <div class="pi-photo">
+    <img src="/assets/images/uploads/2021/03/侧面2寸.jpg" alt="Qian Wang">
+  </div>
+  <div class="pi-info">
+    <h2>Qian Wang (王 乾)</h2>
+    <p class="pi-title">Professor &amp; Vice Dean, School of Biomedical Engineering, ShanghaiTech University<br>Director, Medical Imaging and Informatics Laboratory</p>
+    <p>Dr. Wang's research focuses on the integration of machine learning and AI with medical image computing and informatics, advancing smart diagnosis, personalized therapy, and translational medical research.</p>
+    <p><button onclick="location.href='mailto:'+['qianwang.sh','gmail.com'].join('@')" class="btn-email">✉ Email Us</button></p>
+  </div>
+</div>
 
-- Professor and Vice Dean, [School of Biomedical Engineering](http://bme.shanghaitech.edu.cn), ShanghaiTech University
-- Director, Medical Imaging and Informatics Laboratory
+<!-- PhD Candidates -->
+<h3 style="color: var(--miil-purple); margin-bottom: 1.5rem;">PhD Candidates</h3>
+<div class="miil-team-grid">
 
-PhD Candidate
+<div class="miil-member-card">
+  <div class="avatar"><span class="initials">HX</span></div>
+  <div class="name">Honglin Xiong</div>
+  <div class="role">PhD Candidate</div>
+  <div class="topic"></div>
+</div>
 
-**XIONG Honglin**
+<div class="miil-member-card">
+  <div class="avatar"><img src="/assets/images/uploads/2023/10/li-feng.png" alt="Feng Li"></div>
+  <div class="name">Feng Li</div>
+  <div class="role">PhD Candidate</div>
+  <div class="topic"></div>
+</div>
 
-- Developing MRI Foundation Models: Unifying Contrast Interactions for Universal Medical Image Synthesis and Processing
+<div class="miil-member-card">
+  <div class="avatar"><img src="/assets/images/uploads/2024/10/guo-jiayang.jpg" alt="Jiayang Guo"></div>
+  <div class="name">Jiayang Guo</div>
+  <div class="role">PhD Candidate</div>
+  <div class="topic"></div>
+</div>
 
-**LI Feng**
+<div class="miil-member-card">
+  <div class="avatar"><img src="/assets/images/uploads/2024/10/wang-zhixin.jpg" alt="Zhixin Wang"></div>
+  <div class="name">Zhixin Wang</div>
+  <div class="role">PhD Candidate</div>
+  <div class="topic"></div>
+</div>
 
-- Deep Learning-Based Motion Artifact Detection and Correction for Quantitative Quality Assessment in Neuroimaging MRI
+<div class="miil-member-card">
+  <div class="avatar"><img src="/assets/images/uploads/2023/10/tang-yuxian.jpg" alt="Yuxian Tang"></div>
+  <div class="name">Yuxian Tang</div>
+  <div class="role">PhD Candidate</div>
+  <div class="topic"></div>
+</div>
 
-**GUO Jiayang**
+<div class="miil-member-card">
+  <div class="avatar"><img src="/assets/images/uploads/2023/10/wang-xinyu.jpg" alt="Xinyu Wang"></div>
+  <div class="name">Xinyu Wang</div>
+  <div class="role">PhD Candidate</div>
+  <div class="topic"></div>
+</div>
 
-- Multimodal Cohort Development and Data Integration for Longitudinal Assessment of Neurodevelopmental Trajectories in Pediatric Populations
+<div class="miil-member-card">
+  <div class="avatar"><span class="initials">HJ</span></div>
+  <div class="name">Haotian Jiang</div>
+  <div class="role">PhD Candidate</div>
+  <div class="topic"></div>
+</div>
 
-**WANG Zhixin**
+<div class="miil-member-card">
+  <div class="avatar"><span class="initials">HH</span></div>
+  <div class="name">Haolin Huang</div>
+  <div class="role">PhD Candidate</div>
+  <div class="topic"></div>
+</div>
 
-- Comprehensive Phenotyping Through Multimodal Biomarker Acquisition and Analysis for Characterization of Neurodevelopmental Patterns in Children
+<div class="miil-member-card">
+  <div class="avatar"><span class="initials">FF</span></div>
+  <div class="name">Fangchenqi Fan</div>
+  <div class="role">PhD Candidate</div>
+  <div class="topic"></div>
+</div>
 
-**TANG Yuxian**
+<div class="miil-member-card">
+  <div class="avatar"><span class="initials">JL</span></div>
+  <div class="name">Jiachang Liu</div>
+  <div class="role">PhD Candidate</div>
+  <div class="topic"></div>
+</div>
 
-- Comprehensive MRI Quality Enhancement: Unified Framework for Multi-Source Distortion Correction Beyond Motion Artifacts in Neuroimaging
+<div class="miil-member-card">
+  <div class="avatar"><img src="/assets/images/uploads/2024/10/zhong-aocheng.jpeg" alt="Aocheng Zhong"></div>
+  <div class="name">Aocheng Zhong</div>
+  <div class="role">PhD Candidate</div>
+  <div class="topic"></div>
+</div>
 
-**WANG Xinyu**
+</div>
 
-- Deep Learning Foundation Model for fMRI BOLD Signal Encoding: Developing Generalizable Representations for Cross-Subject Analysis and Neurobiological Marker Extraction in Clinical Applications
+<!-- MSc Students -->
+<h3 style="color: var(--miil-purple); margin: 2.5rem 0 1.5rem;">MSc Students</h3>
+<div class="miil-team-grid">
 
-**JIANG Haotian**
+<div class="miil-member-card">
+  <div class="avatar"><img src="/assets/images/uploads/2024/10/chen-yan.png" alt="Yan Chen"></div>
+  <div class="name">Yan Chen</div>
+  <div class="role">MSc Student</div>
+  <div class="topic"></div>
+</div>
 
-- Unified Foundation Model for TCT Image Analysis: Integrating Multi-Scale Features for Robust Cervical Cancer Detection and Classification
+<div class="miil-member-card">
+  <div class="avatar"><img src="/assets/images/uploads/2024/10/li-jiaming.jpg" alt="Jiaming Li"></div>
+  <div class="name">Jiaming Li</div>
+  <div class="role">MSc Student</div>
+  <div class="topic"></div>
+</div>
 
-**HUANG Haolin**
+<div class="miil-member-card">
+  <div class="avatar"><img src="/assets/images/uploads/2024/11/song-haiyu.jpeg" alt="Haiyu Song"></div>
+  <div class="name">Haiyu Song</div>
+  <div class="role">MSc Student</div>
+  <div class="topic"></div>
+</div>
 
-- Multimodal PET Data Integration and Analysis for Neurodegenerative Disease Assessment: Deep Learning Approaches for Quantitative Biomarker Extraction and Personalized Prognosis Prediction
+<div class="miil-member-card">
+  <div class="avatar"><img src="/assets/images/uploads/2024/10/wu-junlei.png" alt="Junlei Wu"></div>
+  <div class="name">Junlei Wu</div>
+  <div class="role">MSc Student</div>
+  <div class="topic"></div>
+</div>
 
-**FAN Fangchenqi**
+<div class="miil-member-card">
+  <div class="avatar"><span class="initials">YJ</span></div>
+  <div class="name">Yuchen Jin</div>
+  <div class="role">MSc Student</div>
+  <div class="topic"></div>
+</div>
 
-- 
+<div class="miil-member-card">
+  <div class="avatar"><span class="initials">XZ</span></div>
+  <div class="name">Xingyang Zhang</div>
+  <div class="role">MSc Student</div>
+  <div class="topic"></div>
+</div>
 
-**LIU Jiachang**
+<div class="miil-member-card">
+  <div class="avatar"><span class="initials">ZH</span></div>
+  <div class="name">Zhexi He</div>
+  <div class="role">MSc Student</div>
+  <div class="topic"></div>
+</div>
 
-- 
+<div class="miil-member-card">
+  <div class="avatar"><span class="initials">JX</span></div>
+  <div class="name">Jieyu Xu</div>
+  <div class="role">MSc Student</div>
+  <div class="topic"></div>
+</div>
 
-MSc Student
+<div class="miil-member-card">
+  <div class="avatar"><span class="initials">YW</span></div>
+  <div class="name">Yang Wu</div>
+  <div class="role">MSc Student</div>
+  <div class="topic"></div>
+</div>
 
-**LI Zongyu**
+<div class="miil-member-card">
+  <div class="avatar"><span class="initials">GL</span></div>
+  <div class="name">Guangxin Li</div>
+  <div class="role">MSc Student</div>
+  <div class="topic"></div>
+</div>
 
-- FPGA-Accelerated Surgical Guidance System: Hardware-Optimized Deep Learning Framework for Real-Time Medical Device Integration and Clinical Validation
+</div>
 
-**XU Mengjie**
+<!-- Undergraduate Students -->
+<h3 style="color: var(--miil-purple); margin: 2.5rem 0 1.5rem;">Undergraduate Students</h3>
+<div class="miil-team-grid">
 
-- Computational Modeling of Object Properties and Human-Object Interactions for Cognitive Development Assessment in Pediatric Neurobehavioral Studies
+<div class="miil-member-card">
+  <div class="avatar"><img src="/assets/images/uploads/2025/08/yin_yuan.jpg" alt="Yuan Yin"></div>
+  <div class="name">Yuan Yin</div>
+  <div class="role">Undergraduate</div>
+</div>
 
-**CHEN Yan**
+<div class="miil-member-card">
+  <div class="avatar"><span class="initials">JZ</span></div>
+  <div class="name">Jiarui Zhou</div>
+  <div class="role">Undergraduate</div>
+</div>
 
-- Efficient Generative Modeling Architectures for Medical Imaging: Optimized Frameworks for Clinical-Grade Image Enhancement and Whole-Body Segmentation
+<div class="miil-member-card">
+  <div class="avatar"><span class="initials">LW</span></div>
+  <div class="name">Lihui Wang</div>
+  <div class="role">Undergraduate</div>
+</div>
 
-**LI Jiaming**
+<div class="miil-member-card">
+  <div class="avatar"><span class="initials">ZJ</span></div>
+  <div class="name">Zhuoxin Jiang</div>
+  <div class="role">Undergraduate</div>
+</div>
 
-- Adaptive Human-Machine Interaction System for Clinical Decision Support: Integrating AI-Driven Diagnostic Tools within Established Healthcare Workflows for Enhanced Treatment Planning and Patient Outcomes
+<div class="miil-member-card">
+  <div class="avatar"><span class="initials">HY</span></div>
+  <div class="name">Haorui Yin</div>
+  <div class="role">Undergraduate</div>
+</div>
 
-**SONG Haiyu**
+<div class="miil-member-card">
+  <div class="avatar"><span class="initials">MH</span></div>
+  <div class="name">Mu He</div>
+  <div class="role">Undergraduate</div>
+</div>
 
-- Comprehensive Foundation Models for Musculoskeletal MRI: Integrated Approaches for Multi-Disease Pathology Detection and Progression Modeling Using Transferable Deep Learning Architectures
+<div class="miil-member-card">
+  <div class="avatar"><span class="initials">SY</span></div>
+  <div class="name">Shicheng Yao</div>
+  <div class="role">Undergraduate</div>
+</div>
 
-**WU Junlei**
+</div>
 
-- Real-Time Image Quality Preservation in Interactive Clinical Systems: Computational Methods for Addressing Degradation Challenges during Human-Machine Collaborative Diagnosis and Treatment
-
-**ZHONG Aocheng**
-
-- Advanced Reconstruction and Quality Enhancement Framework for PET-MR Imaging: AI-Driven Techniques for Improved Detection of Neurodegenerative Disease Biomarkers
-
-**JIN Yuchen**
-
-- 
-
-**ZHANG Xingyang**
-
-- 
-
-**HE Zhexi**
-
-- 
-
-**XU Jieyu**
-
-- 
-
-**WU Yang**
-
-- 
-
-**LI Guangxin**
-
-- 
-
-Undergraduate Student
-
-**YIN Yuan**
-
-**ZHOU Jiarui**
-
-**JIANG Zhuoxin**
-
-**LIU Yufei**
-
-[More Alumni →](/alumni/)
+<div class="text-center mt-4">
+  <a href="/alumni/" class="btn btn-outline-primary">View Alumni →</a>
+</div>

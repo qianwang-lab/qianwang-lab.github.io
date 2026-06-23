@@ -1,7 +1,7 @@
 ---
 title: "Unsupervised Landmark Detection Based Motion Estimation for Dynamic Medical Images"
 date: 2021-10-07 03:27:25
-layout: single
+layout: post
 author_profile: false
 read_time: true
 ---

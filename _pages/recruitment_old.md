@@ -1,7 +1,7 @@
 ---
 title: "Recruitment"
-permalink: /recruitment/
-layout: single
+permalink: /recruitment-old/
+layout: page
 author_profile: false
 ---
 
