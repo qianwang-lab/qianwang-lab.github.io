@@ -46,12 +46,12 @@ layout: page
     <div class="miil-member-card">
       <div class="avatar"><span class="initials">JL</span></div>
       <div class="name">Jiaming Li</div>
-      <div class="role">PhD Candidate</div>
+      <div class="role">MSc Student</div>
     </div>
     <div class="miil-member-card">
       <div class="avatar"><span class="initials">JW</span></div>
       <div class="name">Junlei Wu</div>
-      <div class="role">PhD Candidate</div>
+      <div class="role">MSc Student</div>
     </div>
   </div>
 </div>
