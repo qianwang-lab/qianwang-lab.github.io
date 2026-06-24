@@ -63,7 +63,7 @@ description: Medical Imaging and Informatics Laboratory at ShanghaiTech Universi
     </div>
     {% for pub in site.data.publications_journal limit:5 %}
     <div class="miil-pub-item">
-      <span class="pub-title"><a href="{{ pub.url }}">{{ pub.title }}</a></span><br>
+      <span class="pub-title">{% if pub.url %}<a href="{{ pub.url }}" target="_blank" rel="noopener noreferrer">{{ pub.title }}</a>{% else %}{{ pub.title }}{% endif %}</span><br>
       {{ pub.authors }}<br>
       <span class="pub-journal">{{ pub.journal }}</span>{% if pub.volume %}, vol. {{ pub.volume }}{% endif %}{% if pub.note %} — <em>{{ pub.note }}</em>{% endif %}{% if pub.year %}, {{ pub.year }}{% endif %}
     </div>

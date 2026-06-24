@@ -1,5 +1,5 @@
 - title: |
-    FLEX-MoCo: Flexible MRI motion correction using motion recognition and adaptive routing
+    FLEX-MoCo: Flexible MRI Motion Correction Using Motion Recognition and Adaptive Routing
   url: "https://www.sciencedirect.com/science/article/abs/pii/S0031320326006643"
   authors: |
     F. Li, Z. Shen, J. Cai, R. Xie, Z. Zhou, H. Zhang, D. Shen, F. Shi, and Q. Wang
@@ -20,7 +20,7 @@
   year: "2026"
   month: "May"
 - title: |
-    A unified deep learning framework for cross-platform harmonization of multi-tracer PET quantification in neurodegenerative disease
+    A Unified Deep Learning Framework for Cross-Platform Harmonization of Multi-Tracer PET Quantification in Neurodegenerative Disease
   url: "https://www.nature.com/articles/s41746-026-02570-0"
   authors: |
     J. Wang, A. Zhong, Q. Xu, H. Huang, Y. Zhu, J. Lu, M. Wang, J. Jiang, C. Li, M. Ni, K. Sun, Y. Guan, J. Lu, M. Tian, D. Shen, H. Zhang, Q. Wang, and C. Zuo
@@ -31,23 +31,25 @@
   year: "2026"
   month: "Mar"
 - title: |
-    UniCAS: A foundation model for cervical cytology screening
+    UniCAS: A Foundation Model for Cervical Cytology Screening
   url: "https://www.cell.com/cell-reports-medicine/abstract/S2666-3791(25)00643-3"
   authors: |
     H. Jiang, J. Cai, Z. Shen, M. Xu, M. Fei, H. Huang, X. Wang, R. Bi, D. Shen, L. Zhang, and Q. Wang
   journal: "Cell Reports Medicine"
   volume: "7"
   number: "1"
+  pages: "102570"
   year: "2026"
   month: "Jan"
 - title: |
-    A deep learning framework for synthesizing longitudinal infant brain MRI during early development
+    A Deep Learning Framework for Synthesizing Longitudinal Infant Brain MRI during Early Development
   url: "https://pubs.rsna.org/doi/10.1148/ryai.240708"
   authors: |
     Y. Fang, H. Xiong, J. Huang, F. Liu, Z. Shen, X. Cai, H. Zhang, and Q. Wang
   journal: "Radiology: Artificial Intelligence"
   volume: "7"
   number: "6"
+  pages: "e240708"
   year: "2025"
   month: "Nov"
 - title: |
@@ -56,17 +58,19 @@
   authors: |
     S. Wang, Z. Zhao, Z. Shen, B. Wang, Q. Wang, and D. Shen
   journal: "IEEE Transactions on Medical Imaging"
+  volume: "44"
   number: "10"
   pages: "4063–4072"
   year: "2025"
   month: "Oct"
 - title: |
-    DeepIH: A deep learning-based near-patient system for treatment recommendation in infantile hemangiomas
+    DeepIH: A Deep Learning-Based Near-Patient System for Treatment Recommendation in Infantile Hemangiomas
   url: "https://www.sciencedirect.com/science/article/abs/pii/S174680942500360X"
   authors: |
     M. Xu, Z. Zhao, L. Mei, S. Wang, X. Lin, S.-J. Chang, Q. Wang, Y. Qiu, and D. Shen
   journal: "Biomedical Signal Processing and Control"
   volume: "108"
+  pages: "107849"
   year: "2025"
   month: "Oct"
 - title: |
@@ -76,15 +80,17 @@
     J. Li, S. Wang, X. Wang, Y. Zhu, H. Xiong, Z. Zhuang, and Q. Wang
   journal: "Neural Networks"
   volume: "189"
+  pages: "107596"
   year: "2025"
   month: "Sep"
 - title: |
-    Learning contrast and content representations for synthesizing magnetic resonance image of arbitrary contrast
+    Learning Contrast and Content Representations for Synthesizing Magnetic Resonance Image of Arbitrary Contrast
   url: "https://www.sciencedirect.com/science/article/pii/S1361841525001823?dgcid=coauthor"
   authors: |
     H. Xiong, Y. Wang, Z. Shen, K. Sun, Y. Fang, Y. Chen, D. Shen, and Q. Wang
   journal: "Medical Image Analysis"
   volume: "104"
+  pages: "103635"
   year: "2025"
   month: "Aug"
 - title: |
@@ -99,40 +105,45 @@
   year: "2025"
   month: "Jul"
 - title: |
-    Toward general text-guided multimodal brain MRI synthesis for diagnosis and medical image analysis
+    Toward General Text-Guided Multimodal Brain MRI Synthesis for Diagnosis and Medical Image Analysis
   url: "https://www.cell.com/cell-reports-medicine/abstract/S2666-3791(25)00255-1"
   authors: |
     Y. Wang, H. Xiong, K. Sun, S. Bai, L. Dai, Z. Ding, J. Liu, Q. Wang, Q. Liu, and D. Shen
   journal: "Cell Reports Medicine"
   volume: "6"
   number: "6"
+  pages: "102182"
   year: "2025"
   month: "Jun"
 - title: |
-    Learning better contrastive view from radiologist’s gaze
+    Learning Better Contrastive View from Radiologist’s Gaze
   url: "https://www.sciencedirect.com/science/article/pii/S003132032500010X"
   authors: |
     S. Wang, Z. Zhao, Z. Zhuang, X. Ouyang, L. Zhang, Z. Li, C. Ma, T. Liu, D. Shen, and Q. Wang
   journal: "Pattern Recognition"
   volume: "162"
+  pages: "111350"
   year: "2025"
   month: "Jun"
 - title: |
-    CLIP in medical imaging: A survey
+    CLIP in Medical Imaging: A Survey
   url: "https://www.sciencedirect.com/science/article/pii/S1361841525000982"
   authors: |
     Z. Zhao, Y. Liu, H. Wu, M. Wang, Y. Li, S. Wang, L. Teng, D. Liu, Z. Cui, Q. Wang, and D. Shen
   journal: "Medical Image Analysis"
   volume: "102"
+  pages: "103551"
   year: "2025"
+  month: May
 - title: |
-    Evaluating the evolution and inter-individual variability of infant functional module development from 0 to 5 yr old
+    Evaluating the Evolution and Inter-Individual Variability of Infant Functional Module Development from 0 to 5 Yr Old
   url: "https://academic.oup.com/cercor/article-abstract/35/4/bhaf071/8119856?redirectedFrom=fulltext&login=false"
   authors: |
     L. Bian, N. Wang, Y. Li, A. Razi, Q. Wang, H. Zhang, D. Shen, and UNC/UMN Baby Connectome Project Consortium
   journal: "Cerebral Cortex"
   volume: "35"
   number: "4"
+  pages: "bhaf071"
   year: "2025"
   month: "Apr"
 - title: |
@@ -142,10 +153,11 @@
     Z. Wan, Y. Guo, S. Bao, Q. Wang, and B. A. Malin
   journal: "Health Data Science"
   volume: "5"
+  pages: "0256"
   year: "2025"
   month: "Apr"
 - title: |
-    Multiple Instance Learning-Based Prediction of Blood-brain Barrier Opening Outcomes Induced by Focused Ultrasound
+    Multiple Instance Learning-Based Prediction of Blood-Brain Barrier Opening Outcomes Induced by Focused Ultrasound
   url: "https://ieeexplore.ieee.org/document/10772066"
   authors: |
     H. Dai, W. Li, Q. Wang, and B. Cheng
@@ -156,16 +168,17 @@
   year: "2025"
   month: "Apr"
 - title: |
-    REHRSeg: Unleashing the power of self-supervised super-resolution for resource-efficient 3D MRI segmentation
+    REHRSeg: Unleashing the Power of Self-Supervised Super-Resolution for Resource-Efficient 3D MRI Segmentation
   url: "https://www.sciencedirect.com/science/article/pii/S0925231225000979"
   authors: |
     Z. Song, Y. Zhao, X. Li, M. Fei, X. Zhao, M. Liu, C. Chen, C.-H. Yeh, Q. Wang, G. Zheng, S. Ai, and L. Zhang
   journal: "Neurocomputing"
   volume: "624"
+  pages: "129425"
   year: "2025"
   month: "Apr"
 - title: |
-    Cross-modality PET image synthesis for Parkinson’s Disease diagnosis: a leap from [18F]FDG to [11C]CFT
+    Cross-Modality PET Image Synthesis for Parkinson’s Disease Diagnosis: A Leap from [18F]FDG to [11C]CFT
   url: "https://doi.org/10.1007/s00259-025-07096-3"
   authors: |
     Z. Shen, J. Wang, H. Huang, J. Lu, J. Ge, H. Xiong, P. Wu, Z. Ju, H. Lin, Y. Zhu, Y. Yang, F. Liu, Y. Guan, K. Sun, J. Wang, Q. Wang, and C. Zuo
@@ -176,7 +189,7 @@
   year: "2025"
   month: "Mar"
 - title: |
-    AASeg: Artery-aware Global-to-Local Framework for Aneurysm Segmentation in Head and Neck CTA Images
+    AASeg: Artery-Aware Global-to-Local Framework for Aneurysm Segmentation in Head and Neck CTA Images
   url: "https://ieeexplore.ieee.org/document/10750237"
   authors: |
     L. Yao, D. Chen, X. Zhao, M. Fei, Z. Song, Z. Xue, Y. Zhan, B. Song, F. Shi, Q. Wang, and D. Shen
@@ -187,15 +200,16 @@
   year: "2025"
   month: "Mar"
 - title: |
-    Uni-COAL: A unified framework for cross-modality synthesis and super-resolution of MR images
+    Uni-COAL: A Unified Framework for Cross-Modality Synthesis and Super-Resolution of MR Images
   url: "https://www.sciencedirect.com/science/article/pii/S0957417424031087?utm_campaign=STMJ_219742_AUTH_SERV_PA&utm_medium=email&utm_acid=287100118&SIS_ID=&dgcid=STMJ_219742_AUTH_SERV_PA&CMX_ID=&utm_in=DM536301&utm_source=AC_"
   authors: |
     Z. Song, Z. Qi, X. Wang, X. Zhao, Z. Shen, S. Wang, M. Fei, Z. Wang, D. Zang, D. Chen, L. Yao, M. Liu, Q. Wang, X. Wu, and L. Zhang
   journal: "Expert Systems with Applications"
+  pages: "126241"
   year: "2025"
   month: "Jan"
 - title: |
-    Transferring Adult-like Phase Images for Robust Multi-view Isointense Infant Brain Segmentation
+    Transferring Adult-Like Phase Images for Robust Multi-View Isointense Infant Brain Segmentation
   url: "https://ieeexplore.ieee.org/document/10601708"
   authors: |
     H. Liu, J. Huang, D. Jia, Q. Wang, J. Xu, and D. Shen
@@ -206,21 +220,23 @@
   year: "2025"
   month: "Jan"
 - title: |
-    Guiding fusion of dynamic functional and effective connectivity in spatio-temporal graph neural network for brain disorder classification
+    Guiding Fusion of Dynamic Functional and Effective Connectivity in Spatio-Temporal Graph Neural Network for Brain Disorder Classification
   url: "https://www.sciencedirect.com/science/article/pii/S0950705124014904"
   authors: |
     D. Chen, M. Liu, S. Wang, Z. Li, L. Bai, Q. Wang, D. Shen, and L. Zhang
   journal: "Knowledge-Based Systems"
   volume: "309"
+  pages: "112856"
   year: "2025"
   month: "Jan"
 - title: |
-    Whole slide cervical cancer classification via graph attention networks and contrastive learning
+    Whole Slide Cervical Cancer Classification via Graph Attention Networks and Contrastive Learning
   url: "https://www.sciencedirect.com/science/article/pii/S0925231224015583"
   authors: |
     M. Fei, X. Zhang, D. Chen, Z. Song, Q. Wang, and L. Zhang
   journal: "Neurocomputing"
   volume: "613"
+  pages: "128787"
   year: "2025"
   month: "Jan"
 - title: |
@@ -235,7 +251,7 @@
   year: "2024"
   month: "Nov"
 - title: |
-    ChatCAD+: Toward a Universal and Reliable Interactive CAD using LLMs
+    ChatCAD+: Toward a Universal and Reliable Interactive CAD Using LLMs
   url: "https://ieeexplore.ieee.org/document/10522762?source=authoralert"
   authors: |
     Z. Zhao, S. Wang, J. Gu, Y. Zhu, L. Mei, Z. Zhuang, Z. Cui, Q. Wang, and D. Shen
@@ -246,36 +262,39 @@
   year: "2024"
   month: "Nov"
 - title: |
-    Behavioral observation and assessment protocol for language and social-emotional development study in children aged 0–6: the Chinese baby connectome project
+    Behavioral Observation and Assessment Protocol for Language and Social-Emotional Development Study in Children Aged 0–6: The Chinese Baby Connectome Project
   url: "https://bmcpsychology.biomedcentral.com/articles/10.1186/s40359-024-02031-x"
   authors: |
     X. Xu, Z. Wang, W. Zhang, J. Guo, W. Wei, M. Zhang, X. Ding, X. Liu, Q. Yang, K. Wang, Y. Zhu, J. Sun, H. Song, Z. Shen, L. Chen, F. Shi, Q. Wang, Y. Li, H. Zhang, and D. Li
   journal: "BMC Psychology"
   volume: "12"
   number: "1"
+  pages: "533"
   year: "2024"
   month: "Oct"
 - title: |
-    Distillation of multi-class cervical lesion cell detection via synthesis-aided pre-training and patch-level feature alignment
+    Distillation of Multi-Class Cervical Lesion Cell Detection via Synthesis-Aided Pre-Training and Patch-Level Feature Alignment
   url: "https://www.sciencedirect.com/science/article/abs/pii/S0893608024003290"
   authors: |
     M. Fei, Z. Shen, Z. Song, X. Wang, M. Cao, L. Yao, X. Zhao, Q. Wang, and L. Zhang
   journal: "Neural Networks"
   volume: "178"
+  pages: "106405"
   year: "2024"
   month: "Oct"
 - title: |
-    Interactive computer-aided diagnosis on medical image using large language models
+    Interactive Computer-Aided Diagnosis on Medical Image Using Large Language Models
   url: "https://link.springer.com/article/10.1038/s44172-024-00271-8?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240917&utm_content=10.1038/s44172-024-00271-8"
   authors: |
     S. Wang, Z. Zhao, X. Ouyang, T. Liu, Q. Wang, and D. Shen
   journal: "Communications Engineering"
   volume: "3"
   number: "1"
+  pages: "1-9"
   year: "2024"
   month: "Sep"
 - title: |
-    Hierarchical encoding and fusion of brain functions for depression subtype classification
+    Hierarchical Encoding and Fusion of Brain Functions for Depression Subtype Classification
   url: "https://ieeexplore.ieee.org/abstract/document/10531005"
   authors: |
     M. Liu, H. Zhang, M. Liu, D. Chen, R. Zhou, W. Lu, L. Zhang, D. Shen, Q. Wang, and D. Peng
@@ -286,7 +305,7 @@
   year: "2024"
   month: "Jul"
 - title: |
-    Achieving multi-modal brain disease diagnosis performance using only single-modal images through generative AI
+    Achieving Multi-Modal Brain Disease Diagnosis Performance Using Only Single-Modal Images through Generative AI
   url: "https://www.nature.com/articles/s44172-024-00245-w"
   authors: |
     K. Sun, Y. Zhang, J. Liu, L. Yu, Y. Zhou, F. Xie, Q. Guo, H. Zhang, Q. Wang, and D. Shen
@@ -297,7 +316,7 @@
   year: "2024"
   month: "Jul"
 - title: |
-    Randomizing human brain function representation for brain disease diagnosis
+    Randomizing Human Brain Function Representation for Brain Disease Diagnosis
   url: "https://ieeexplore.ieee.org/document/10440630/"
   authors: |
     M. Liu, H. Zhang, M. Liu, D. Chen, Z. Zhuang, X. Wang, L. Zhang, D. Shen, D. Peng, and Q. Wang
@@ -308,7 +327,7 @@
   year: "2024"
   month: "Jul"
 - title: |
-    Patch-to-sample reasoning for cervical cancer screening of whole slide image
+    Patch-to-Sample Reasoning for Cervical Cancer Screening of Whole Slide Image
   url: "https://ieeexplore.ieee.org/abstract/document/10285382"
   authors: |
     M. Cao, M. Fei, H. Xiong, X. Zhang, X. Fan, L. Zhang, and Q. Wang
@@ -319,7 +338,7 @@
   year: "2024"
   month: "Jun"
 - title: |
-    Spatial attention-based implicit neural representation for arbitrary reduction of MRI slice space
+    Spatial Attention-Based Implicit Neural Representation for Arbitrary Reduction of MRI Slice Space
   url: "https://www.sciencedirect.com/science/article/abs/pii/S1361841524000835"
   authors: |
     X. Wang, S. Wang, H. Xiong, K. Xuan, Z. Zhuang, M. Liu, Z. Shen, X. Zhao, L. Zhang, and Q. Wang
@@ -327,16 +346,17 @@
   volume: "94"
   year: "2024"
 - title: |
-    sTBI-GAN: An adversarial learning approach for data synthesis on traumatic brain segmentation
+    sTBI-GAN: An Adversarial Learning Approach for Data Synthesis on Traumatic Brain Segmentation
   url: "https://www.sciencedirect.com/science/article/pii/S0895611124000028"
   authors: |
     X. Zhao, D. Zang, S. Wang, Z. Shen, K. Xuan, Z. Wei, Z. Wang, R. Zheng, X. Wu, Z. Li, Q. Wang, Z. Qi, and L. Zhang
   journal: "Computerized Medical Imaging and Graphics"
   volume: "112"
+  pages: "102325"
   year: "2024"
   month: "Mar"
 - title: |
-    RCPS: Rectified contrastive pseudo supervision for semi-supervised medical image segmentation
+    RCPS: Rectified Contrastive Pseudo Supervision for Semi-Supervised Medical Image Segmentation
   url: "https://ieeexplore.ieee.org/document/10273222"
   authors: |
     X. Zhao, Z. Qi, S. Wang, Q. Wang, X. Wu, Y. Mao, and L. Zhang
@@ -347,7 +367,7 @@
   year: "2024"
   month: "Jan"
 - title: |
-    Joint cross-attention network with deep modality prior for fast MRI reconstruction
+    Joint Cross-Attention Network with Deep Modality Prior for Fast MRI Reconstruction
   url: "https://ieeexplore.ieee.org/document/10247018"
   authors: |
     K. Sun, Q. Wang, and D. Shen
@@ -358,7 +378,7 @@
   year: "2024"
   month: "Jan"
 - title: |
-    TaG-Net: Topology-aware graph network for centerline-based vessel labeling
+    TaG-Net: Topology-Aware Graph Network for Centerline-Based Vessel Labeling
   url: "https://ieeexplore.ieee.org/document/10032183"
   authors: |
     L. Yao, F. Shi, S. Wang, X. Zhang, Z. Xue, X. Cao, Y. Zhan, L. Chen, Y. Chen, B. Song, Q. Wang, D. Shen
@@ -369,15 +389,16 @@
   year: "2023"
   month: "Nov"
 - title: |
-    A common spectrum underlying brain disorders across lifespan revealed by deep learning on brain networks
+    A Common Spectrum Underlying Brain Disorders across Lifespan Revealed by Deep Learning on Brain Networks
   url: "https://www.sciencedirect.com/science/article/pii/S2589004223023210"
   authors: |
     M. Liu, J. Zhang, Y. Wang, Y. Zhou, F. Xie, Q. Guo, F. Shi, H. Zhang, Q. Wang, and D. Shen
   journal: "iScience"
+  pages: "108244"
   year: "2023"
   month: "Oct"
 - title: |
-    Unsupervised landmark detection based spatiotemporal motion estimation for 4D dynamic medical images
+    Unsupervised Landmark Detection Based Spatiotemporal Motion Estimation for 4D Dynamic Medical Images
   url: "https://ieeexplore.ieee.org/document/9632459"
   authors: |
     Y. Guo, B. Lei, D. Wei, L. Chen, Z. Zhu, D. Feng, R. Zhang, Q. Wang, and J. Kim
@@ -388,7 +409,7 @@
   year: "2023"
   month: "Jun"
 - title: |
-    Knee cartilage defect assessment by graph representation and surface convolution
+    Knee Cartilage Defect Assessment by Graph Representation and Surface Convolution
   url: "https://doi.org/10.1109/TMI.2022.3206042"
   authors: |
     Z. Zhuang, L. Si, S. Wang, K. Xuan, X. Ouyang, Y. Zhan, Z. Xue, L. Zhang, D. Shen, W. Yao, and Q. Wang
@@ -399,25 +420,38 @@
   year: "2023"
   month: "Feb"
 - title: |
-    Image synthesis with disentangled attributes for chest X-ray nodule augmentation and detection
+    Image Synthesis with Disentangled Attributes for Chest X-Ray Nodule Augmentation and Detection
   url: "https://www.sciencedirect.com/science/article/abs/pii/S136184152200336X"
   authors: |
     Z. Shen, X. Ouyang, B. Xiao, J.-Z. Cheng, D. Shen, and Q. Wang
   journal: "Medical Image Analysis"
   volume: "84"
+  pages: "102708"
   year: "2023"
   month: "Feb"
 - title: |
-    Semantic instance segmentation with discriminative deep supervision for medical images
+    Breast Tumor Segmentation in DCE-MRI with Tumor Sensitive Synthesis
+  url: "https://ieeexplore.ieee.org/abstract/document/9640531"
+  authors: |
+    S. Wang, K. Sun, L. Wang, L. Qu, F. Yan, Q. Wang, and D. Shen
+  journal: "IEEE Transactions on Neural Networks and Learning Systems"
+  volume: "34"
+  number: "8"
+  pages: "4990–5001"
+  year: "2023"
+  month: "Aug"
+- title: |
+    Semantic Instance Segmentation with Discriminative Deep Supervision for Medical Images
   url: "https://www.sciencedirect.com/science/article/pii/S1361841522002547"
   authors: |
     S. Zhou, D. Nie, E. Adeli, Q. Wei, X. Ren, X. Liu, E. Zhu, J. Yin, Q. Wang, and D. Shen
   journal: "Medical Image Analysis"
   volume: "82"
+  pages: "102626"
   year: "2022"
   month: "Nov"
 - title: |
-    Multi-modal MRI reconstruction assisted with spatial alignment network
+    Multi-Modal MRI Reconstruction Assisted with Spatial Alignment Network
   url: "https://ieeexplore.ieee.org/document/9745968"
   authors: |
     K. Xuan, L. Xiang, X. Huang, L. Zhang, S. Liao, D. Shen, and Q. Wang
@@ -428,26 +462,28 @@
   year: "2022"
   month: "Sep"
 - title: |
-    Automatic grading assessments for knee MRI cartilage defects via self-ensembling semi-supervised learning with dual-consistency
+    Automatic Grading Assessments for Knee MRI Cartilage Defects via Self-Ensembling Semi-Supervised Learning with Dual-Consistency
   url: "https://www.sciencedirect.com/science/article/pii/S1361841522001554"
   authors: |
     J. Huo, X. Ouyang, L. Si, K. Xuan, S. Wang, W. Yao, Y. Liu, J. Xu, D. Qian, Z. Xue, Q. Wang, D. Shen, and L. Zhang
   journal: "Medical Image Analysis"
   volume: "80"
+  pages: "102508"
   year: "2022"
   month: "Aug"
 - title: |
-    Joint deep learning for batch effect removal and classification toward MALDI MS based metabolomics
+    Joint Deep Learning for Batch Effect Removal and Classification toward MALDI MS Based Metabolomics
   url: "https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04758-z"
   authors: |
     J. Niu, J. Yang, Y. Guo, K. Qian, and Q. Wang
   journal: "BMC Bioinformatics"
   volume: "23"
   number: "1"
+  pages: "270"
   year: "2022"
   month: "Jul"
 - title: |
-    Follow my eye: Using gaze to supervise computer-aided diagnosis
+    Follow My Eye: Using Gaze to Supervise Computer-Aided Diagnosis
   url: "https://ieeexplore.ieee.org/document/9694633"
   authors: |
     S. Wang, X. Ouyang, T. Liu, Q. Wang, and D. Shen
@@ -458,16 +494,17 @@
   year: "2022"
   month: "Jul"
 - title: |
-    Common feature learning for brain tumor MRI synthesis by context-aware generative adversarial network
+    Common Feature Learning for Brain Tumor MRI Synthesis by Context-Aware Generative Adversarial Network
   url: "https://www.sciencedirect.com/science/article/pii/S1361841522001190"
   authors: |
     P. Huang, D. Li, Z. Jiao, D. Wei, B. Cao, Z. Mo, Q. Wang, H. Zhang, and D. Shen
   journal: "Medical Image Analysis"
   volume: "79"
+  pages: "102472"
   year: "2022"
   month: "Jul"
 - title: |
-    Deep learning framework for integrating multibatch calibration, classification, and pathway activities
+    Deep Learning Framework for Integrating Multibatch Calibration, Classification, and Pathway Activities
   url: "https://pubs.acs.org/doi/full/10.1021/acs.analchem.2c00601"
   authors: |
     J. Niu, W. Xu, D. Wei, K. Qian, and Q. Wang
@@ -478,7 +515,7 @@
   year: "2022"
   month: "Jun"
 - title: |
-    Multiparametric MRI-based radiomics analysis: differentiation of subtypes of cervical cancer in the early stage
+    Multiparametric MRI-Based Radiomics Analysis: Differentiation of Subtypes of Cervical Cancer in the Early Stage
   url: "https://journals.sagepub.com/doi/abs/10.1177/02841851211014188"
   authors: |
     W. Wang, Y. Jiao, L. Zhang, C. Fu, X. Zhu, Q. Wang, and Y. Gu
@@ -489,7 +526,7 @@
   year: "2022"
   month: "Jun"
 - title: |
-    Recurrent tissue-aware network for deformable registration of infant brain MR images
+    Recurrent Tissue-Aware Network for Deformable Registration of Infant Brain MR Images
   url: "https://ieeexplore.ieee.org/document/9656924"
   authors: |
     D. Wei, S. Ahmad, Y. Guo, L. Chen, Y. Huang, L. Ma, Z. Wu, G. Li, L. Wang, W. Lin, P.-T. Yap, D. Shen, and Q. Wang
@@ -498,8 +535,9 @@
   number: "5"
   pages: "1219–1229"
   year: "2022"
+  month: May
 - title: |
-    GAN-guided deformable attention network for identifying thyroid nodules in ultrasound images
+    GAN-Guided Deformable Attention Network for Identifying Thyroid Nodules in Ultrasound Images
   url: "https://ieeexplore.ieee.org/abstract/document/9720140"
   authors: |
     J. Lu, X. Ouyang, X. Shen, T. Liu, Z. Cui, Q. Wang, and D. Shen
@@ -510,7 +548,7 @@
   year: "2022"
   month: "Apr"
 - title: |
-    Deep learning in knee imaging: a systematic review utilizing a Checklist for Artificial Intelligence in Medical Imaging (CLAIM)
+    Deep Learning in Knee Imaging: A Systematic Review Utilizing a Checklist for Artificial Intelligence in Medical Imaging (CLAIM)
   url: "https://doi.org/10.1007/s00330-021-08190-4"
   authors: |
     L. Si, J. Zhong, J. Huo, K. Xuan, Z. Zhuang, Y. Hu, Q. Wang, H. Zhang, and W. Yao
@@ -521,16 +559,17 @@
   year: "2022"
   month: "Feb"
 - title: |
-    Multi-class ASD classification via label distribution learning with class-shared and class-specific decomposition
+    Multi-Class ASD Classification via Label Distribution Learning with Class-Shared and Class-Specific Decomposition
   url: "https://www.sciencedirect.com/science/article/pii/S136184152100339X"
   authors: |
     J. Wang, F. Zhang, X. Jia, H. Zhang, S. Ying, Q. Wang, J. Shi, and D. Shen
   journal: "Medical Image Analysis"
   volume: "75"
+  pages: "102294"
   year: "2022"
   month: "Jan"
 - title: |
-    Image fusion network for dual-modal restoration
+    Image Fusion Network for Dual-Modal Restoration
   url: "https://www.aimsciences.org/article/doi/10.3934/ipi.2021067"
   authors: |
     Y. Zhang, X. Ren, B. A. Clifford, Q. Wang, and X. Zhang
@@ -541,16 +580,17 @@
   year: "2021"
   month: "Dec"
 - title: |
-    Reducing magnetic resonance image spacing by learning without ground-truth
+    Reducing Magnetic Resonance Image Spacing by Learning without Ground-Truth
   url: "https://www.sciencedirect.com/science/article/pii/S0031320321002909"
   authors: |
     K. Xuan, L. Si, L. Zhang, Z. Xue, Y. Jiao, W. Yao, D. Shen, D. Wu, and Q. Wang
   journal: "Pattern Recognition"
   volume: "120"
+  pages: "108103"
   year: "2021"
   month: "Dec"
 - title: |
-    Review and prospect: Artificial intelligence in advanced medical imaging
+    Review and Prospect: Artificial Intelligence in Advanced Medical Imaging
   url: "https://www.frontiersin.org/articles/10.3389/fradi.2021.781868/full"
   authors: |
     S. Wang, G. Cao, Y. Wang, S. Liao, Q. Wang, J. Shi, C. Li, and D. Shen
@@ -559,16 +599,17 @@
   year: "2021"
   month: "Dec"
 - title: |
-    Stability of AI-enabled diagnosis of Parkinson’s disease: a study targeting substantia nigra in quantitative susceptibility mapping imaging
+    Stability of AI-Enabled Diagnosis of Parkinson’s Disease: A Study Targeting Substantia Nigra in Quantitative Susceptibility Mapping Imaging
   url: "https://www.frontiersin.org/article/10.3389/fnins.2021.760975"
   authors: |
     B. Xiao, N. He, Q. Wang, F. Shi, Z. Cheng, E. M. Haacke, F. Yan, and D. Shen
   journal: "Frontiers in Neuroscience"
   volume: "15"
+  pages: "1498"
   year: "2021"
   month: "Nov"
 - title: |
-    Learning hierarchical attention for weakly-supervised chest X-Ray abnormality localization and diagnosis
+    Learning Hierarchical Attention for Weakly-Supervised Chest X-Ray Abnormality Localization and Diagnosis
   url: "https://ieeexplore.ieee.org/document/9284467"
   authors: |
     X. Ouyang, S. Karanam, Z. Wu, T. Chen, J. Huo, X. S. Zhou, Q. Wang, and J.-Z. Cheng
@@ -579,63 +620,69 @@
   year: "2021"
   month: "Oct"
 - title: |
-    Predicting motor outcome of subthalamic nucleus deep brain stimulation for Parkinson’s disease using quantitative susceptibility mapping and radiomics: A pilot study
+    Predicting Motor Outcome of Subthalamic Nucleus Deep Brain Stimulation for Parkinson’s Disease Using Quantitative Susceptibility Mapping and Radiomics: A Pilot Study
   url: "https://www.frontiersin.org/article/10.3389/fnins.2021.731109"
   authors: |
     Y. Liu, B. Xiao, C. Zhang, J. Li, Y. Lai, F. Shi, D. Shen, L. Wang, B. Sun, Y. Li, Z. Jin, H. Wei, E. M. Haacke, H. Zhou, Q. Wang, D. Li, N. He, and F. Yan
   journal: "Frontiers in Neuroscience"
   volume: "15"
+  pages: "1172"
   year: "2021"
   month: "Sep"
 - title: |
-    Ultra-fast label-free serum metabolic diagnosis of coronary heart disease via a deep stabilizer
+    Ultra-Fast Label-Free Serum Metabolic Diagnosis of Coronary Heart Disease via a Deep Stabilizer
   url: "https://onlinelibrary.wiley.com/doi/abs/10.1002/advs.202101333"
   authors: |
     M. Zhang, L. Huang, J. Yang, W. Xu, H. Su, J. Cao, Q. Wang, J. Pu, and K. Qian
   journal: "Advanced Science"
   volume: "8"
   number: "18"
+  pages: "2101333"
   year: "2021"
   month: "Aug"
 - title: |
-    Automatic left ventricular cavity segmentation via deep spatial sequential network in 4D computed tomography
+    Automatic Left Ventricular Cavity Segmentation via Deep Spatial Sequential Network in 4D Computed Tomography
   url: "https://www.sciencedirect.com/science/article/pii/S0895611121001014"
   authors: |
     Y. Guo, L. Bi, Z. Zhu, D. D. Feng, R. Zhang, Q. Wang, and J. Kim
   journal: "Computerized Medical Imaging and Graphics"
   volume: "91"
+  pages: "101952"
   year: "2021"
   month: "Jul"
 - title: |
-    An artificial-intelligence lung imaging analysis system (ALIAS) for population-based nodule computing in CT scans
+    An Artificial-Intelligence Lung Imaging Analysis System (ALIAS) for Population-Based Nodule Computing in CT Scans
   url: "https://www.sciencedirect.com/science/article/pii/S0895611121000471"
   authors: |
     L. Chen, D. Gu, Y. Chen, Y. Shao, X. Cao, G. Liu, Y. Gao, Q. Wang, and D. Shen
   journal: "Computerized Medical Imaging and Graphics"
   volume: "89"
+  pages: "101899"
   year: "2021"
   month: "Apr"
 - title: |
-    Computing infection distributions and longitudinal evolution patterns in lung CT images
+    Computing Infection Distributions and Longitudinal Evolution Patterns in Lung CT Images
   url: "https://bmcmedimaging.biomedcentral.com/articles/10.1186/s12880-021-00588-2"
   authors: |
     D. Gu, L. Chen, F. Shan, L. Xia, J. Liu, Z. Mo, F. Yan, B. Song, Y. Gao, X. Cao, Y. Chen, Y. Shao, M. Han, B. Wang, G. Liu, Q. Wang, F. Shi, D. Shen, and Z. Xue
   journal: " BMC Medical Imaging"
   volume: "21"
   number: "1"
+  pages: "57"
   year: "2021"
   month: "Mar"
 - title: |
-    Hierarchical pathology screening for cervical abnormality
+    Hierarchical Pathology Screening for Cervical Abnormality
   url: "https://www.sciencedirect.com/science/article/pii/S0895611121000409"
   authors: |
     M. Zhou, L. Zhang, X. Du, X. Ouyang, X. Zhang, Q. Shen, D. Luo, X. Fan, and Q. Wang
   journal: "Computerized Medical Imaging and Graphics"
   volume: "89"
+  pages: "101892"
   year: "2021"
   month: "Mar"
 - title: |
-    Knee cartilage thickness differs alongside ages: A 3-T magnetic resonance research upon 2,481 subjects via deep learning
+    Knee Cartilage Thickness Differs Alongside Ages: A 3-T Magnetic Resonance Research upon 2,481 Subjects via Deep Learning
   url: "https://www.frontiersin.org/articles/10.3389/fmed.2020.600049/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Medicine&id=600049"
   authors: |
     L. Si, K. Xuan, J. Zhong, J. Huo, Y. Xing, J. Geng, Y. Hu, H. Zhang, Q. Wang, and W. Yao
@@ -644,7 +691,7 @@
   year: "2021"
   month: "Feb"
 - title: |
-    Review of artificial intelligence techniques in imaging data acquisition, segmentation, and diagnosis for COVID-19
+    Review of Artificial Intelligence Techniques in Imaging Data Acquisition, Segmentation, and Diagnosis for COVID-19
   url: "https://ieeexplore.ieee.org/document/9069255"
   authors: |
     F. Shi, J. Wang, J. Shi, Z. Wu, Q. Wang, Z. Tang, K. He, Y. Shi, and D. Shen
@@ -654,16 +701,17 @@
   year: "2021"
   month: "Jan"
 - title: |
-    SLIR: Synthesis, localization, inpainting, and registration for image-guided thermal ablation of liver tumors
+    SLIR: Synthesis, Localization, Inpainting, and Registration for Image-Guided Thermal Ablation of Liver Tumors
   url: "http://www.sciencedirect.com/science/article/pii/S1361841520301274"
   authors: |
     D. Wei, S. Ahmad, J. Huo, P. Huang, P.-T. Yap, Z. Xue, J. Sun, W. Li, D. Shen, and Q. Wang
   journal: "Medical Image Analysis"
   volume: "65"
+  pages: "101763"
   year: "2020"
   month: "Oct"
 - title: |
-    Iterative label denoising network: Segmenting male pelvic organs in CT from 3D bounding box annotations
+    Iterative Label Denoising Network: Segmenting Male Pelvic Organs in CT from 3D Bounding Box Annotations
   url: "https://ieeexplore.ieee.org/document/8970553"
   authors: |
     S. Wang, Q. Wang, Y. Shao, L. Qu, C. Lian, J. Lian, and D. Shen
@@ -674,7 +722,7 @@
   year: "2020"
   month: "Oct"
 - title: |
-    Multi-class ASD classification based on functional connectivity and functional correlation tensor via multi-source domain adaptation and multi-view sparse representation
+    Multi-Class ASD Classification Based on Functional Connectivity and Functional Correlation Tensor via Multi-Source Domain Adaptation and Multi-View Sparse Representation
   url: "https://ieeexplore.ieee.org/document/9067035"
   authors: |
     J. Wang, L. Zhang, Q. Wang, L. Chen, J. Shi, X. Chen, Z. Li, and D. Shen
@@ -685,7 +733,7 @@
   year: "2020"
   month: "Oct"
 - title: |
-    Neuroimage-based consciousness evaluation of patients with secondary doubtful hydrocephalus before and after lumbar drainage
+    Neuroimage-Based Consciousness Evaluation of Patients with Secondary Doubtful Hydrocephalus before and after Lumbar Drainage
   url: "https://doi.org/10.1007/s12264-020-00542-2"
   authors: |
     J. Huo, Z. Qi, S. Chen, Q. Wang, X. Wu, D. Zang, T. Hiromi, J. Tan, L. Zhang, W. Tang, and D. Shen
@@ -696,7 +744,7 @@
   year: "2020"
   month: "Sep"
 - title: |
-    Dual-sampling attention network for diagnosis of COVID-19 from community acquired pneumonia
+    Dual-Sampling Attention Network for Diagnosis of COVID-19 from Community Acquired Pneumonia
   url: "https://ieeexplore.ieee.org/document/9095328"
   authors: |
     X. Ouyang, J. Huo, L. Xia, F. Shan, J. Liu, Z. Mo, F. Yan, Z. Ding, Q. Yang, B. Song, F. Shi, H. Yuan, Y. Wei, X. Cao, Y. Gao, D. Wu, Q. Wang, and D. Shen
@@ -707,17 +755,18 @@
   year: "2020"
   month: "Aug"
 - title: |
-    Machine learning of serum metabolic patterns encodes early-stage lung adenocarcinoma
+    Machine Learning of Serum Metabolic Patterns Encodes Early-Stage Lung Adenocarcinoma
   url: "https://www.nature.com/articles/s41467-020-17347-6"
   authors: |
     L. Huang, L. Wang, X. Hu, S. Chen, Y. Tao, H. Su, J. Yang, W. Xu, V. Vedarethinam, S. Wu, B. Liu, X. Wan, J. Lou, Q. Wang, and K. Qian
   journal: "Nature Communications"
   volume: "11"
   number: "1"
+  pages: "3556"
   year: "2020"
   month: "Jul"
 - title: |
-    CT male pelvic organ segmentation via hybrid loss network with incomplete annotation
+    CT Male Pelvic Organ Segmentation via Hybrid Loss Network with Incomplete Annotation
   url: "https://ieeexplore.ieee.org/document/8957549"
   authors: |
     S. Wang, D. Nie, L. Qu, Y. Shao, J. Lian, Q. Wang, and D. Shen
@@ -728,7 +777,7 @@
   year: "2020"
   month: "Jun"
 - title: |
-    Task decomposition and synchronization for semantic biomedical image segmentation
+    Task Decomposition and Synchronization for Semantic Biomedical Image Segmentation
   url: "https://ieeexplore.ieee.org/document/9126262"
   authors: |
     X. Ren, S. Ahmad, L. Zhang, L. Xiang, D. Nie, F. Yang, Q. Wang, and D. Shen
@@ -738,12 +787,13 @@
   year: "2020"
   month: "Jun"
 - title: |
-    Deep morphological simplification network (MS-Net) for guided registration of brain magnetic resonance images
+    Deep Morphological Simplification Network (MS-Net) for Guided Registration of Brain Magnetic Resonance Images
   url: "http://www.sciencedirect.com/science/article/pii/S0031320319304716"
   authors: |
     D. Wei, L. Zhang, Z. Wu, X. Cao, G. Li, D. Shen, and Q. Wang
   journal: "Pattern Recognition"
   volume: "100"
+  pages: "107171"
   year: "2020"
   month: "Apr"
 - title: |
@@ -754,10 +804,11 @@
   journal: "Advanced Materials"
   volume: "32"
   number: "23"
+  pages: "2000906"
   year: "2020"
   month: "Apr"
 - title: |
-    Segmentation and classification in digital pathology for glioma research: challenges and deep learning approaches
+    Segmentation and Classification in Digital Pathology for Glioma Research: Challenges and Deep Learning Approaches
   url: "https://www.frontiersin.org/articles/10.3389/fnins.2020.00027/full"
   authors: |
     T. Kurc, S. Bakas, X. Ren, A. Bagari, A. Momeni, Y. Huang, L. Zhang, A. Kumar, M. Thibault, Q. Qi, Q. Wang, A. Kori, O. Gevaert, Y. Zhang, D. Shen, M. Khened, X. Ding, G. Krishnamurthi, J. Kalpathy-Cramer, J. Davis, T. Zhao, R. Gupta, J. Saltz, and K. Farahani
@@ -766,7 +817,7 @@
   year: "2020"
   month: "Feb"
 - title: |
-    Urine metabolic fingerprints encode subtypes of kidney diseases
+    Urine Metabolic Fingerprints Encode Subtypes of Kidney Diseases
   url: "https://onlinelibrary.wiley.com/doi/abs/10.1002/ange.201913065"
   authors: |
     J. Yang, R. Wang, L. Huang, M. Zhang, J. Niu, C. Bao, N. Shen, M. Dai, Q. Guo, Q. Wang, Q. Wang, Q. Fu, and K. Qian
@@ -777,16 +828,17 @@
   year: "2020"
   month: "Jan"
 - title: |
-    Adversarial learning for mono- or multi-modal registration
+    Adversarial Learning for Mono- or Multi-Modal Registration
   url: "http://www.sciencedirect.com/science/article/pii/S1361841519300805"
   authors: |
     J. Fan, X. Cao, Q. Wang, P.-T. Yap, and D. Shen
   journal: "Medical Image Analysis"
   volume: "58"
+  pages: "101545"
   year: "2019"
   month: "Dec"
 - title: |
-    Quantitative susceptibility mapping based hybrid feature extraction for diagnosis of Parkinson’s disease
+    Quantitative Susceptibility Mapping Based Hybrid Feature Extraction for Diagnosis of Parkinson’s Disease
   url: "http://www.sciencedirect.com/science/article/pii/S2213158219304176"
   authors: |
     B. Xiao, N. He, Q. Wang, Z. Cheng, Y. Jiao, E. M. Haacke, F. Yan, and F. Shi
@@ -795,7 +847,7 @@
   year: "2019"
   month: "Nov"
 - title: |
-    Imaging-based individualized response prediction of carbon ion radiotherapy for prostate cancer patients
+    Imaging-Based Individualized Response Prediction of Carbon Ion Radiotherapy for Prostate Cancer Patients
   url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6817347/"
   authors: |
     S. Wu, Y. Jiao, Y. Zhang, X. Ren, P. Li, Q. Yu, Q. Zhang, Q. Wang, and S. Fu
@@ -805,7 +857,7 @@
   year: "2019"
   month: "Oct"
 - title: |
-    Overall survival time prediction for high-grade glioma patients based on large-scale brain functional networks
+    Overall Survival Time Prediction for High-Grade Glioma Patients Based on Large-Scale Brain Functional Networks
   url: "https://link.springer.com/article/10.1007%2Fs11682-018-9949-2"
   authors: |
     L. Liu, H. Zhang, J. Wu, Z. Yu, X. Chen, I. Rekik, Q. Wang, J. Lu, and D. Shen
@@ -816,7 +868,7 @@
   year: "2019"
   month: "Oct"
 - title: |
-    Deep learning for fast and spatially constrained tissue quantification from highly accelerated data in magnetic resonance fingerprinting
+    Deep Learning for Fast and Spatially Constrained Tissue Quantification from Highly Accelerated Data in Magnetic Resonance Fingerprinting
   url: "https://ieeexplore.ieee.org/document/8641364"
   authors: |
     Z. Fang, Y. Chen, M. Liu, L. Xiang, Q. Zhang, Q. Wang, W. Lin, and D. Shen
@@ -827,7 +879,7 @@
   year: "2019"
   month: "Oct"
 - title: |
-    Regression convolutional neural network for automated pediatric bone age assessment from hand radiograph
+    Regression Convolutional Neural Network for Automated Pediatric Bone Age Assessment from Hand Radiograph
   url: "https://ieeexplore.ieee.org/document/8500181"
   authors: |
     X. Ren, T. Li, X. Yang, S. Wang, S. Ahmad, L. Xiang, S. R. Stone, L. Li, Y. Zhan, D. Shen, and Q. Wang
@@ -838,7 +890,7 @@
   year: "2019"
   month: "Sep"
 - title: |
-    Sparse multiview task-centralized ensemble learning for ASD diagnosis based on age- and sex-related functional connectivity patterns
+    Sparse Multiview Task-Centralized Ensemble Learning for ASD Diagnosis Based on Age- and Sex-Related Functional Connectivity Patterns
   url: "https://ieeexplore.ieee.org/document/8388295"
   authors: |
     J. Wang, Q. Wang, H. Zhang, J. Chen, S. Wang, and D. Shen
@@ -849,7 +901,7 @@
   year: "2019"
   month: "Aug"
 - title: |
-    Can pretreatment 18F-FDG PET tumor texture features predict the outcomes of osteosarcoma treated by neoadjuvant chemotherapy?
+    Can Pretreatment 18F-FDG PET Tumor Texture Features Predict the Outcomes of Osteosarcoma Treated by Neoadjuvant Chemotherapy?
   url: "https://link.springer.com/article/10.1007/s00330-019-06074-2"
   authors: |
     H. Song, Y. Jiao, W. Wei, X. Ren, C. Shen, Z. Qiu, Q. Yang, Q. Wang, and Q.-Y. Luo
@@ -860,7 +912,7 @@
   year: "2019"
   month: "Jul"
 - title: |
-    Deep-learning-based multi-modal fusion for fast MR reconstruction
+    Deep-Learning-Based Multi-Modal Fusion for Fast MR Reconstruction
   url: "https://ieeexplore.ieee.org/document/8552399"
   authors: |
     L. Xiang, Y. Chen, W. Chang, Y. Zhan, W. Lin, Q. Wang, and D. Shen
@@ -871,7 +923,7 @@
   year: "2019"
   month: "Jul"
 - title: |
-    The artificial intelligence-enabled medical imaging: Today and its future
+    The Artificial Intelligence-Enabled Medical Imaging: Today and Its Future
   url: "http://www.sciencedirect.com/science/article/pii/S1001929419300276"
   authors: |
     Y. Shi and Q. Wang
@@ -882,7 +934,7 @@
   year: "2019"
   month: "Jun"
 - title: |
-    Hippocampal segmentation from longitudinal infant brain MR images via classification-guided boundary regression
+    Hippocampal Segmentation from Longitudinal Infant Brain MR Images via Classification-Guided Boundary Regression
   url: "https://ieeexplore.ieee.org/document/8664424"
   authors: |
     Y. Shao, J. Kim, Y. Gao, Q. Wang, W. Lin, and D. Shen
@@ -892,7 +944,7 @@
   year: "2019"
   month: "Mar"
 - title: |
-    Multi-channel 3D deep feature learning for survival time prediction of brain tumor patients using multi-modal neuroimages
+    Multi-Channel 3D Deep Feature Learning for Survival Time Prediction of Brain Tumor Patients Using Multi-Modal Neuroimages
   url: "https://www.nature.com/articles/s41598-018-37387-9"
   authors: |
     D. Nie, J. Lu, H. Zhang, E. Adeli, J. Wang, Z. Yu, L. Liu, Q. Wang, J. Wu, and D. Shen
@@ -903,7 +955,7 @@
   year: "2019"
   month: "Jan"
 - title: |
-    Medical image synthesis with deep convolutional adversarial networks
+    Medical Image Synthesis with Deep Convolutional Adversarial Networks
   url: "https://ieeexplore.ieee.org/document/8310638"
   authors: |
     D. Nie, R. Trullo, J. Lian, L. Wang, C. Petitjean, S. Ruan, Q. Wang, and D. Shen
@@ -914,7 +966,7 @@
   year: "2018"
   month: "Dec"
 - title: |
-    Diffusion kurtosis as an in vivo imaging marker of early radiation-induced changes in radiation-induced temporal lobe necrosis in nasopharyngeal carcinoma patients
+    Diffusion Kurtosis as an in Vivo Imaging Marker of Early Radiation-Induced Changes in Radiation-Induced Temporal Lobe Necrosis in Nasopharyngeal Carcinoma Patients
   url: "https://link.springer.com/10.1007/s00062-017-0585-9"
   authors: |
     L. Lu, S. Wang, Q. Wang, Y. Shao, X. Wei, Y. Li, and W. Li
@@ -925,7 +977,7 @@
   year: "2018"
   month: "Sep"
 - title: |
-    Relationship between subchondral bone microstructure and articular cartilage in the osteoarthritic knee using 3T MRI
+    Relationship between Subchondral Bone Microstructure and Articular Cartilage in the Osteoarthritic Knee Using 3T MRI
   url: "https://onlinelibrary.wiley.com/doi/abs/10.1002/jmri.25982"
   authors: |
     C. Liu, C. Liu, L. Si, H. Shen, Q. Wang, and W. Yao
@@ -936,7 +988,7 @@
   year: "2018"
   month: "Sep"
 - title: |
-    Deformable image registration using a cue-aware deep regression network
+    Deformable Image Registration Using a Cue-Aware Deep Regression Network
   url: "https://ieeexplore.ieee.org/document/8331111"
   authors: |
     X. Cao, J. Yang, J. Zhang, Q. Wang, P.-T. Yap, and D. Shen
@@ -947,7 +999,7 @@
   year: "2018"
   month: "Sep"
 - title: |
-    Multi-label nonlinear matrix completion with transductive multi-task feature selection for joint MGMT and IDH1 status prediction of patient with high-grade gliomas
+    Multi-Label Nonlinear Matrix Completion with Transductive Multi-Task Feature Selection for Joint MGMT and IDH1 Status Prediction of Patient with High-Grade Gliomas
   url: "https://ieeexplore.ieee.org/document/8294228"
   authors: |
     L. Chen, H. Zhang, J. Lu, K. Thung, A. Aibaidula, L. Liu, S. Chen, L. Jin, J. Wu, Q. Wang, L. Zhou, and D. Shen
@@ -958,7 +1010,7 @@
   year: "2018"
   month: "Aug"
 - title: |
-    Deep embedding convolutional neural network for synthesizing CT image from T1-Weighted MR image
+    Deep Embedding Convolutional Neural Network for Synthesizing CT Image from T1-Weighted MR Image
   url: "http://www.sciencedirect.com/science/article/pii/S1361841518301257"
   authors: |
     L. Xiang, Q. Wang, D. Nie, L. Zhang, X. Jin, Y. Qiao, and D. Shen
@@ -968,7 +1020,7 @@
   year: "2018"
   month: "Jul"
 - title: |
-    Exploring diagnosis and imaging biomarkers of Parkinson’s disease via iterative canonical correlation analysis based feature selection
+    Exploring Diagnosis and Imaging Biomarkers of Parkinson’s Disease via Iterative Canonical Correlation Analysis Based Feature Selection
   url: "http://www.sciencedirect.com/science/article/pii/S0895611118301861"
   authors: |
     L. Liu, Q. Wang, E. Adeli, L. Zhang, H. Zhang, and D. Shen
@@ -978,7 +1030,7 @@
   year: "2018"
   month: "Jul"
 - title: |
-    Region-adaptive deformable registration of CT/MRI pelvic images via learning-based image synthesis
+    Region-Adaptive Deformable Registration of CT/MRI Pelvic Images via Learning-Based Image Synthesis
   url: "https://ieeexplore.ieee.org/document/8328906"
   authors: |
     X. Cao, J. Yang, Y. Gao, Q. Wang, and D. Shen
@@ -989,7 +1041,7 @@
   year: "2018"
   month: "Jul"
 - title: |
-    Interleaved 3D-CNNs for joint segmentation of small-volume structures in head and neck CT images
+    Interleaved 3D-CNNs for Joint Segmentation of Small-Volume Structures in Head and Neck CT Images
   url: "https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.12837"
   authors: |
     X. Ren, L. Xiang, D. Nie, Y. Shao, H. Zhang, D. Shen, and Q. Wang
@@ -997,9 +1049,10 @@
   volume: "45"
   number: "5"
   pages: "2063–2075"
-  year: "2063"
+  year: "2018"
+  month: May
 - title: |
-    CLARITY for high-resolution imaging and quantification of vasculature in the whole mouse brain
+    CLARITY for High-Resolution Imaging and Quantification of Vasculature in the Whole Mouse Brain
   url: "http://www.aginganddisease.org/EN/abstract/abstract147672.shtml"
   authors: |
     L.-Y. Zhang, P. Lin, J. Pan, Y. Ma, Z. Wei, J. Lu, L. Wang, Y. Song, Y. Wang, Z. Zhang, K. Jin, Q. Wang, and G.-Y. Yang
@@ -1010,7 +1063,7 @@
   year: "2018"
   month: "Apr"
 - title: |
-    Metabolic fingerprinting on a plasmonic gold chip for mass spectrometry based in vitro diagnostics
+    Metabolic Fingerprinting on a Plasmonic Gold Chip for Mass Spectrometry Based in Vitro Diagnostics
   url: "https://pubs.acs.org/doi/10.1021/acscentsci.7b00546"
   authors: |
     X. Sun, L. Huang, R. Zhang, W. Xu, J. Huang, D. D. Gurav, V. Vedarethinam, R. Chen, J. Lou, Q. Wang, J. Wan, and K. Qian
@@ -1021,7 +1074,7 @@
   year: "2018"
   month: "Feb"
 - title: |
-    Deep auto-context convolutional neural networks for standard-dose PET image estimation from low-dose PET/MRI
+    Deep Auto-Context Convolutional Neural Networks for Standard-Dose PET Image Estimation from Low-Dose PET/MRI
   url: "http://www.sciencedirect.com/science/article/pii/S0925231217311761"
   authors: |
     L. Xiang, Y. Qiao, D. Nie, L. An, W. Lin, Q. Wang, and D. Shen
@@ -1031,17 +1084,18 @@
   year: "2017"
   month: "Dec"
 - title: |
-    Quantitative evaluation of subchondral bone microarchitecture in knee osteoarthritis using 3T MRI
+    Quantitative Evaluation of Subchondral Bone Microarchitecture in Knee Osteoarthritis Using 3T MRI
   url: "https://bmcmusculoskeletdisord.biomedcentral.com/articles/10.1186/s12891-017-1865-x"
   authors: |
     C. Liu, C. Liu, X. Ren, L. Si, H. Shen, Q. Wang, and W. Yao
   journal: "BMC Musculoskeletal Disorders"
   volume: "18"
   number: "1"
+  pages: "496"
   year: "2017"
   month: "Nov"
 - title: |
-    Learning-based structurally-guided construction of resting-state functional correlation tensors
+    Learning-Based Structurally-Guided Construction of Resting-State Functional Correlation Tensors
   url: "http://www.sciencedirect.com/science/article/pii/S0730725X17301261"
   authors: |
     L. Zhang, H. Zhang, X. Chen, Q. Wang, P.-T. Yap, and D. Shen
@@ -1051,7 +1105,7 @@
   year: "2017"
   month: "Nov"
 - title: |
-    Lung field segmentation using weighted sparse shape composition with robust initialization
+    Lung Field Segmentation Using Weighted Sparse Shape Composition with Robust Initialization
   url: "https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.12561"
   authors: |
     J. Xiong, Y. Shao, J. Ma, Y. Ren, Q. Wang, and J. Zhao
@@ -1062,7 +1116,7 @@
   year: "2017"
   month: "Nov"
 - title: |
-    Enhancement of Perivascular Spaces in 7 T MR Image using Haar Transform of Non-local Cubes and Block-matching Filtering
+    Enhancement of Perivascular Spaces in 7T MR Image Using Haar Transform of Non-Local Cubes and Block-Matching Filtering
   url: "https://www.nature.com/articles/s41598-017-09336-5"
   authors: |
     Y. Hou, S. H. Park, Q. Wang, J. Zhang, X. Zong, W. Lin, and D. Shen
@@ -1073,7 +1127,7 @@
   year: "2017"
   month: "Aug"
 - title: |
-    Computerized detection of lung nodules through radiomics
+    Computerized Detection of Lung Nodules through Radiomics
   url: "https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.12331"
   authors: |
     J. Ma, Z. Zhou, Y. Ren, J. Xiong, L. Fu, Q. Wang, and J. Zhao
@@ -1084,7 +1138,7 @@
   year: "2017"
   month: "Aug"
 - title: |
-    Multi-task diagnosis for autism spectrum disorders using multi-modality features: A multi-center study
+    Multi-Task Diagnosis for Autism Spectrum Disorders Using Multi-Modality Features: A Multi-Center Study
   url: "https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.23575"
   authors: |
     J. Wang, Q. Wang, J. Peng, D. Nie, F. Zhao, M. Kim, H. Zhang, C.-Y. Wee, S. Wang, and D. Shen
@@ -1095,7 +1149,7 @@
   year: "2017"
   month: "Jun"
 - title: |
-    Diffusion tensor imaging assesses white matter injury in neonates with hypoxic-ischemic encephalopathy
+    Diffusion Tensor Imaging Assesses White Matter Injury in Neonates with Hypoxic-Ischemic Encephalopathy
   url: "https://www.nrronline.org/article.asp?issn=1673-5374;year=2017;volume=12;issue=4;spage=603;epage=609;aulast=Li"
   authors: |
     H.-X. Li, X. Feng, Q. Wang, X. Dong, M. Yu, and W.-J. Tu
@@ -1106,7 +1160,7 @@
   year: "2017"
   month: "Apr"
 - title: |
-    Concatenated spatially-localized random forests for hippocampus labeling in adult and infant MR brain images
+    Concatenated Spatially-Localized Random Forests for Hippocampus Labeling in Adult and Infant MR Brain Images
   url: "http://www.sciencedirect.com/science/article/pii/S092523121630546X"
   authors: |
     L. Zhang, Q. Wang, Y. Gao, H. Li, G. Wu, and D. Shen
@@ -1116,7 +1170,7 @@
   year: "2017"
   month: "Mar"
 - title: |
-    Brain atlas fusion from high-thickness diagnostic magnetic resonance images by learning-based super-resolution
+    Brain Atlas Fusion from High-Thickness Diagnostic Magnetic Resonance Images by Learning-Based Super-Resolution
   url: "http://www.sciencedirect.com/science/article/pii/S0031320316302825"
   authors: |
     J. Zhang, L. Zhang, L. Xiang, Y. Shao, G. Wu, X. Zhou, D. Shen, and Q. Wang
@@ -1126,7 +1180,7 @@
   year: "2017"
   month: "Mar"
 - title: |
-    Computational medicine: A cybernetic eye for rare disease
+    Computational Medicine: A Cybernetic Eye for Rare Disease
   url: "https://www.nature.com/articles/s41551-017-0032"
   authors: |
     Q. Wang and D. Shen
@@ -1137,7 +1191,7 @@
   year: "2017"
   month: "Feb"
 - title: |
-    Scalable high-performance image registration framework by unsupervised deep feature representations learning
+    Scalable High-Performance Image Registration Framework by Unsupervised Deep Feature Representations Learning
   url: "https://ieeexplore.ieee.org/document/7314894"
   authors: |
     G. Wu, M. Kim, Q. Wang, B. C. Munsell, and D. Shen
@@ -1148,7 +1202,7 @@
   year: "2016"
   month: "Jul"
 - title: |
-    Dopamine receptor D2 and catechol-O-methyltransferase gene polymorphisms associated with anorexia nervosa in Chinese Han population: DRD2 and COMT gene polymorphisms were associated with AN
+    Dopamine Receptor D2 and Catechol-O-Methyltransferase Gene Polymorphisms Associated with Anorexia Nervosa in Chinese Han Population: DRD2 and COMT Gene Polymorphisms Were Associated with an
   url: "http://www.sciencedirect.com/science/article/pii/S0304394016300350"
   authors: |
     S. Peng, S. Yu, Q. Wang, Q. Kang, Y. Zhang, R. Zhang, W. Jiang, Y. Qian, H. Zhang, M. Zhang, Z. Xiao, and J. Chen
@@ -1158,7 +1212,7 @@
   year: "2016"
   month: "Mar"
 - title: |
-    Automatic labeling of MR brain images by hierarchical learning of atlas forests
+    Automatic Labeling of MR Brain Images by Hierarchical Learning of Atlas Forests
   url: "https://aapm.onlinelibrary.wiley.com/doi/abs/10.1118/1.4941011"
   authors: |
     L. Zhang, Q. Wang, Y. Gao, G. Wu, and D. Shen
@@ -1176,10 +1230,11 @@
   journal: "PLOS ONE"
   volume: "11"
   number: "1"
+  pages: "e0146870"
   year: "2016"
   month: "Jan"
 - title: |
-    Association of abnormal white matter integrity in the acute phase of motor vehicle accidents with post-traumatic stress disorder
+    Association of Abnormal White Matter Integrity in the Acute Phase of Motor Vehicle Accidents with Post-Traumatic Stress Disorder
   url: "http://www.sciencedirect.com/science/article/pii/S0165032715306431"
   authors: |
     H. Hu, Y. Zhou, Q. Wang, S. Su, Y. Qiu, J. Ge, Z. Wang, and Z. Xiao
@@ -1189,7 +1244,7 @@
   year: "2016"
   month: "Jan"
 - title: |
-    Locally-constrained boundary regression for segmentation of prostate and rectum in the planning CT images
+    Locally-Constrained Boundary Regression for Segmentation of Prostate and Rectum in the Planning CT Images
   url: "http://www.sciencedirect.com/science/article/pii/S1361841515000948"
   authors: |
     Y. Shao, Y. Gao, Q. Wang, X. Yang, and D. Shen
@@ -1200,7 +1255,7 @@
   year: "2015"
   month: "Dec"
 - title: |
-    Automatic segmentation of spinal canals in CT images via iterative topology refinement
+    Automatic Segmentation of Spinal Canals in CT Images via Iterative Topology Refinement
   url: "https://ieeexplore.ieee.org/document/7112540"
   authors: |
     Q. Wang, L. Lu, D. Wu, N. El-Zehiry, Y. Zheng, D. Shen, and K. S. Zhou
@@ -1211,7 +1266,7 @@
   year: "2015"
   month: "Aug"
 - title: |
-    Hierarchical and symmetric infant image registration by robust longitudinal-example-guided correspondence detection
+    Hierarchical and Symmetric Infant Image Registration by Robust Longitudinal-Example-Guided Correspondence Detection
   url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4474954/"
   authors: |
     Y. Wu, G. Wu, L. Wang, B. C. Munsell, Q. Wang, W. Lin, Q. Feng, W. Chen, and D. Shen
@@ -1222,7 +1277,7 @@
   year: "2015"
   month: "Jul"
 - title: |
-    Hierarchical multi-atlas label fusion with multi-scale feature representation and label-specific patch partition
+    Hierarchical Multi-Atlas Label Fusion with Multi-Scale Feature Representation and Label-Specific Patch Partition
   url: "http://www.sciencedirect.com/science/article/pii/S1053811914009422"
   authors: |
     G. Wu, M. Kim, G. Sanroma, Q. Wang, B. C. Munsell, and D. Shen
@@ -1232,7 +1287,7 @@
   year: "2015"
   month: "Feb"
 - title: |
-    Predict brain MR image registration via sparse learning of appearance and transformation
+    Predict Brain MR Image Registration via Sparse Learning of Appearance and Transformation
   url: "http://www.sciencedirect.com/science/article/pii/S1361841514001534"
   authors: |
     Q. Wang, M. Kim, Y. Shi, G. Wu, and D. Shen
@@ -1243,7 +1298,7 @@
   year: "2015"
   month: "Feb"
 - title: |
-    Improved image registration by sparse patch-based deformation estimation
+    Improved Image Registration by Sparse Patch-Based Deformation Estimation
   url: "http://www.sciencedirect.com/science/article/pii/S105381191400843X"
   authors: |
     M. Kim, G. Wu, Q. Wang, S.-W. Lee, and D. Shen
@@ -1253,7 +1308,7 @@
   year: "2015"
   month: "Jan"
 - title: |
-    Groupwise registration of brain magnetic resonance images: A review
+    Groupwise Registration of Brain Magnetic Resonance Images: A Review
   url: "https://link.springer.com/article/10.1007/s12204-014-1576-5"
   authors: |
     Q. Liu and Q. Wang
@@ -1264,7 +1319,7 @@
   year: "2014"
   month: "Dec"
 - title: |
-    Multi-atlas based representations for Alzheimer’s disease diagnosis
+    Multi-Atlas Based Representations for Alzheimer’s Disease Diagnosis
   url: "https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.22531"
   authors: |
     R. Min, G. Wu, J. Cheng, Q. Wang, and D. Shen
@@ -1275,7 +1330,7 @@
   year: "2014"
   month: "Oct"
 - title: |
-    A generative probability model of joint label fusion for multi-atlas based brain segmentation
+    A Generative Probability Model of Joint Label Fusion for Multi-Atlas Based Brain Segmentation
   url: "http://www.sciencedirect.com/science/article/pii/S1361841513001576"
   authors: |
     G. Wu, Q. Wang, D. Zhang, F. Nie, H. Huang, and D. Shen
@@ -1286,7 +1341,7 @@
   year: "2014"
   month: "Aug"
 - title: |
-    Diffusion tensor image registration using hybrid connectivity and tensor features
+    Diffusion Tensor Image Registration Using Hybrid Connectivity and Tensor Features
   url: "https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.22419"
   authors: |
     Q. Wang, P.-T. Yap, G. Wu, and D. Shen
@@ -1297,7 +1352,7 @@
   year: "2014"
   month: "Jul"
 - title: |
-    S-HAMMER: Hierarchical attribute-guided, symmetric diffeomorphic registration for MR brain images
+    S-HAMMER: Hierarchical Attribute-Guided, Symmetric Diffeomorphic Registration for MR Brain Images
   url: "https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.22233"
   authors: |
     G. Wu, M. Kim, Q. Wang, and D. Shen
@@ -1308,7 +1363,7 @@
   year: "2014"
   month: "Mar"
 - title: |
-    Integration of network topological and connectivity properties for neuroimaging classification
+    Integration of Network Topological and Connectivity Properties for Neuroimaging Classification
   url: "https://ieeexplore.ieee.org/document/6617721/"
   authors: |
     B. Jie, D. Zhang, W. Gao, Q. Wang, C.-Y. Wee, and D. Shen
@@ -1319,7 +1374,7 @@
   year: "2014"
   month: "Feb"
 - title: |
-    Hierarchical unbiased graph shrinkage (HUGS): A novel groupwise registration for large data set
+    Hierarchical Unbiased Graph Shrinkage (hugs): A Novel Groupwise Registration for Large Data Set
   url: "http://www.sciencedirect.com/science/article/pii/S1053811913009592"
   authors: |
     S. Ying, G. Wu, Q. Wang, and D. Shen
@@ -1329,7 +1384,7 @@
   year: "2014"
   month: "Jan"
 - title: |
-    Application of neuroanatomical features to tractography clustering
+    Application of Neuroanatomical Features to Tractography Clustering
   url: "https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.22051"
   authors: |
     Q. Wang, P.-T. Yap, G. Wu, and D. Shen
@@ -1340,17 +1395,18 @@
   year: "2013"
   month: "Sep"
 - title: |
-    Estimating the 4D respiratory lung motion by spatiotemporal registration and super-resolution image reconstruction
+    Estimating the 4D Respiratory Lung Motion by Spatiotemporal Registration and Super-Resolution Image Reconstruction
   url: "https://aapm.onlinelibrary.wiley.com/doi/abs/10.1118/1.4790689"
   authors: |
     G. Wu, Q. Wang, J. Lian, and D. Shen
   journal: "Medical Physics"
   volume: "40"
   number: "3"
+  pages: "031710"
   year: "2013"
   month: "Mar"
 - title: |
-    Directed graph based image registration
+    Directed Graph Based Image Registration
   url: "https://www.sciencedirect.com/science/article/pii/S0895611111001200"
   authors: |
     H. Jia, G. Wu, Q. Wang, Y. Wang, M. Kim, and D. Shen
@@ -1361,7 +1417,7 @@
   year: "2012"
   month: "Mar"
 - title: |
-    Feature-based groupwise registration by hierarchical anatomical correspondence detection
+    Feature-Based Groupwise Registration by Hierarchical Anatomical Correspondence Detection
   url: "https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.21209"
   authors: |
     G. Wu, Q. Wang, H. Jia, and D. Shen
@@ -1372,7 +1428,7 @@
   year: "2012"
   month: "Feb"
 - title: |
-    Registration of longitudinal brain image sequences with implicit template and spatial–temporal heuristics
+    Registration of Longitudinal Brain Image Sequences with Implicit Template and Spatial–Temporal Heuristics
   url: "http://www.sciencedirect.com/science/article/pii/S1053811911007877"
   authors: |
     G. Wu, Q. Wang, and D. Shen
@@ -1383,7 +1439,7 @@
   year: "2012"
   month: "Jan"
 - title: |
-    SharpMean: Groupwise registration guided by sharp mean image and tree-based registration
+    SharpMean: Groupwise Registration Guided by Sharp Mean Image and Tree-Based Registration
   url: "http://www.sciencedirect.com/science/article/pii/S1053811911003284"
   authors: |
     G. Wu, H. Jia, Q. Wang, and D. Shen
@@ -1394,7 +1450,7 @@
   year: "2011"
   month: "Jun"
 - title: |
-    Intermediate templates guided groupwise registration of diffusion tensor images
+    Intermediate Templates Guided Groupwise Registration of Diffusion Tensor Images
   url: "http://www.sciencedirect.com/science/article/pii/S1053811910012000"
   authors: |
     H. Jia, P.-T. Yap, G. Wu, Q. Wang, and D. Shen
@@ -1405,7 +1461,7 @@
   year: "2011"
   month: "Jan"
 - title: |
-    Groupwise registration based on hierarchical image clustering and atlas synthesis
+    Groupwise Registration Based on Hierarchical Image Clustering and Atlas Synthesis
   url: "https://www.onlinelibrary.wiley.com/doi/abs/10.1002/hbm.20923"
   authors: |
     Q. Wang, L. Chen, P.-T. Yap, G. Wu, and D. Shen
@@ -1416,7 +1472,7 @@
   year: "2010"
   month: "Aug"
 - title: |
-    ABSORB: Atlas building by self-organized registration and bundling
+    ABSORB: Atlas Building by Self-Organized Registration and Bundling
   url: "http://www.sciencedirect.com/science/article/pii/S1053811910002806"
   authors: |
     H. Jia, G. Wu, Q. Wang, and D. Shen
@@ -1427,7 +1483,7 @@
   year: "2010"
   month: "Jul"
 - title: |
-    Attribute vector guided groupwise registration
+    Attribute Vector Guided Groupwise Registration
   url: "http://www.sciencedirect.com/science/article/pii/S1053811910000601"
   authors: |
     Q. Wang, G. Wu, P.-T. Yap, and D. Shen
@@ -1436,14 +1492,4 @@
   number: "4"
   pages: "1485–1496"
   year: "2010"
-- title: |
-    Breast tumor segmentation in DCE-MRI with tumor sensitive synthesis
-  url: "https://ieeexplore.ieee.org/abstract/document/9640531"
-  authors: |
-    S. Wang, K. Sun, L. Wang, L. Qu, F. Yan, Q. Wang, and D. Wang
-  journal: "IEEE Transactions on Neural Networks and Learning Systems"
-  volume: "34"
-  number: "8"
-  pages: "4990–5001"
-  year: "2023"
-  month: "Aug"
+  month: May

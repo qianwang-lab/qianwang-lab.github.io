@@ -1,5 +1,70 @@
 - title: |
-    Multi-Tracer Uptake Correction for PET-MR via Aligned-Feature Guidance and Multi-scale Pixel-adaptive Routing
+    TracerAD: Training-Free Few-Shot 3D Anomaly Detection for Novel PET Tracers
+  authors: |
+    H. Huang, J. Wu, J. Lu, Z. Shen, X. Wang, C. Zuo, and Q. Wang
+  venue: "Medical Image Computing and Computer Assisted Intervention – MICCAI 2026"
+  year: "2026"
+  location: "Strasbourg, France"
+- title: |
+    PETFlux: Taming Natural Foundation Models for Accurate MRI-to-PET Synthesis
+  authors: |
+    Y. Yin, H. Xiong, H. Huang, Y. Li, Y. Kong, Y. Zhu, Z. Jiang, K. Sun, D. Shen, and Q. Wang
+  venue: "Medical Image Computing and Computer Assisted Intervention – MICCAI 2026"
+  year: "2026"
+  location: "Strasbourg, France"
+- title: |
+    Diagnosing 3D Volumes from Camera Video: A Semantic-Robust Framework without Direct DICOM Access
+  authors: |
+    J. Wu, H. Huang, J. Li, and Q. Wang
+  venue: "Medical Image Computing and Computer Assisted Intervention – MICCAI 2026"
+  year: "2026"
+  location: "Strasbourg, France"
+- title: |
+    Restoring Volumetric Consistency for Slice-Wise MRI Synthesis via Spatial Aware Rectified Flow Matching
+  authors: |
+    Y. Chen, H. Xiong, F. Shi, J. Shi, D. Shen, and Q. Wang
+  venue: "Medical Image Computing and Computer Assisted Intervention – MICCAI 2026"
+  year: "2026"
+  location: "Strasbourg, France"
+- title: |
+    EvoMed: Self-Evolving Medical VLM via Training-Free Continued Learning
+  authors: |
+    J. Li, H. Xiong, and Q. Wang
+  venue: "Medical Image Computing and Computer Assisted Intervention – MICCAI 2026"
+  year: "2026"
+  location: "Strasbourg, France"
+- title: |
+    CerviThink: A Reinforced Visual Reasoning Framework for Cervical Cancer Cell Classification
+  authors: |
+    M. Fei, H. Jiang, Z. Yi, Q. Wang, and L. Zhang
+  venue: "Medical Image Computing and Computer Assisted Intervention – MICCAI 2026"
+  year: "2026"
+  location: "Strasbourg, France"
+- title: |
+    MedTriFlow: Efficient Resolution-Agnostic 3D Medical Image Generation with Implicit Triplane Representation
+  authors: |
+    C. Xu, Y. Dou, T. Luo, Q. Wang, and Z. Cui
+  venue: "Medical Image Computing and Computer Assisted Intervention – MICCAI 2026"
+  year: "2026"
+  location: "Strasbourg, France"
+- title: |
+    Beyond Sequential Tools: A Unified VLM Agent System for Photographic Post-Processing via Dynamic Multi-Expert Fusion
+  url: "https://openaccess.thecvf.com/content/CVPR2026/html/Xiong_Beyond_Sequential_Tools_A_Unified_VLM_Agent_System_for_Photographic_CVPR_2026_paper.html"
+  authors: |
+    H. Xiong, C. Zhu, J. Ding, Z. Ni, W. Li, Z. Mi, and Q. Wang
+  venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
+  year: "2026"
+  location: "Denver, CO, USA"
+- title: |
+    Benchmarking Detectors for the RIVA Cervical Cytology Challenge
+  url: "https://ieeexplore.ieee.org/document/11515971/authors"
+  authors: |
+    H. Jiang, M. Xu, M. Fei, Z. Liu, L. Zhang, and Q. Wang
+  venue: "IEEE International Symposium on Biomedical Imaging (ISBI)"
+  year: "2026"
+  location: "London, United Kingdom"
+- title: |
+    Multi-Tracer Uptake Correction for PET-MR via Aligned-Feature Guidance and Multi-Scale Pixel-Adaptive Routing
   url: "https://papers.miccai.org/miccai-2025/0619-Paper2476.html"
   authors: |
     A. Zhong, H. Huang, J. Wang, Z. Shen, H. Song, J. Wu, Y. Zhu, Y. Liu, C. Zuo, and Q. Wang
@@ -7,7 +72,7 @@
   year: "2025"
   location: "Daejeon, South Korea"
 - title: |
-    Multi-task Screening for Cervical Diseases via Feature Routing and Asymmetric Distillation
+    Multi-Task Screening for Cervical Diseases via Feature Routing and Asymmetric Distillation
   url: "https://papers.miccai.org/miccai-2025/0618-Paper1643.html"
   authors: |
     H. Jiang, H. Huang, J. Cai, Z. Shen, M. Xu, M. Fei, X. Wang, L. Zhang, and Q. Wang
@@ -31,7 +96,7 @@
   year: "2025"
   location: "Daejeon, South Korea"
 - title: |
-    UniSyn: A Unified Text-guided Model for Cross-modality Synthesis of MRI, CT, and PET
+    UniSyn: A Unified Text-Guided Model for Cross-Modality Synthesis of MRI, Ct, and PET
   url: "https://papers.miccai.org/miccai-2025/0976-Paper2865.html"
   authors: |
     Y. Wang, H. Xiong, K. Sun, J. Liu, X. Lin, Z. Chen, Y. He, Q. Wang, and D. Shen
@@ -70,7 +135,7 @@
   venue: "Conference on Computer Vision and Pattern Recognition (CVPR)"
   year: "2025"
 - title: |
-    Taming Masked Image Modeling for Chest X-ray Diagnosis by Incorporating Clinical Visual Priors
+    Taming Masked Image Modeling for Chest X-Ray Diagnosis by Incorporating Clinical Visual Priors
   url: "https://link.springer.com/chapter/10.1007/978-3-031-96625-5_11"
   authors: |
     Z. Zhao, M. Wang, Z. Cui, S. Wang, Q. Zhou, L. Fan, Q. Wang, and D. Shen
@@ -150,7 +215,7 @@
   year: "2024"
   location: "Marrakesh, Morocco"
 - title: |
-    Self-supervised Learning with Adaptive Graph Structure and Function Representation For Cross-Dataset Brain Disorder Diagnosis
+    Self-Supervised Learning with Adaptive Graph Structure and Function Representation for Cross-Dataset Brain Disorder Diagnosis
   url: "https://papers.miccai.org/miccai-2024/685-Paper0719.html"
   authors: |
     D. Chen, L. Yao, M. Liu, Z. Shen, Y. Hu, Z. Song, Q. Wang, and L. Zhang
@@ -158,7 +223,7 @@
   year: "2024"
   location: "Marrakesh, Morocco"
 - title: |
-    Inter-slice Super-resolution of Magnetic Resonance Images by Pre-training and Self-supervised Fine-tuning
+    Inter-Slice Super-Resolution of Magnetic Resonance Images by Pre-Training and Self-Supervised Fine-Tuning
   url: "https://ieeexplore.ieee.org/document/10635169"
   authors: |
     X. Wang, Z. Song, Y. Zhu, S. Wang, L. Zhang, D. Shen, and Q. Wang
@@ -166,7 +231,7 @@
   year: "2024"
   location: "Athens, Greece"
 - title: |
-    MeLo: Low-rank Adaptation is Better than Fine-tuning for Medical Image Diagnosis
+    MeLo: Low-Rank Adaptation Is Better Than Fine-Tuning for Medical Image Diagnosis
   url: "https://ieeexplore.ieee.org/document/10635615/"
   authors: |
     Y. Zhu, Z. Shen, Z. Zhao, S. Wang, X. Wang, X. Zhao, D. Shen, and Q. Wang
@@ -190,7 +255,7 @@
   year: "2024"
   location: "Vancouver, British Columbia"
 - title: |
-    Crafting Good Views of Medical Images for Contrastive Learning via Expert-level Visual Attention
+    Crafting Good Views of Medical Images for Contrastive Learning via Expert-Level Visual Attention
   url: "https://proceedings.mlr.press/v226/wang24b.html"
   authors: |
     S. Wang, Z. Zhao, L. Zhang, D. Shen, and Q. Wang
@@ -206,7 +271,7 @@
   year: "2023"
   location: "Vancouver, British Columbia"
 - title: |
-    Detection-free Pipeline for Cervical Cancer Screening of Whole Slide Images
+    Detection-Free Pipeline for Cervical Cancer Screening of Whole Slide Images
   url: "https://link.springer.com/chapter/10.1007/978-3-031-43987-2_24"
   authors: |
     M. Cao, M. Fei, J. Cai, L. Liu, L. Zhang, and Q. Wang
@@ -214,7 +279,7 @@
   year: "2023"
   location: "Vancouver, British Columbia"
 - title: |
-    Robust Cervical Abnormal Cell Detection via Distillation from Local-scale Consistency Refinement
+    Robust Cervical Abnormal Cell Detection via Distillation from Local-Scale Consistency Refinement
   url: "https://link.springer.com/chapter/10.1007/978-3-031-43987-2_63"
   authors: |
     M. Fei, X. Zhang, M. Cao, Z. Shen, X. Zhao, Z. Song, Q. Wang, and L. Zhang
@@ -238,7 +303,7 @@
   year: "2023"
   location: "Vancouver, British Columbia"
 - title: |
-    CAS-Net: Cross-view Aligned Segmentation by Graph Representation of Knees
+    CAS-Net: Cross-View Aligned Segmentation by Graph Representation of Knees
   url: "https://link.springer.com/chapter/10.1007/978-3-031-43901-8_11"
   authors: |
     Z. Zhuang, X. Wang, S. Wang, Z. Shen, X. Zhao, M. Liu, Z. Xue, D. Shen, L. Zhang, and Q. Wang
@@ -262,7 +327,7 @@
   year: "2023"
   location: "Vancouver, British Columbia"
 - title: |
-    Arbitrary Reduction of MRI Inter-slice Spacing Using Hierarchical Feature Conditional Diffusion
+    Arbitrary Reduction of MRI Inter-Slice Spacing Using Hierarchical Feature Conditional Diffusion
   url: "https://link.springer.com/chapter/10.1007/978-3-031-45673-2_3"
   authors: |
     X. Wang, Z. Shen, Z. Song, S. Wang, M. Liu, L. Zhang, K. Xuan, and Q. Wang
@@ -307,7 +372,7 @@
   venue: "Imaging Systems for GI Endoscopy, and Graphs in Biomedical Image Analysis"
   year: "2022"
 - title: |
-    Nodule Synthesis and Selection for Augmenting Chest X-ray Nodule Detection
+    Nodule Synthesis and Selection for Augmenting Chest X-Ray Nodule Detection
   url: "https://link.springer.com/chapter/10.1007%2F978-3-030-88010-1_45"
   authors: |
     Z. Shen, X. Ouyang, Z. Wang, Y. Zhan, Z. Xue, Q. Wang, J.-Z. Cheng, and D. Shen
@@ -315,7 +380,7 @@
   year: "2021"
   location: "Beijing, China"
 - title: |
-    Self-adversarial Learning for Detection of Clustered Microcalcifications in Mammograms
+    Self-Adversarial Learning for Detection of Clustered Microcalcifications in Mammograms
   url: "https://link.springer.com/chapter/10.1007%2F978-3-030-87234-2_8"
   authors: |
     X. Ouyang, J. Che, Q. Chen, Z. Li, Y. Zhan, Z. Xue, Q. Wang, J.-Z. Cheng, and D. Shen
@@ -347,7 +412,7 @@
   year: "2021"
   location: "Strasbourg, France"
 - title: |
-    Self-guided Multi-attention Network for Periventricular Leukomalacia Recognition
+    Self-Guided Multi-Attention Network for Periventricular Leukomalacia Recognition
   url: "https://doi.org/10.1007/978-3-030-87602-9_12"
   authors: |
     Z. Wang, T. Huang, B. Xiao, J. Huo, S. Wang, H. Jiang, H. Liu, F. Wu, X. Zhou, Z. Xue, J. Yang, and Q. Wang
@@ -355,7 +420,7 @@
   year: "2021"
   location: "Strasbourg, France"
 - title: |
-    False Positive Suppression in Cervical Cell Screening via Attention-Guided Semi-supervised Learning
+    False Positive Suppression in Cervical Cell Screening via Attention-Guided Semi-Supervised Learning
   url: "https://link.springer.com/chapter/10.1007/978-3-030-87602-9_9"
   authors: |
     X. Du, J. Huo, Y. Qiao, Q. Wang, and L. Zhang
@@ -363,7 +428,7 @@
   year: "2021"
   location: "Strasbourg, France"
 - title: |
-    Anatomical Structure-Aware Pulmonary Nodule Detection via Parallel Multi-task RoI Head
+    Anatomical Structure-Aware Pulmonary Nodule Detection via Parallel Multi-Task Roi Head
   url: "https://link.springer.com/chapter/10.1007/978-3-030-87602-9_20"
   authors: |
     H. Tao, Y. Qiao, L. Zhang, Y. Zhan, Z. Xue, and Q. Wang
@@ -379,7 +444,7 @@
   year: "2020"
   location: "Lima, Peru"
 - title: |
-    Semantic Hierarchy Guided Registration Networks for Intra-subject Pulmonary CT Image Alignment
+    Semantic Hierarchy Guided Registration Networks for Intra-Subject Pulmonary CT Image Alignment
   url: "https://doi.org/10.1007/978-3-030-59716-0_18"
   authors: |
     L. Chen, X. Cao, L. Chen, Y. Gao, D. Shen, Q. Wang, and Z. Xue
@@ -407,10 +472,11 @@
   url: "https://doi.org/10.1007/978-3-030-59861-7_25"
   authors: |
     B. Xiao, N. He, Q. Wang, Z. Xue, L. Chen, F. Yan, F. Shi, and D. Shen
+  venue: "Machine Learning in Medical Imaging"
   year: "2020"
   location: "Lima, Peru"
 - title: |
-    mr2NST: Multi-resolution and Multi-reference Neural Style Transfer for Mammography
+    mr2NST: Multi-Resolution and Multi-Reference Neural Style Transfer for Mammography
   url: "https://doi.org/10.1007/978-3-030-59354-4_16"
   authors: |
     S. Wang, J. Huo, X. Ouyang, J. Che, Z. Xue, D. Shen, Q. Wang, and J.-Z. Cheng
@@ -418,7 +484,7 @@
   year: "2020"
   location: "Lima, Peru"
 - title: |
-    A Self-ensembling Framework for Semi-supervised Knee Cartilage Defects Assessment with Dual-Consistency
+    A Self-Ensembling Framework for Semi-Supervised Knee Cartilage Defects Assessment with Dual-Consistency
   url: "https://doi.org/10.1007/978-3-030-59354-4_19"
   authors: |
     J. Huo, L. Si, X. Ouyang, K. Xuan, W. Yao, Z. Xue, Q. Wang, D. Shen, and L. Zhang
@@ -456,7 +522,7 @@
   venue: "IEEE 17th International Symposium on Biomedical Imaging (ISBI)"
   year: "2020"
 - title: |
-    Can radiomics features boost the performance of deep learning upon histology images?
+    Can Radiomics Features Boost the Performance of Deep Learning upon Histology Images?
   url: "https://doi.org/10.1109/ICMIPE47306.2019.9098220"
   authors: |
     M. H. Obiols, Y. Jiao, and Q. Wang
@@ -480,7 +546,7 @@
   year: "2019"
   location: "Shenzhen, China"
 - title: |
-    Weakly Supervised Segmentation Framework with Uncertainty: A Study on Pneumothorax Segmentation in Chest X-ray
+    Weakly Supervised Segmentation Framework with Uncertainty: A Study on Pneumothorax Segmentation in Chest X-Ray
   url: "https://doi.org/10.1007/978-3-030-32226-7_68"
   authors: |
     X. Ouyang, Z. Xue, Y. Zhan, X. S. Zhou, Q. Wang, Y. Zhou, Q. Wang, and J.-Z. Cheng
@@ -496,7 +562,7 @@
   year: "2019"
   location: "Shenzhen, China"
 - title: |
-    Pre-operative Overall Survival Time Prediction for Glioblastoma Patients Using Deep Learning on Both Imaging Phenotype and Genotype
+    Pre-Operative Overall Survival Time Prediction for Glioblastoma Patients Using Deep Learning on Both Imaging Phenotype and Genotype
   url: "https://doi.org/10.1007/978-3-030-32239-7_46"
   authors: |
     Z. Tang, Y. Xu, Z. Jiao, J. Lu, L. Jin, A. Aibaidula, J. Wu, Q. Wang, H. Zhang, and D. Shen
@@ -576,7 +642,7 @@
   year: "2018"
   location: "Granada, Spain"
 - title: |
-    Deep Learning Based Inter-modality Image Registration Supervised by Intra-modality Similarity
+    Deep Learning Based Inter-Modality Image Registration Supervised by Intra-Modality Similarity
   url: "https://doi.org/10.1007/978-3-030-00919-9_7"
   authors: |
     X. Cao, J. Yang, L. Wang, Z. Xue, Q. Wang, and D. Shen
@@ -584,7 +650,7 @@
   year: "2018"
   location: "Granada, Spain"
 - title: |
-    Latent3DU-net: Multi-level Latent Shape Space Constrained 3D U-net for Automatic Segmentation of the Proximal Femur from Radial MRI of the Hip
+    Latent3DU-Net: Multi-Level Latent Shape Space Constrained 3D U-Net for Automatic Segmentation of the Proximal Femur from Radial MRI of the Hip
   url: "https://doi.org/10.1007/978-3-030-00919-9_22"
   authors: |
     G. Zeng, Q. Wang, T. Lerch, F. Schmaranzer, M. Tannast, K. Siebenrock, and G. Zheng
@@ -615,7 +681,7 @@
   venue: "Medical Image Computing and Computer Assisted Intervention − MICCAI 2017"
   year: "2017"
 - title: |
-    Multi-label Inductive Matrix Completion for Joint MGMT and IDH1 Status Prediction for Glioma Patients
+    Multi-Label Inductive Matrix Completion for Joint MGMT and IDH1 Status Prediction for Glioma Patients
   url: "https://doi.org/10.1007/978-3-319-66185-8_51"
   authors: |
     L. Chen, H. Zhang, K.-H. Thung, L. Liu, J. Lu, J. Wu, Q. Wang, and D. Shen
@@ -636,7 +702,7 @@
   venue: "Patch-Based Techniques in Medical Imaging"
   year: "2017"
 - title: |
-    Sparse Multi-view Task-Centralized Learning for ASD Diagnosis
+    Sparse Multi-View Task-Centralized Learning for ASD Diagnosis
   url: "https://doi.org/10.1007/978-3-319-67389-9_19"
   authors: |
     J. Wang, Q. Wang, S. Wang, and D. Shen
@@ -683,7 +749,7 @@
   year: "2016"
   location: "Athens, Greece"
 - title: |
-    Automatic lung nodule classification with radiomics approach
+    Automatic Lung Nodule Classification with Radiomics Approach
   url: "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9789/978906/Automatic-lung-nodule-classification-with-radiomics-approach/10.1117/12.2220768.short"
   authors: |
     J. Ma, Q. Wang, Y. Ren, H. Hu, and J. Zhao
@@ -691,7 +757,7 @@
   year: "2016"
   location: "San Diego, California"
 - title: |
-    Automatic Hippocampus Labeling Using the Hierarchy of Sub-region Random Forests
+    Automatic Hippocampus Labeling Using the Hierarchy of Sub-Region Random Forests
   url: "https://doi.org/10.1007/978-3-319-28194-0_3"
   authors: |
     L. Zhang, Q. Wang, Y. Gao, G. Wu, and D. Shen
@@ -699,7 +765,7 @@
   year: "2015"
   location: "Munich, Germany"
 - title: |
-    Image Super-Resolution by Supervised Adaption of Patchwise Self-similarity from High-Resolution Image
+    Image Super-Resolution by Supervised Adaption of Patchwise Self-Similarity from High-Resolution Image
   url: "https://doi.org/10.1007/978-3-319-28194-0_2"
   authors: |
     G. Wu, X. Zhu, Q. Wang, and D. Shen
@@ -707,7 +773,7 @@
   year: "2015"
   location: "Munich, Germany"
 - title: |
-    Dual-Layer L1-Graph Embedding for Semi-supervised Image Labeling
+    Dual-Layer L1-Graph Embedding for Semi-Supervised Image Labeling
   url: ""
   authors: |
     Q. Wang, G. Wu, and D. Shen
@@ -715,7 +781,7 @@
   year: "2015"
   location: "Munich, Germany"
 - title: |
-    Multi-atlas Context Forests for Knee MR Image Segmentation
+    Multi-Atlas Context Forests for Knee MR Image Segmentation
   url: "https://doi.org/10.1007/978-3-319-24888-2_23"
   authors: |
     Q. Liu, Q. Wang, L. Zhang, Y. Gao, and D. Shen
@@ -799,7 +865,7 @@
   year: "2012"
   location: "Nice, France"
 - title: |
-    An image processing approach to compensate for the bladder wall motion and deformation in MR cystography
+    An Image Processing Approach to Compensate for the Bladder Wall Motion and Deformation in MR Cystography
   url: "https://doi.org/10.1109/NSSMIC.2011.6152554"
   authors: |
     Q. Lin, Z. Liang, H. Li, S. Jambawalikar, Q. Wang, B. Phillips, W. Waltzer, M. Zawin, D. Harrington, and X. He
@@ -842,7 +908,7 @@
   year: "2011"
   location: "Kloster Irsee, Germany"
 - title: |
-    iTree: Fast and accurate image registration based on the combinative and incremental tree
+    iTree: Fast and Accurate Image Registration Based on the Combinative and Incremental Tree
   url: "https://doi.org/10.1109/ISBI.2011.5872627"
   authors: |
     H. Jia, G. Wu, Q. Wang, M. Kim, and D. Shen
@@ -882,7 +948,7 @@
   year: "2010"
   location: "Beijing, China"
 - title: |
-    ABSORB: Atlas building by Self-Organized Registration and Bundling
+    ABSORB: Atlas Building by Self-Organized Registration and Bundling
   url: "https://doi.org/10.1109/CVPR.2010.5540007"
   authors: |
     H. Jia, G. Wu, Q. Wang, and D. Shen
@@ -890,7 +956,7 @@
   year: "2010"
   location: "San Francisco, California"
 - title: |
-    Groupwise registration from exemplar to group mean: Extending HAMMER to groupwise registration
+    Groupwise Registration from Exemplar to Group Mean: Extending HAMMER to Groupwise Registration
   url: "https://doi.org/10.1109/ISBI.2010.5490327"
   authors: |
     G. Wu, P.-T. Yap, Q. Wang, and D. Shen
@@ -906,7 +972,7 @@
   year: "2009"
   location: "London, United Kingdom"
 - title: |
-    Group-wise registration of large image dataset by hierarchical clustering and alignment
+    Group-Wise Registration of Large Image Dataset by Hierarchical Clustering and Alignment
   url: "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7259/72590N/Group-wise-registration-of-large-image-dataset-by-hierarchical-clustering/10.1117/12.811384.short"
   authors: |
     Q. Wang, L. Chen, and D. Shen
@@ -914,7 +980,7 @@
   year: "2009"
   location: "Florida, United States"
 - title: |
-    Fast histogram equalization for medical image enhancement
+    Fast Histogram Equalization for Medical Image Enhancement
   url: "https://doi.org/10.1109/IEMBS.2008.4649636"
   authors: |
     Q. Wang, L. Chen, and D. Shen

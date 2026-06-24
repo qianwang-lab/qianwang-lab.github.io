@@ -28,7 +28,7 @@ layout: page
     <h2>Paper</h2>
   </div>
   <div class="miil-paper-card">
-    <div class="miil-paper-title"><a href="https://arxiv.org/abs/2511.00381">VisionCAD: An Integration-Free Radiology Copilot Framework</a></div>
+    <div class="miil-paper-title"><a href="https://arxiv.org/abs/2511.00381" target="_blank" rel="noopener noreferrer">VisionCAD: An Integration-Free Radiology Copilot Framework</a></div>
     <div class="miil-paper-authors">Jiaming Li, Junlei Wu, Sheng Wang, Honglin Xiong, Jiangdong Cai, Zihao Zhao, Yitao Zhu, Yuan Yin, Dinggang Shen, Qian Wang</div>
     <div class="miil-paper-venue">arXiv, 2025</div>
     <div class="miil-paper-links">
