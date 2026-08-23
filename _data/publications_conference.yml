@@ -20,13 +20,6 @@
   year: "2026"
   location: "Strasbourg, France"
 - title: |
-    Restoring Volumetric Consistency for Slice-Wise MRI Synthesis via Spatial Aware Rectified Flow Matching
-  authors: |
-    Y. Chen, H. Xiong, F. Shi, J. Shi, D. Shen, and Q. Wang
-  venue: "Medical Image Computing and Computer Assisted Intervention – MICCAI 2026"
-  year: "2026"
-  location: "Strasbourg, France"
-- title: |
     EvoMed: Self-Evolving Medical VLM via Training-Free Continued Learning
   authors: |
     J. Li, H. Xiong, and Q. Wang
