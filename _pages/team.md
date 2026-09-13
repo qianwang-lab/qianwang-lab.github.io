@@ -230,12 +230,6 @@ layout: page
 <div class="miil-team-grid">
 
 <div class="miil-member-card">
-  <div class="avatar"><img src="/assets/images/uploads/2025/08/yin_yuan.jpg" alt="Yuan Yin"></div>
-  <div class="name">Yuan Yin</div>
-  <div class="role">Undergraduate</div>
-</div>
-
-<div class="miil-member-card">
   <div class="avatar"><span class="initials">ZJ</span></div>
   <div class="name">Zhuoxin Jiang</div>
   <div class="role">Undergraduate</div>
@@ -256,6 +250,12 @@ layout: page
 <div class="miil-member-card">
   <div class="avatar"><span class="initials">SY</span></div>
   <div class="name">Shicheng Yao</div>
+  <div class="role">Undergraduate</div>
+</div>
+
+<div class="miil-member-card">
+  <div class="avatar"><span class="initials">WJ</span></div>
+  <div class="name">Wenbo Jiang</div>
   <div class="role">Undergraduate</div>
 </div>
 

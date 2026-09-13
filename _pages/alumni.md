@@ -279,6 +279,10 @@ layout: page
 <h3>Bachelor Graduates</h3>
 
 <div class="miil-alumni-entry">
+  <span class="alumni-name">YIN Yuan</span> — <span class="alumni-year">2026</span>
+</div>
+
+<div class="miil-alumni-entry">
   <span class="alumni-name">KONG Yan</span> — <span class="alumni-year">2025</span><br>
   <span class="alumni-now">Now at Nanjing University</span>
 </div>
