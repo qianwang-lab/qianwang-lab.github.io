@@ -9,6 +9,13 @@ layout: page
 <h3>PhD Graduates</h3>
 
 <div class="miil-alumni-entry">
+  <span class="alumni-name">XIONG Honglin</span> — <span class="alumni-year">2026</span><br>
+  <span class="alumni-thesis">"Research on Key Methods and Applications of Cross-Contrast Magnetic Resonance Image Synthesis"
+  <span class="alumni-now">Now at HONOR</span>
+</span>
+</div>
+
+<div class="miil-alumni-entry">
   <span class="alumni-name"><a href="https://zhenrongshen.github.io/">SHEN Zhenrong</a></span> — <span class="alumni-year">2025</span><br>
   <span class="alumni-thesis">"Research on Controllable Medical Image Synthesis Methods for Intelligent Disease Diagnosis"</span><br>
   <span class="alumni-now">Now at University of Manchester</span>

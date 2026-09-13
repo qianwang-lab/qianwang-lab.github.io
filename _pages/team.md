@@ -22,13 +22,6 @@ layout: page
 <div class="miil-team-grid">
 
 <div class="miil-member-card">
-  <div class="avatar"><span class="initials">HX</span></div>
-  <div class="name">Honglin Xiong</div>
-  <div class="role">PhD Candidate</div>
-  <div class="topic"></div>
-</div>
-
-<div class="miil-member-card">
   <div class="avatar"><img src="/assets/images/uploads/2023/10/li-feng.png" alt="Feng Li"></div>
   <div class="name">Feng Li</div>
   <div class="role">PhD Candidate</div>
@@ -94,6 +87,27 @@ layout: page
 <div class="miil-member-card">
   <div class="avatar"><img src="/assets/images/uploads/2024/10/zhong-aocheng.jpeg" alt="Aocheng Zhong"></div>
   <div class="name">Aocheng Zhong</div>
+  <div class="role">PhD Candidate</div>
+  <div class="topic"></div>
+</div>
+
+<div class="miil-member-card">
+  <div class="avatar"><span class="initials">RX</span></div>
+  <div class="name">Ruihan Xiang</div>
+  <div class="role">PhD Candidate</div>
+  <div class="topic"></div>
+</div>
+
+<div class="miil-member-card">
+  <div class="avatar"><span class="initials">ZL</span></div>
+  <div class="name">Ziyu Li</div>
+  <div class="role">PhD Candidate</div>
+  <div class="topic"></div>
+</div>
+
+<div class="miil-member-card">
+  <div class="avatar"><span class="initials">JZ</span></div>
+  <div class="name">Jinxian Zhang</div>
   <div class="role">PhD Candidate</div>
   <div class="topic"></div>
 </div>
@@ -174,6 +188,41 @@ layout: page
   <div class="topic"></div>
 </div>
 
+<div class="miil-member-card">
+  <div class="avatar"><span class="initials">BL</span></div>
+  <div class="name">Binghan Li</div>
+  <div class="role">MSc Student</div>
+  <div class="topic"></div>
+</div>
+
+<div class="miil-member-card">
+  <div class="avatar"><span class="initials">JZ</span></div>
+  <div class="name">Jiarui Zhou</div>
+  <div class="role">MSc Student</div>
+  <div class="topic"></div>
+</div>
+
+<div class="miil-member-card">
+  <div class="avatar"><span class="initials">LW</span></div>
+  <div class="name">Lihui Wang</div>
+  <div class="role">MSc Student</div>
+  <div class="topic"></div>
+</div>
+
+<div class="miil-member-card">
+  <div class="avatar"><span class="initials">XL</span></div>
+  <div class="name">Xuanyu Liu</div>
+  <div class="role">MSc Student</div>
+  <div class="topic"></div>
+</div>
+
+<div class="miil-member-card">
+  <div class="avatar"><span class="initials">SY</span></div>
+  <div class="name">Sicun Yang</div>
+  <div class="role">MSc Student</div>
+  <div class="topic"></div>
+</div>
+
 </div>
 
 <!-- Undergraduate Students -->
@@ -183,18 +232,6 @@ layout: page
 <div class="miil-member-card">
   <div class="avatar"><img src="/assets/images/uploads/2025/08/yin_yuan.jpg" alt="Yuan Yin"></div>
   <div class="name">Yuan Yin</div>
-  <div class="role">Undergraduate</div>
-</div>
-
-<div class="miil-member-card">
-  <div class="avatar"><span class="initials">JZ</span></div>
-  <div class="name">Jiarui Zhou</div>
-  <div class="role">Undergraduate</div>
-</div>
-
-<div class="miil-member-card">
-  <div class="avatar"><span class="initials">LW</span></div>
-  <div class="name">Lihui Wang</div>
   <div class="role">Undergraduate</div>
 </div>
 
