@@ -1,5 +1,6 @@
 - title: |
     TracerAD: Training-Free Few-Shot 3D Anomaly Detection for Novel PET Tracers
+  url: "https://papers.miccai.org/miccai-2026/1081-Paper3396.html"
   authors: |
     H. Huang, J. Wu, J. Lu, Z. Shen, X. Wang, C. Zuo, and Q. Wang
   venue: "Medical Image Computing and Computer Assisted Intervention – MICCAI 2026"
@@ -7,6 +8,7 @@
   location: "Strasbourg, France"
 - title: |
     PETFlux: Taming Natural Foundation Models for Accurate MRI-to-PET Synthesis
+  url: "https://papers.miccai.org/miccai-2026/0769-Paper0655.html"
   authors: |
     Y. Yin, H. Xiong, H. Huang, Y. Li, Y. Kong, Y. Zhu, Z. Jiang, K. Sun, D. Shen, and Q. Wang
   venue: "Medical Image Computing and Computer Assisted Intervention – MICCAI 2026"
@@ -14,6 +16,7 @@
   location: "Strasbourg, France"
 - title: |
     Diagnosing 3D Volumes from Camera Video: A Semantic-Robust Framework without Direct DICOM Access
+  url: "https://papers.miccai.org/miccai-2026/0274-Paper4759.html"
   authors: |
     J. Wu, H. Huang, J. Li, and Q. Wang
   venue: "Medical Image Computing and Computer Assisted Intervention – MICCAI 2026"
@@ -21,6 +24,7 @@
   location: "Strasbourg, France"
 - title: |
     EvoMed: Self-Evolving Medical VLM via Training-Free Continued Learning
+  url: "https://papers.miccai.org/miccai-2026/0359-Paper4228.html"
   authors: |
     J. Li, H. Xiong, and Q. Wang
   venue: "Medical Image Computing and Computer Assisted Intervention – MICCAI 2026"
@@ -28,6 +32,7 @@
   location: "Strasbourg, France"
 - title: |
     CerviThink: A Reinforced Visual Reasoning Framework for Cervical Cancer Cell Classification
+  url: "https://papers.miccai.org/miccai-2026/0161-Paper5232.html"
   authors: |
     M. Fei, H. Jiang, Z. Yi, Q. Wang, and L. Zhang
   venue: "Medical Image Computing and Computer Assisted Intervention – MICCAI 2026"
@@ -35,6 +40,7 @@
   location: "Strasbourg, France"
 - title: |
     MedTriFlow: Efficient Resolution-Agnostic 3D Medical Image Generation with Implicit Triplane Representation
+  url: "https://papers.miccai.org/miccai-2026/0644-Paper0683.html"
   authors: |
     C. Xu, Y. Dou, T. Luo, Q. Wang, and Z. Cui
   venue: "Medical Image Computing and Computer Assisted Intervention – MICCAI 2026"
